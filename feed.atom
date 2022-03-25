@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nushell.sh/</id>
     <title>Nushell Blog</title>
-    <updated>2022-03-25T01:11:26.484Z</updated>
+    <updated>2022-03-25T05:47:21.568Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://www.nushell.sh/blog"/>
     <link rel="self" href="https://www.nushell.sh/feed.atom"/>
