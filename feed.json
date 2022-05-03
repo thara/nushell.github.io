@@ -5,6 +5,13 @@
     "feed_url": "https://www.nushell.sh/feed.json",
     "items": [
         {
+            "id": "https://www.nushell.sh/blog/2022-05-03-nushell_0_62.html",
+            "url": "https://www.nushell.sh/blog/2022-05-03-nushell_0_62.html",
+            "title": "Nushell 0.62",
+            "summary": "Nushell 0.62\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing version 0.62 of Nu. This release deeper integration with sqlite, new completion logic, and much more.",
+            "date_modified": "2022-05-03T00:00:00.000Z"
+        },
+        {
             "id": "https://www.nushell.sh/blog/2022-04-12-nushell_0_61.html",
             "url": "https://www.nushell.sh/blog/2022-04-12-nushell_0_61.html",
             "title": "Nushell 0.61",
@@ -144,13 +151,6 @@
             "summary": "Nushell 0.30\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing 0.30 of Nu. This release adds big improvements to performance and simplicity of the engine.",
             "image": "https://www.nushell.sh/../assets/images/0_30_0_speed.png",
             "date_modified": "2021-04-20T00:00:00.000Z"
-        },
-        {
-            "id": "https://www.nushell.sh/blog/2021-03-30-nushell_0_29.html",
-            "url": "https://www.nushell.sh/blog/2021-03-30-nushell_0_29.html",
-            "title": "Nushell 0.29",
-            "summary": "Nushell 0.29\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing 0.29 of Nu. This release adds more polish for paths, streaming, and more.",
-            "date_modified": "2021-03-30T00:00:00.000Z"
         }
     ]
 }
