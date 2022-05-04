@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nushell.sh/</id>
     <title>Nushell Blog</title>
-    <updated>2022-05-03T23:18:12.368Z</updated>
+    <updated>2022-05-04T00:47:24.155Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://www.nushell.sh/blog"/>
     <link rel="self" href="https://www.nushell.sh/feed.atom"/>
@@ -15,7 +15,7 @@
         <updated>2022-05-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Nushell 0.62
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
-Today, we're releasing version 0.62 of Nu. This release deeper integration with sqlite, new completion logic, and much more.]]></summary>
+Today, we're releasing version 0.62 of Nu. This release deeper integration with SQLite, new completion logic, and much more.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nushell 0.61]]></title>
