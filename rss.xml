@@ -4,7 +4,7 @@
         <title>Nushell Blog</title>
         <link>https://www.nushell.sh/blog</link>
         <description></description>
-        <lastBuildDate>Wed, 25 May 2022 11:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 11:03:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://www.nushell.sh/feed.atom" rel="self" type="application/rss+xml"/>
