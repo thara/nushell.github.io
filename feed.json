@@ -5,6 +5,13 @@
     "feed_url": "https://www.nushell.sh/feed.json",
     "items": [
         {
+            "id": "https://www.nushell.sh/blog/2022-05-24-nushell-0_63_0.html",
+            "url": "https://www.nushell.sh/blog/2022-05-24-nushell-0_63_0.html",
+            "title": "Nushell 0.63",
+            "summary": "Nushell 0.63\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing version 0.63 of Nu. This release is the first to include the 'overlays' feature, hooks, lazy dataframes, and more.",
+            "date_modified": "2022-05-24T00:00:00.000Z"
+        },
+        {
             "id": "https://www.nushell.sh/blog/2022-05-03-nushell_0_62.html",
             "url": "https://www.nushell.sh/blog/2022-05-03-nushell_0_62.html",
             "title": "Nushell 0.62",
@@ -143,14 +150,6 @@
             "title": "Nushell 0.31",
             "summary": "Nushell 0.31\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing 0.31 of Nu. This release includes continued polish of the engine and commands.",
             "date_modified": "2021-05-11T00:00:00.000Z"
-        },
-        {
-            "id": "https://www.nushell.sh/blog/2021-04-20-nushell_0_30.html",
-            "url": "https://www.nushell.sh/blog/2021-04-20-nushell_0_30.html",
-            "title": "Nushell 0.30",
-            "summary": "Nushell 0.30\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing 0.30 of Nu. This release adds big improvements to performance and simplicity of the engine.",
-            "image": "https://www.nushell.sh/../assets/images/0_30_0_speed.png",
-            "date_modified": "2021-04-20T00:00:00.000Z"
         }
     ]
 }
