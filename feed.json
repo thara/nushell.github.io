@@ -5,8 +5,8 @@
     "feed_url": "https://www.nushell.sh/feed.json",
     "items": [
         {
-            "id": "https://www.nushell.sh/blog/2022-05-24-nushell-0_63_0.html",
-            "url": "https://www.nushell.sh/blog/2022-05-24-nushell-0_63_0.html",
+            "id": "https://www.nushell.sh/blog/2022-05-24-nushell-0_63.html",
+            "url": "https://www.nushell.sh/blog/2022-05-24-nushell-0_63.html",
             "title": "Nushell 0.63",
             "summary": "Nushell 0.63\nNushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.\nToday, we're releasing version 0.63 of Nu. This release is the first to include the 'overlays' feature, hooks, lazy dataframes, and more.",
             "date_modified": "2022-05-24T00:00:00.000Z"
