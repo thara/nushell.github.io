@@ -1,0 +1,2 @@
+const t={key:"v-7b6d23fc",path:"/book/commands/math_sqrt.html",title:"math sqrt",lang:"English",frontmatter:{title:"math sqrt",layout:"command",version:"0.63.0",usage:`Applies the square root function to a list of numbers
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/math_sqrt.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-0ad8946c",path:"/old_book/commands/to-url.html",title:"to url",lang:"English",frontmatter:{title:"to url",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/to-url.md"};export{t as data};

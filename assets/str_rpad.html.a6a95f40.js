@@ -1,0 +1,2 @@
+const e={key:"v-3fe47e10",path:"/book/commands/str_rpad.html",title:"str rpad",lang:"English",frontmatter:{title:"str rpad",layout:"command",version:"0.63.0",usage:`Right-pad a string to a specific length
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/str_rpad.md"};export{e as data};

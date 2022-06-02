@@ -1,0 +1,1 @@
+const o={key:"v-91cd4dce",path:"/old_book/coming_from_bash.html",title:"Coming from Bash",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/coming_from_bash.md"};export{o as data};

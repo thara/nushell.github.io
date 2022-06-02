@@ -1,0 +1,1 @@
+const e={key:"v-025d6446",path:"/old_book/commands/prepend.html",title:"prepend",lang:"English",frontmatter:{title:"prepend",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/prepend.md"};export{e as data};

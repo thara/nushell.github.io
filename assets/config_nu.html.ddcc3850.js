@@ -1,0 +1,2 @@
+const t={key:"v-582b57a2",path:"/book/commands/config_nu.html",title:"config nu",lang:"English",frontmatter:{title:"config nu",layout:"command",version:"0.63.0",usage:`Edit nu configurations
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/config_nu.md"};export{t as data};

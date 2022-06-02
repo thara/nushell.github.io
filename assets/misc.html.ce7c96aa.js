@@ -1,0 +1,1 @@
+const t={key:"v-713657c8",path:"/cookbook/misc.html",title:"Miscellaneous",lang:"English",frontmatter:{title:"Miscellaneous"},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"cookbook/misc.md"};export{t as data};

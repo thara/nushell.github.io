@@ -1,0 +1,2 @@
+const t={key:"v-3835757f",path:"/book/commands/into.html",title:"into",lang:"English",frontmatter:{title:"into",layout:"command",version:"0.63.0",usage:`Commands to convert data from one type to another.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/into.md"};export{t as data};

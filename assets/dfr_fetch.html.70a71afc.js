@@ -1,0 +1,2 @@
+const e={key:"v-f89af2f0",path:"/book/commands/dfr_fetch.html",title:"dfr fetch",lang:"English",frontmatter:{title:"dfr fetch",layout:"command",version:"0.63.0",usage:`collects the lazyframe to the selected rows
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_fetch.md"};export{e as data};

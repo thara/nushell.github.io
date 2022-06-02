@@ -1,0 +1,2 @@
+const t={key:"v-0a31cafc",path:"/book/commands/dfr_to-lazy.html",title:"dfr to-lazy",lang:"English",frontmatter:{title:"dfr to-lazy",layout:"command",version:"0.63.0",usage:`Converts a dataframe into a lazy dataframe
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_to-lazy.md"};export{t as data};

@@ -1,0 +1,2 @@
+const t={key:"v-5a9f677e",path:"/book/commands/split_row.html",title:"split row",lang:"English",frontmatter:{title:"split row",layout:"command",version:"0.63.0",usage:`Split a string into multiple rows using a separator
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/split_row.md"};export{t as data};

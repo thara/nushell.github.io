@@ -1,0 +1,1 @@
+const t={key:"v-0b3741a4",path:"/old_book/commands/ps.html",title:"ps",lang:"English",frontmatter:{title:"ps",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/ps.md"};export{t as data};

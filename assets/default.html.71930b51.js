@@ -1,0 +1,2 @@
+const e={key:"v-4b38331c",path:"/book/commands/default.html",title:"default",lang:"English",frontmatter:{title:"default",layout:"command",version:"0.63.0",usage:`Sets a default row's column if missing.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/default.md"};export{e as data};
