@@ -1,2 +1,0 @@
-const e={key:"v-6d144bf6",path:"/book/commands/cal.html",title:"cal",lang:"English",frontmatter:{title:"cal",layout:"command",version:"0.63.0",usage:`Display a calendar.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/cal.md"};export{e as data};

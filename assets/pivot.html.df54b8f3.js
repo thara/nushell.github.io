@@ -1,0 +1,2 @@
+const e={key:"v-49b7e0de",path:"/book/commands/pivot.html",title:"pivot",lang:"English",frontmatter:{title:"pivot",layout:"command",version:"0.63.0",usage:`Deprecated command
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/pivot.md"};export{e as data};

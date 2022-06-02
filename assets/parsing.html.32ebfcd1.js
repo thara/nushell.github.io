@@ -1,0 +1,1 @@
+const e={key:"v-7781edee",path:"/cookbook/parsing.html",title:"Parsing",lang:"English",frontmatter:{title:"Parsing"},excerpt:"",headers:[],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"cookbook/parsing.md"};export{e as data};

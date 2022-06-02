@@ -1,0 +1,2 @@
+const t={key:"v-3edc2182",path:"/book/commands/str.html",title:"str",lang:"English",frontmatter:{title:"str",layout:"command",version:"0.63.0",usage:`Various commands for working with string data
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/str.md"};export{t as data};

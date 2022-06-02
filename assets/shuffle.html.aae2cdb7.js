@@ -1,1 +1,0 @@
-const e={key:"v-82a8e55c",path:"/old_book/commands/shuffle.html",title:"shuffle",lang:"English",frontmatter:{title:"shuffle",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/shuffle.md"};export{e as data};

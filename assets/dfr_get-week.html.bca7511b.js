@@ -1,0 +1,2 @@
+const e={key:"v-7b17b2e5",path:"/book/commands/dfr_get-week.html",title:"dfr get-week",lang:"English",frontmatter:{title:"dfr get-week",layout:"command",version:"0.63.0",usage:`Gets week from date
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_get-week.md"};export{e as data};

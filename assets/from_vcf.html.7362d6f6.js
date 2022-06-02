@@ -1,0 +1,2 @@
+const e={key:"v-e6ce23ca",path:"/book/commands/from_vcf.html",title:"from vcf",lang:"English",frontmatter:{title:"from vcf",layout:"command",version:"0.63.0",usage:`Parse text as .vcf and create table.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/from_vcf.md"};export{e as data};

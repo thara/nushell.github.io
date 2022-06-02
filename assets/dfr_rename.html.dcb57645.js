@@ -1,0 +1,2 @@
+const e={key:"v-071cbd52",path:"/book/commands/dfr_rename.html",title:"dfr rename",lang:"English",frontmatter:{title:"dfr rename",layout:"command",version:"0.63.0",usage:`Renames a series
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_rename.md"};export{e as data};

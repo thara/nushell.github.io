@@ -1,0 +1,2 @@
+const e={key:"v-05c60824",path:"/book/commands/match.html",title:"match",lang:"English",frontmatter:{title:"match",layout:"command",version:"0.63.0",usage:`Deprecated command
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/match.md"};export{e as data};

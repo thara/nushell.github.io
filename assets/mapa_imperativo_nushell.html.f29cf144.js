@@ -1,1 +1,0 @@
-const e={key:"v-7a039746",path:"/es/book/mapa_imperativo_nushell.html",title:"Mapa nushell de lenguajes imperativos",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"es/book/mapa_imperativo_nushell.md"};export{e as data};

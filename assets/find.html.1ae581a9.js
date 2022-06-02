@@ -1,2 +1,0 @@
-const e={key:"v-23d795c6",path:"/book/commands/find.html",title:"find",lang:"English",frontmatter:{title:"find",layout:"command",version:"0.63.0",usage:`Searches terms in the input or for elements of the input that satisfies the predicate.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/find.md"};export{e as data};

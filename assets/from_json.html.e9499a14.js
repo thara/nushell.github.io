@@ -1,2 +1,0 @@
-const e={key:"v-510c0154",path:"/book/commands/from_json.html",title:"from json",lang:"English",frontmatter:{title:"from json",layout:"command",version:"0.63.0",usage:`Convert from json to structured data
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/from_json.md"};export{e as data};

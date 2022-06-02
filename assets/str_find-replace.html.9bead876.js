@@ -1,0 +1,2 @@
+const e={key:"v-a361749e",path:"/book/commands/str_find-replace.html",title:"str find-replace",lang:"English",frontmatter:{title:"str find-replace",layout:"command",version:"0.63.0",usage:`Deprecated command
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/str_find-replace.md"};export{e as data};

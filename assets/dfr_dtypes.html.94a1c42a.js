@@ -1,2 +1,0 @@
-const e={key:"v-18bcfc5b",path:"/book/commands/dfr_dtypes.html",title:"dfr dtypes",lang:"English",frontmatter:{title:"dfr dtypes",layout:"command",version:"0.63.0",usage:`Show dataframe data types
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_dtypes.md"};export{e as data};

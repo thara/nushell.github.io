@@ -1,2 +1,0 @@
-const e={key:"v-17081d4c",path:"/book/commands/dfr_is-in.html",title:"dfr is-in",lang:"English",frontmatter:{title:"dfr is-in",layout:"command",version:"0.63.0",usage:`Checks if elements from a series are contained in right series
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_is-in.md"};export{e as data};

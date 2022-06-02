@@ -1,0 +1,2 @@
+const e={key:"v-cfa74478",path:"/book/commands/mkdir.html",title:"mkdir",lang:"English",frontmatter:{title:"mkdir",layout:"command",version:"0.63.0",usage:`Make directories, creates intermediary directories as required.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/mkdir.md"};export{e as data};

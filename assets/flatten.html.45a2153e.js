@@ -1,0 +1,2 @@
+const e={key:"v-53433c8f",path:"/book/commands/flatten.html",title:"flatten",lang:"English",frontmatter:{title:"flatten",layout:"command",version:"0.63.0",usage:`Flatten the table.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/flatten.md"};export{e as data};

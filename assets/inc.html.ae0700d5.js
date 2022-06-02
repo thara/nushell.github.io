@@ -1,0 +1,2 @@
+const e={key:"v-4ddb6816",path:"/book/commands/inc.html",title:"inc",lang:"English",frontmatter:{title:"inc",layout:"command",version:"0.60.1",usage:`Increment a value or version. Optionally use the column of a table.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/inc.md"};export{e as data};

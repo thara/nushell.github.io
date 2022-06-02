@@ -1,0 +1,1 @@
+const e={key:"v-676a09d5",path:"/book/nushell_operator_map.html",title:"Nushell operator map",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/nushell_operator_map.md"};export{e as data};

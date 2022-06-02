@@ -1,1 +1,0 @@
-const e={key:"v-7e0eacc0",path:"/book/nushell_map.html",title:"Nu map from other shells and domain specific languages",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/nushell_map.md"};export{e as data};

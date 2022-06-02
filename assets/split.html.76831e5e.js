@@ -1,0 +1,2 @@
+const e={key:"v-79ae47b9",path:"/book/commands/split.html",title:"split",lang:"English",frontmatter:{title:"split",layout:"command",version:"0.63.0",usage:`Split contents across desired subcommand (like row, column) via the separator.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/split.md"};export{e as data};
