@@ -1,0 +1,1 @@
+const t={key:"v-c17e8d5e",path:"/de/book/",title:"Einf\xFChrung",lang:"Deutsch",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"de/book/README.md"};export{t as data};

@@ -1,1 +1,0 @@
-const e={key:"v-41d7ee47",path:"/ja/book/coming_from_bash.html",title:"Bash \u304B\u3089\u6765\u305F\u4EBA\u5411\u3051",lang:"ja",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"ja/book/coming_from_bash.md"};export{e as data};

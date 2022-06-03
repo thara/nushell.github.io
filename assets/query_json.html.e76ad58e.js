@@ -1,0 +1,2 @@
+const e={key:"v-173ba0c0",path:"/book/commands/query_json.html",title:"query json",lang:"English",frontmatter:{title:"query json",version:"0.63.0",usage:`execute json query on json file (open --raw <file> | query json 'query string')
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/query_json.md"};export{e as data};

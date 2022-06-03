@@ -1,2 +1,0 @@
-const e={key:"v-7c0ce11b",path:"/book/commands/date_humanize.html",title:"date humanize",lang:"English",frontmatter:{title:"date humanize",layout:"command",version:"0.63.0",usage:`Print a 'humanized' format for the date, relative to now.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/date_humanize.md"};export{e as data};

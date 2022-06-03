@@ -1,0 +1,2 @@
+const e={key:"v-23a9d014",path:"/book/commands/seq.html",title:"seq",lang:"English",frontmatter:{title:"seq",version:"0.63.0",usage:`Print sequences of numbers.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/seq.md"};export{e as data};

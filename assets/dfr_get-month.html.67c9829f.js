@@ -1,2 +1,0 @@
-const e={key:"v-0a71a4d9",path:"/book/commands/dfr_get-month.html",title:"dfr get-month",lang:"English",frontmatter:{title:"dfr get-month",layout:"command",version:"0.63.0",usage:`Gets month from date
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_get-month.md"};export{e as data};

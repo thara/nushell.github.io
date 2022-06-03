@@ -1,2 +1,0 @@
-const e={key:"v-cad61df8",path:"/book/commands/url.html",title:"url",lang:"English",frontmatter:{title:"url",layout:"command",version:"0.63.0",usage:`Apply url function.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/url.md"};export{e as data};

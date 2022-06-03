@@ -1,0 +1,1 @@
+const e={key:"v-b13cea5a",path:"/old_book/commands/version.html",title:"version",lang:"English",frontmatter:{title:"version",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/version.md"};export{e as data};

@@ -1,2 +1,0 @@
-const e={key:"v-712d978c",path:"/book/commands/g.html",title:"g",lang:"English",frontmatter:{title:"g",layout:"command",version:"0.63.0",usage:`Switch to a given shell.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/g.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-3af010ce",path:"/es/book/llegando_de_bash.html",title:"Llegando desde Bash",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"es/book/llegando_de_bash.md"};export{e as data};

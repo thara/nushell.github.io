@@ -1,2 +1,0 @@
-const e={key:"v-ecea26b4",path:"/book/commands/fmt.html",title:"fmt",lang:"English",frontmatter:{title:"fmt",layout:"command",version:"0.63.0",usage:`Format a number
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/fmt.md"};export{e as data};

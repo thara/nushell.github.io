@@ -1,1 +1,0 @@
-const e={key:"v-78271759",path:"/es/book/aliases.html",title:"Aliases",lang:"es",frontmatter:{},excerpt:"",headers:[{level:2,title:"Par\xE1metros",slug:"parametros",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"es/book/aliases.md"};export{e as data};

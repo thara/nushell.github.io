@@ -1,2 +1,0 @@
-const e={key:"v-33a51b2a",path:"/book/commands/date_format.html",title:"date format",lang:"English",frontmatter:{title:"date format",layout:"command",version:"0.63.0",usage:`Format a given date using a format string.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/date_format.md"};export{e as data};

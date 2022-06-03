@@ -1,1 +1,0 @@
-const t={key:"v-31ec651d",path:"/book/metadata.html",title:"Metadata",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"pwygab",email:"88221256+merelymyself@users.noreply.github.com",commits:1}]},filePathRelative:"book/metadata.md"};export{t as data};
