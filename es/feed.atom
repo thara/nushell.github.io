@@ -3,7 +3,7 @@
   <id>www.nushell.sh/es/</id>
   <title>Nushell</title>
   <subtitle>Un nuevo tipo de shell.</subtitle>
-  <updated>2022-06-04T10:03:18.275Z</updated>
+  <updated>2022-06-04T11:48:56.665Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="www.nushell.sh/es/"/>
@@ -11,7 +11,7 @@
     <title type="html">Introducción</title>
     <id>www.nushell.sh/es/book/</id>
     <link href="www.nushell.sh/es/book/"/>
-    <updated>2022-06-04T10:03:18.383Z</updated>
+    <updated>2022-06-04T11:48:56.776Z</updated>
     <content type="html"><![CDATA[<h1 id="introduccion" tabindex="-1"> Introducción</h1>
 <p>Hola, y bienvenido al proyecto Nushell. El objetivo de este proyecto es tomar la filosofía Unix de shells, dónde tuberías <em>-pipes-</em> conectan comandos simples juntos y llevarlos al estilo moderno de desarrollo.</p>
 <p>Nu toma ideas de muchos territorios familiares: shells tradicionales como bash, shells basadas en objetos como PowerShell, programación funcional, programación de sistemas, y más. Pero, en lugar de ser un &quot;Todo en uno&quot;, Nu enfoca su energía en hacer algunas cosas bien:</p>
@@ -158,7 +158,7 @@ Flags:
     <title type="html">Aliases</title>
     <id>www.nushell.sh/es/book/aliases.html</id>
     <link href="www.nushell.sh/es/book/aliases.html"/>
-    <updated>2022-06-04T10:03:18.383Z</updated>
+    <updated>2022-06-04T11:48:56.776Z</updated>
     <content type="html"><![CDATA[<h1 id="aliases" tabindex="-1"> Aliases</h1>
 <p>La habilidad de Nu para componer tuberías largas permite tener bastante control de su sistema y datos, pero a costas de tipear mucho. Sería ideal que puedas grabar las tuberías bien elaboradas para hacer uso de esas las veces que quieras.</p>
 <p>Aquí es donde aparecen los aliases.</p>
@@ -186,7 +186,7 @@ Flags:
     <title type="html">Cargando datos</title>
     <id>www.nushell.sh/es/book/cargando_datos.html</id>
     <link href="www.nushell.sh/es/book/cargando_datos.html"/>
-    <updated>2022-06-04T10:03:18.384Z</updated>
+    <updated>2022-06-04T11:48:56.776Z</updated>
     <content type="html"><![CDATA[<h1 id="cargando-datos" tabindex="-1"> Cargando datos</h1>
 <p>Hemos visto como puedes usar comandos como <code>ls</code>, <code>ps</code>, <code>date</code>, y <code>sys</code> para cargar información sobre los archivos, procesos, hora de fecha, y del mismo sistema. Cada comando nos entrega una tabla de información que podemos explorar. Hay otras maneras de cargar datos en una tabla de datos para trabajar.</p>
 <h2 id="abriendo-archivos" tabindex="-1"> Abriendo archivos</h2>
@@ -325,7 +325,7 @@ license = "MIT"
     <title type="html">Configuración</title>
     <id>www.nushell.sh/es/book/configuracion.html</id>
     <link href="www.nushell.sh/es/book/configuracion.html"/>
-    <updated>2022-06-04T10:03:18.384Z</updated>
+    <updated>2022-06-04T11:48:56.776Z</updated>
     <content type="html"><![CDATA[<h1 id="configuracion" tabindex="-1"> Configuración</h1>
 <p>Nu tiene un número pequeño, pero creciente, de variables internas que puedes establecer cambios en su aspecto y funcionamiento. A continuación una lista de las variables actuales, sus tipos, y una descripción de cómo se utilizan:</p>
 <table>
@@ -459,7 +459,7 @@ license = "MIT"
     <title type="html">Entorno</title>
     <id>www.nushell.sh/es/book/entorno.html</id>
     <link href="www.nushell.sh/es/book/entorno.html"/>
-    <updated>2022-06-04T10:03:18.384Z</updated>
+    <updated>2022-06-04T11:48:56.777Z</updated>
     <content type="html"><![CDATA[<h1 id="entorno" tabindex="-1"> Entorno</h1>
 <p>Una tarea común al usar una shell es controlar el ambiente de entorno que aplicaciones externas usarán. Comúnmente esto sucede automáticamente, a medida que el entorno se empaqueta y se entrega a la aplicación externa cuando se inicia. Sin embargo, hay veces que vamos a desear tener control más preciso sobre qué variables de entorno una aplicación pueda ver.</p>
 <p>Puedes ver las variables de entorno actuales que se enviarán a las aplicaciones explorando <code>#nu.env</code>:</p>
@@ -484,7 +484,7 @@ VALOR
     <title type="html">Escapando al sistema</title>
     <id>www.nushell.sh/es/book/escapando.html</id>
     <link href="www.nushell.sh/es/book/escapando.html"/>
-    <updated>2022-06-04T10:03:18.384Z</updated>
+    <updated>2022-06-04T11:48:56.777Z</updated>
     <content type="html"><![CDATA[<h1 id="escapando-al-sistema" tabindex="-1"> Escapando al sistema</h1>
 <p>Nu proporciona una serie de comandos que puedes utilitar en diferentes sistemas operativos y tener esta consistencia es de gran ayuda. Sin embargo, a veces, quieres ejecutar un comando que también tiene el mismo nombre de los comandos de Nu. Para ejecutar el comando local <code>ls</code> o <code>date</code> fuera de Nu por ejemplo, usa el comando de intercalación (^).</p>
 <p>Comando de Nu:</p>
@@ -497,7 +497,7 @@ VALOR
     <title type="html">Explorando en el sistema</title>
     <id>www.nushell.sh/es/book/explorando.html</id>
     <link href="www.nushell.sh/es/book/explorando.html"/>
-    <updated>2022-06-04T10:03:18.384Z</updated>
+    <updated>2022-06-04T11:48:56.777Z</updated>
     <content type="html"><![CDATA[<h1 id="explorando-en-el-sistema" tabindex="-1"> Explorando en el sistema</h1>
 <p>Shells de antes permiten explorar el sistema de archivos y ejecutar comandos. Shells modernas como Nu permiten hacer lo mismo. Miremos algunos comandos comunes que puedas usar cuando interactues con el sistema.</p>
 <h2 id="ver-contenido-de-un-directorio" tabindex="-1"> Ver contenido de un directorio</h2>
@@ -553,7 +553,7 @@ VALOR
     <title type="html">Instalando Nu</title>
     <id>www.nushell.sh/es/book/instalacion.html</id>
     <link href="www.nushell.sh/es/book/instalacion.html"/>
-    <updated>2022-06-04T10:03:18.385Z</updated>
+    <updated>2022-06-04T11:48:56.777Z</updated>
     <content type="html"><![CDATA[<h1 id="instalando-nu" tabindex="-1"> Instalando Nu</h1>
 <p>La mejor manera actualmente para poner en marcha Nu es instalándolo a través de <a href="https://crates.io" target="_blank" rel="noopener noreferrer">crates.io</a>, descargando desde <a href="https://github.com/nushell/nushell/releases" target="_blank" rel="noopener noreferrer">nuestra página</a>, y compilar desde la fuente.</p>
 <h2 id="binarios" tabindex="-1"> Binarios</h2>
@@ -669,7 +669,7 @@ Puedes agregar Nu a la lista de shells válidas añadiendo el binario al archivo
     <title type="html">Llegando desde Bash</title>
     <id>www.nushell.sh/es/book/llegando_de_bash.html</id>
     <link href="www.nushell.sh/es/book/llegando_de_bash.html"/>
-    <updated>2022-06-04T10:03:18.385Z</updated>
+    <updated>2022-06-04T11:48:56.777Z</updated>
     <content type="html"><![CDATA[<h1 id="llegando-desde-bash" tabindex="-1"> Llegando desde Bash</h1>
 <p>Nota: Esta tabla asume Nushell 0.14.1 or posterior.</p>
 <table>
@@ -909,7 +909,7 @@ Puedes agregar Nu a la lista de shells válidas añadiendo el binario al archivo
     <title type="html">Mapa nushell de lenguajes funcionales</title>
     <id>www.nushell.sh/es/book/mapa_funcional_nushell.html</id>
     <link href="www.nushell.sh/es/book/mapa_funcional_nushell.html"/>
-    <updated>2022-06-04T10:03:18.385Z</updated>
+    <updated>2022-06-04T11:48:56.778Z</updated>
     <content type="html"><![CDATA[<h1 id="mapa-nushell-de-lenguajes-funcionales" tabindex="-1"> Mapa nushell de lenguajes funcionales</h1>
 <p>La idea detrás de esta tabla is ayudarte a entender como los comandos internos y plugins en Nu se relacionan con lenguajes funcionales. Hemos intentado producir un mapa de los comandos internos y sus equivalentes en otros lenguajes. Contribuciones son bienvenidas.</p>
 <p>Nota: Esta tabla asume Nu 0.14.1 o posterior.</p>
@@ -1770,7 +1770,7 @@ Puedes agregar Nu a la lista de shells válidas añadiendo el binario al archivo
     <title type="html">Mapa nushell de lenguajes imperativos</title>
     <id>www.nushell.sh/es/book/mapa_imperativo_nushell.html</id>
     <link href="www.nushell.sh/es/book/mapa_imperativo_nushell.html"/>
-    <updated>2022-06-04T10:03:18.386Z</updated>
+    <updated>2022-06-04T11:48:56.778Z</updated>
     <content type="html"><![CDATA[<h1 id="mapa-nushell-de-lenguajes-imperativos" tabindex="-1"> Mapa nushell de lenguajes imperativos</h1>
 <p>La idea detrás de esta tabla is ayudarte a entender como los comandos internos y plugins en Nu se relacionan con lenguajes imperativos. Hemos intentado producir un mapa de los comandos internos y sus equivalentes en otros lenguajes. Contribuciones son bienvenidas.</p>
 <p>Nota: esta tabla asume Nu 0.14.1 o posterior.</p>
@@ -2631,7 +2631,7 @@ Puedes agregar Nu a la lista de shells válidas añadiendo el binario al archivo
     <title type="html">Mapa nushell de otras shells y lenguajes DSLs</title>
     <id>www.nushell.sh/es/book/mapa_nushell.html</id>
     <link href="www.nushell.sh/es/book/mapa_nushell.html"/>
-    <updated>2022-06-04T10:03:18.386Z</updated>
+    <updated>2022-06-04T11:48:56.779Z</updated>
     <content type="html"><![CDATA[<h1 id="mapa-nushell-de-otras-shells-y-lenguajes-dsls" tabindex="-1"> Mapa nushell de otras shells y lenguajes DSLs</h1>
 <p>La idea detrás de esta tabla is ayudarte a entender como los comandos internos y plugins en Nu se relacionan con otras shells conocidas y lenguajes de dominio específicos. Hemos intentado producir un mapa de los comandos internos y sus equivalentes en otros lenguajes. Contribuciones son bienvenidas.</p>
 <p>Nota: Esta tabla asume Nu 0.14.1 o posterior.</p>
@@ -3499,7 +3499,7 @@ Puedes agregar Nu a la lista de shells válidas añadiendo el binario al archivo
     <title type="html">Mapa de operadores en Nushell</title>
     <id>www.nushell.sh/es/book/mapa_operador_nushell.html</id>
     <link href="www.nushell.sh/es/book/mapa_operador_nushell.html"/>
-    <updated>2022-06-04T10:03:18.386Z</updated>
+    <updated>2022-06-04T11:48:56.779Z</updated>
     <content type="html"><![CDATA[<h1 id="mapa-de-operadores-en-nushell" tabindex="-1"> Mapa de operadores en Nushell</h1>
 <p>La idea detrás de esta tabla is ayudarte a entender como los operadores en Nu se relacionan con operadores de otros lenguajes. Hemos intentado producir un mapa de los operadores y sus equivalentes en otros lenguajes. Contribuciones son bienvenidas.</p>
 <p>Nota: esta tabla asume Nu 0.14.1 o posterior.</p>
@@ -3651,7 +3651,7 @@ Puedes agregar Nu a la lista de shells válidas añadiendo el binario al archivo
     <title type="html">Matemáticas</title>
     <id>www.nushell.sh/es/book/matematicas.html</id>
     <link href="www.nushell.sh/es/book/matematicas.html"/>
-    <updated>2022-06-04T10:03:18.386Z</updated>
+    <updated>2022-06-04T11:48:56.779Z</updated>
     <content type="html"><![CDATA[<h1 id="matematicas" tabindex="-1"> Matemáticas</h1>
 <p>Hay veces que simplemente necesitas sumar un par de números cuando te encuentras resolviendo problemas. Nu ofrece un conjunto de operaciones matemáticas básicas que puedes utilizar. Expresiones matemáticas se encuentran disponibles cuando llamas a un comando.</p>
 <h2 id="sumar-restar-mupltiplicar-dividir" tabindex="-1"> Sumar, Restar, Mupltiplicar, Dividir</h2>
@@ -3707,7 +3707,7 @@ true
     <title type="html">Metadatos</title>
     <id>www.nushell.sh/es/book/metadatos.html</id>
     <link href="www.nushell.sh/es/book/metadatos.html"/>
-    <updated>2022-06-04T10:03:18.386Z</updated>
+    <updated>2022-06-04T11:48:56.779Z</updated>
     <content type="html"><![CDATA[<h1 id="metadatos" tabindex="-1"> Metadatos</h1>
 <p>Al usar Nu es posible que hayan momentos que has encontrado como si algo extra sucediera detrás de escenas. Por ejemplo digamos que intentas abrir un archivo soportado por Nu para luego olvidarte e intentar convertir nuevamente:</p>
 <div><pre><code>> open Cargo.toml | from toml
@@ -3742,7 +3742,7 @@ error: Expected a string from pipeline
     <title type="html">El pipeline</title>
     <id>www.nushell.sh/es/book/pipeline.html</id>
     <link href="www.nushell.sh/es/book/pipeline.html"/>
-    <updated>2022-06-04T10:03:18.387Z</updated>
+    <updated>2022-06-04T11:48:56.779Z</updated>
     <content type="html"><![CDATA[<h1 id="el-pipeline" tabindex="-1"> El pipeline</h1>
 <p>Uno de los diseños centrales de Nu es la tubería (pipeline), una idea de diseño que rastrea sus raíces décadas atrás hasta parte de la filosofía original detrás de Unix. Así como Nu extiende desde un solo dato tipo de cadena de Unix, Nu también extiende la idea de tuberías (pipelines) para incluir más que solo texto.</p>
 <h2 id="fundamentos" tabindex="-1"> Fundamentos</h2>
@@ -3772,7 +3772,7 @@ error: Expected a string from pipeline
     <title type="html">Complementos (plugins)</title>
     <id>www.nushell.sh/es/book/plugins.html</id>
     <link href="www.nushell.sh/es/book/plugins.html"/>
-    <updated>2022-06-04T10:03:18.387Z</updated>
+    <updated>2022-06-04T11:48:56.779Z</updated>
     <content type="html"><![CDATA[<h1 id="complementos-plugins" tabindex="-1"> Complementos (plugins)</h1>
 <p>Se puede ampliar la funcionalidad de Nu a través de complementos. Los complementos pueden realizar muchas de las mismas operaciones que los comandos integrados de Nu con el beneficio adicional de que se pueden agregar separado de Nu.</p>
 <p>Para agregar un complemento simplemente compílalo y colóca el binario en el PATH. Los complementos de Nu empiezan con <code>nu_plugin_</code> de manera que Nu pueda encontrarlos entre otros binarios en su PATH.</p>
@@ -3785,7 +3785,7 @@ error: Expected a string from pipeline
     <title type="html">Shells en shells</title>
     <id>www.nushell.sh/es/book/shells_en_shells.html</id>
     <link href="www.nushell.sh/es/book/shells_en_shells.html"/>
-    <updated>2022-06-04T10:03:18.387Z</updated>
+    <updated>2022-06-04T11:48:56.780Z</updated>
     <content type="html"><![CDATA[<h1 id="shells-en-shells" tabindex="-1"> Shells en shells</h1>
 <h2 id="trabajando-con-multiples-directorios" tabindex="-1"> Trabajando con múltiples directorios</h2>
 <p>Mientras es común trabajar en un directorio puede ser beneficioso trabajar en múltiples lugares al mismo tiempo. Para esto Nu ofrece el concepto de &quot;shells&quot;. Tal como implica, son una manera de tener activo múltiples shells en uno permitiendote rápidamente saltar entre directorios de trabajo y más.</p>
@@ -3898,7 +3898,7 @@ error: Expected a string from pipeline
     <title type="html">Tipos de datos</title>
     <id>www.nushell.sh/es/book/tipos_de_datos.html</id>
     <link href="www.nushell.sh/es/book/tipos_de_datos.html"/>
-    <updated>2022-06-04T10:03:18.387Z</updated>
+    <updated>2022-06-04T11:48:56.780Z</updated>
     <content type="html"><![CDATA[<h1 id="tipos-de-datos" tabindex="-1"> Tipos de datos</h1>
 <p>Tradicionalmente, comandos shell de Unix se han comunidado entre ellos usando cadenas de texto. Un comando generaría de salida texto a través de la salida estándar (comúnmente abreviada 'stdout') y el otro leer texto a través de la entrada estándar (o 'stdin').</p>
 <p>Podemos pensar de este tipo de comunicación como basada en cadenas.</p>
@@ -3936,7 +3936,7 @@ error: Expected a string from pipeline
     <title type="html">Trabajando con tablas</title>
     <id>www.nushell.sh/es/book/trabajando_con_tablas.html</id>
     <link href="www.nushell.sh/es/book/trabajando_con_tablas.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.780Z</updated>
     <content type="html"><![CDATA[<h1 id="trabajando-con-tablas" tabindex="-1"> Trabajando con tablas</h1>
 <p>Una de las maneras comunes de mirar datos en Nu es a través de una tabla. Nu viene con una serie de comandos que trabajan con tablas para que pueda ser más conveniente encontrar lo que estás buscando y para limitar los datos a solo lo que necesites.</p>
 <p>Para empezar, consigamos una tabla que podamos usar:</p>
@@ -4154,7 +4154,7 @@ error: Expected a string from pipeline
     <title type="html">Variables y Subexpresiones</title>
     <id>www.nushell.sh/es/book/variables_y_subexpresiones.html</id>
     <link href="www.nushell.sh/es/book/variables_y_subexpresiones.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.780Z</updated>
     <content type="html"><![CDATA[<h1 id="variables-y-subexpresiones" tabindex="-1"> Variables y Subexpresiones</h1>
 <p>En Nushell hay dos tipos de expresiones de evaluación: variables y subexpresiones. Cuando lees expresiones que empiezan con el signo dólar (<code>$</code>) sabes que trabajas con una expresión de evaluación. Esto indica que cuando Nushell toma el valor en esta posición, necesitará ejecutar un paso de evaluación para procesar la expresión y posterioremente usar el valor del resultado. Ambas formas de expresión de evaluación soportan un modo simple y una forma ruta (<code>path</code>) para trabajar con datos más complejos.</p>
 <h2 id="variables" tabindex="-1"> Variables</h2>
@@ -4193,7 +4193,7 @@ pruebausuario
     <title type="html">Índice</title>
     <id>www.nushell.sh/es/contributor-book/</id>
     <link href="www.nushell.sh/es/contributor-book/"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.780Z</updated>
     <content type="html"><![CDATA[<h1 id="indice" tabindex="-1"> Índice</h1>
 <ul>
 <li><a href="/es/contributor-book/introduccion.html">Introducción</a> - Una introducción al libro para contribuyentes</li>
@@ -4211,7 +4211,7 @@ pruebausuario
     <title type="html">Comandos</title>
     <id>www.nushell.sh/es/contributor-book/comandos.html</id>
     <link href="www.nushell.sh/es/contributor-book/comandos.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.780Z</updated>
     <content type="html"><![CDATA[<h1 id="comandos" tabindex="-1"> Comandos</h1>
 <p>Los comandos son los bloques de construcción para las tuberías (pipeline) en Nu. Realizan la acción de la tubería, ya sea creando datos, cambiando datos mientras fluye desde entradas y salidas, o viendo los datos una vez que salen de la tubería. Hay dos tipos de comandos: comandos internos, son aquellos contruídos para ejecución interna de Nu, y comandos externos, comandos que se encuentra fuera de Nu y se comunican con <code>stdin</code> / <code>stdout</code> de estilo Unix estándar.</p>
 <h2 id="comandos-internos" tabindex="-1"> Comandos internos</h2>
@@ -4245,7 +4245,7 @@ pruebausuario
     <title type="html">Filosofia</title>
     <id>www.nushell.sh/es/contributor-book/filosofia.html</id>
     <link href="www.nushell.sh/es/contributor-book/filosofia.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.781Z</updated>
     <content type="html"><![CDATA[<h1 id="filosofia" tabindex="-1"> Filosofia</h1>
 <h2 id="valores-fundamentales" tabindex="-1"> Valores Fundamentales</h2>
 <p>El valor central de Nu es que trabajar en un shell debe ser divertido. Para esto, creemos que:</p>
@@ -4270,7 +4270,7 @@ pruebausuario
     <title type="html">Introducción</title>
     <id>www.nushell.sh/es/contributor-book/introduccion.html</id>
     <link href="www.nushell.sh/es/contributor-book/introduccion.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.781Z</updated>
     <content type="html"><![CDATA[<h1 id="introduccion" tabindex="-1"> Introducción</h1>
 <p>Hola y bienvenido al manual de Nushell para contribuyentes. Nushell, o Nu como se lo llama a menudo, es un shell moderno escrito en Rust. Para más información sobre Nu y cómo usarlo puedes aprenderlo en <a href="/es/book">El libro Nu</a>. En este manual, veremos cómo contribuir al proyecto Nu, cómo está organizado el código, y los conceptos centrales detrás de su diseño.</p>
 <p>Contribuir a Nu requerirá al menos algo de experiencia básica en programación, y es útil tener algo de experiencia con Rust. Dicho esto, hemos tenido personas que han contribuído a Nu sin antes haber escrito una línea de Rust antes de que escribieran su primera contribución. Si te interesa contribuir, hay una comunidad creciente de personas con deseos de ayudarte a tener éxito.</p>
@@ -4286,7 +4286,7 @@ pruebausuario
     <title type="html">Metadatos</title>
     <id>www.nushell.sh/es/contributor-book/metadatos.html</id>
     <link href="www.nushell.sh/es/contributor-book/metadatos.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.781Z</updated>
     <content type="html"><![CDATA[<h1 id="metadatos" tabindex="-1"> Metadatos</h1>
 <p>Todos los valores que fluyen dentro y fuera de los comandos en Nu están etiquetadas con metadatos. Lo encontrarás comúnmente alrededor del código como <code>Tagged&lt;Value&gt;</code></p>
 <p>Aunque los metadatos que se rastrean sigue en sus primeros días, esperamos expandir esto a medida que Nu madure.</p>
@@ -4303,7 +4303,7 @@ pruebausuario
     <title type="html">Valores</title>
     <id>www.nushell.sh/es/contributor-book/valores.html</id>
     <link href="www.nushell.sh/es/contributor-book/valores.html"/>
-    <updated>2022-06-04T10:03:18.388Z</updated>
+    <updated>2022-06-04T11:48:56.781Z</updated>
     <content type="html"><![CDATA[<h1 id="valores" tabindex="-1"> Valores</h1>
 <p>Un Value es el tipo de dato de estructura básica en Nu.</p>
 <div><pre><code><span>pub</span> <span>struct</span> <span>Value</span> <span>{</span>

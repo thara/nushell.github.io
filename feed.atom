@@ -3,7 +3,7 @@
   <id>www.nushell.sh/</id>
   <title>Nushell</title>
   <subtitle>A new type of shell.</subtitle>
-  <updated>2022-06-04T10:03:18.275Z</updated>
+  <updated>2022-06-04T11:48:56.665Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="www.nushell.sh/"/>
@@ -17,7 +17,7 @@
     <title type="html">Contributing</title>
     <id>www.nushell.sh/CONTRIBUTING.html</id>
     <link href="www.nushell.sh/CONTRIBUTING.html"/>
-    <updated>2022-06-04T10:03:18.293Z</updated>
+    <updated>2022-06-04T11:48:56.683Z</updated>
     <content type="html"><![CDATA[<h1 id="contributing" tabindex="-1"> Contributing</h1>
 <p>If you want to contribute to nushell itself, see <a href="https://github.com/nushell/nushell/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">nushell/nushell/CONTRIBUTING.md</a> and the <a href="https://www.nushell.sh/contributor-book/" target="_blank" rel="noopener noreferrer">contributor-book</a>.</p>
 <p>This website is based on Vuepress.</p>
@@ -47,7 +47,7 @@
     <title type="html">Introducing nushell</title>
     <id>www.nushell.sh/blog/2019-08-23-introducing-nushell.html</id>
     <link href="www.nushell.sh/blog/2019-08-23-introducing-nushell.html"/>
-    <updated>2022-06-04T10:03:18.294Z</updated>
+    <updated>2022-06-04T11:48:56.684Z</updated>
     <content type="html"><![CDATA[<h1 id="introducing-nushell" tabindex="-1"> Introducing nushell</h1>
 <p>Today, we're introducing a new shell, written in Rust. It draws inspiration from the classic Unix philosophy of pipelines, the structured data approach of PowerShell, functional programming, systems programming, and more.</p>
 <p>It's called Nushell, or just Nu for short. We have a <a href="https://book.nushell.sh/en" target="_blank" rel="noopener noreferrer">book</a> (¡también se habla <a href="https://book.nushell.sh/es" target="_blank" rel="noopener noreferrer">Español</a>!). We have a <a href="https://github.com/nushell/nushell" target="_blank" rel="noopener noreferrer">repo</a>.</p>
@@ -285,7 +285,7 @@ Cargo2.toml  Cargo.toml  extra	LICENSE  open		readonly.txt  rustfmt.toml   targe
     <title type="html">Nushell 0.3.0</title>
     <id>www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html</id>
     <link href="www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html"/>
-    <updated>2022-06-04T10:03:18.294Z</updated>
+    <updated>2022-06-04T11:48:56.684Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-3-0" tabindex="-1"> Nushell 0.3.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce that today we're releasing Nushell 0.3.0. Nu has seen numerous bugfixes, performance improvements, and features added since its initial public release (which was only a few weeks ago!)</p>
@@ -347,7 +347,7 @@ Cargo2.toml  Cargo.toml  extra	LICENSE  open		readonly.txt  rustfmt.toml   targe
     <title type="html">Nushell 0.4.0</title>
     <id>www.nushell.sh/blog/2019-10-15-nushell-0_4_0.html</id>
     <link href="www.nushell.sh/blog/2019-10-15-nushell-0_4_0.html"/>
-    <updated>2022-06-04T10:03:18.294Z</updated>
+    <updated>2022-06-04T11:48:56.684Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-4-0" tabindex="-1"> Nushell 0.4.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today we're happy to announce the 0.4.0 release of Nushell. The <a href="https://github.com/nushell/nushell/releases/tag/0.4.0" target="_blank" rel="noopener noreferrer">0.4.0 release</a> marks a continually maturing shell that is now starting to show signs of stability. And, of course, a few fun features along the way.</p>
@@ -395,7 +395,7 @@ Streaming tables</p>
     <title type="html">Nushell 0.5.0</title>
     <id>www.nushell.sh/blog/2019-11-05-nushell-0_5_0.html</id>
     <link href="www.nushell.sh/blog/2019-11-05-nushell-0_5_0.html"/>
-    <updated>2022-06-04T10:03:18.311Z</updated>
+    <updated>2022-06-04T11:48:56.701Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-5-0" tabindex="-1"> Nushell 0.5.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're happy to announce the 0.5.0 release for Nu. We've got lots of new features, including some long-requested ones, in this release.</p>
@@ -549,7 +549,7 @@ end_of_line <span>=</span> lf
     <title type="html">Nushell 2019 Survey Results</title>
     <id>www.nushell.sh/blog/2019-11-23-nushell-survey-results.html</id>
     <link href="www.nushell.sh/blog/2019-11-23-nushell-survey-results.html"/>
-    <updated>2022-06-04T10:03:18.312Z</updated>
+    <updated>2022-06-04T11:48:56.701Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-2019-survey-results" tabindex="-1"> Nushell 2019 Survey Results</h1>
 <p>Recently, we ran a short survey to see how you were feeling about <a href="https://github.com/nushell/nushell" target="_blank" rel="noopener noreferrer">Nushell</a>. We wanted to give a very hearty &quot;thank you!&quot; to everyone who participated. These surveys are a great way to gather information about how people are feeling, where they're happy, and where they feel there are pain points.</p>
 <p>In total, <strong>160</strong> people responded. An impressive amount for a project still in its first few months in the public.</p>
@@ -634,7 +634,7 @@ end_of_line <span>=</span> lf
     <title type="html">Nushell 0.6.0</title>
     <id>www.nushell.sh/blog/2019-11-26-nushell-0_6_0.html</id>
     <link href="www.nushell.sh/blog/2019-11-26-nushell-0_6_0.html"/>
-    <updated>2022-06-04T10:03:18.312Z</updated>
+    <updated>2022-06-04T11:48:56.702Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-6-0" tabindex="-1"> Nushell 0.6.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.6.0 release of Nu. This release has a bunch of new features, bugfixes, and general improvements.</p>
@@ -786,7 +786,7 @@ disabled = true
     <title type="html">Nushell 0.7.0</title>
     <id>www.nushell.sh/blog/2019-12-18-nushell-0_7_0.html</id>
     <link href="www.nushell.sh/blog/2019-12-18-nushell-0_7_0.html"/>
-    <updated>2022-06-04T10:03:18.313Z</updated>
+    <updated>2022-06-04T11:48:56.702Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-7-0" tabindex="-1"> Nushell 0.7.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.7.0 release of Nu. This release has a couple new features, bugfixes, and lots of internal improvements on the way to upcoming features.</p>
@@ -886,7 +886,7 @@ disabled = true
     <title type="html">Happy Nu Year 2020</title>
     <id>www.nushell.sh/blog/2019-12-31-happy-nu-year-2020.html</id>
     <link href="www.nushell.sh/blog/2019-12-31-happy-nu-year-2020.html"/>
-    <updated>2022-06-04T10:03:18.313Z</updated>
+    <updated>2022-06-04T11:48:56.703Z</updated>
     <content type="html"><![CDATA[<h1 id="happy-nu-year-2020" tabindex="-1"> Happy Nu Year 2020</h1>
 <p><img src="@source/assets/images/happy_nu_year_2020.png" alt="Happy Nu Year!"></p>
 <p>2019 was quite the year for Nushell. We landed the initial commit on May 10th, and 1881 commits later we find ourselves at the end of 2019. What all happened this year?</p>
@@ -1054,7 +1054,7 @@ disabled = true
     <title type="html">Nushell 0.8.0</title>
     <id>www.nushell.sh/blog/2020-01-07-nushell-0_8_0.html</id>
     <link href="www.nushell.sh/blog/2020-01-07-nushell-0_8_0.html"/>
-    <updated>2022-06-04T10:03:18.314Z</updated>
+    <updated>2022-06-04T11:48:56.703Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-8-0" tabindex="-1"> Nushell 0.8.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.8.0 release of Nu. This continues a series of internal improvements, with better stability and correctness, and, of course, new features.</p>
@@ -1147,7 +1147,7 @@ disabled = true
     <title type="html">Nushell 0.9.0</title>
     <id>www.nushell.sh/blog/2020-01-28-nushell-0_9_0.html</id>
     <link href="www.nushell.sh/blog/2020-01-28-nushell-0_9_0.html"/>
-    <updated>2022-06-04T10:03:18.314Z</updated>
+    <updated>2022-06-04T11:48:56.704Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-9-0" tabindex="-1"> Nushell 0.9.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.9.0 release of Nu. This release offers better help and error feedback, better support for the native shell, new commands, lots of command improvements, and bugfixes.</p>
@@ -1239,7 +1239,7 @@ nushell on 📙 bump_to_0_9_0 is 📦 v0.9.0 via 🦀 v1.40.0
     <title type="html">Nushell 0.10.0</title>
     <id>www.nushell.sh/blog/2020-02-18-nushell-0_10_0.html</id>
     <link href="www.nushell.sh/blog/2020-02-18-nushell-0_10_0.html"/>
-    <updated>2022-06-04T10:03:18.314Z</updated>
+    <updated>2022-06-04T11:48:56.704Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-10-0" tabindex="-1"> Nushell 0.10.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Greetings and welcome to the 10th release of Nushell! Yes, that's right this is the tenth release of Nu we've put out in the wild, and oh is this release wild. So let's stop dilly-dallying and get right to it, shall we?</p>
@@ -1316,7 +1316,7 @@ world
     <title type="html">Nushell 0.11.0</title>
     <id>www.nushell.sh/blog/2020-03-10-nushell_0_11_0.html</id>
     <link href="www.nushell.sh/blog/2020-03-10-nushell_0_11_0.html"/>
-    <updated>2022-06-04T10:03:18.315Z</updated>
+    <updated>2022-06-04T11:48:56.705Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-11-0" tabindex="-1"> Nushell 0.11.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release the 0.11.0 release of Nu. This release continues to push us forward with new commands, improved engine internals, bugfixes, and more.</p>
@@ -1390,7 +1390,7 @@ The edition is 2018
     <title type="html">Nushell 0.12.0</title>
     <id>www.nushell.sh/blog/2020-03-31-nushell_0_12_0.html</id>
     <link href="www.nushell.sh/blog/2020-03-31-nushell_0_12_0.html"/>
-    <updated>2022-06-04T10:03:18.315Z</updated>
+    <updated>2022-06-04T11:48:56.705Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-12-0" tabindex="-1"> Nushell 0.12.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release version 0.12.0 of Nu!</p>
@@ -1515,7 +1515,7 @@ nushell on 📙 master is 📦 v0.12.0 via 🦀 v1.42.0
     <title type="html">Nushell 0.13.0</title>
     <id>www.nushell.sh/blog/2020-04-21-nushell_0_13_0.html</id>
     <link href="www.nushell.sh/blog/2020-04-21-nushell_0_13_0.html"/>
-    <updated>2022-06-04T10:03:18.316Z</updated>
+    <updated>2022-06-04T11:48:56.706Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-13-0" tabindex="-1"> Nushell 0.13.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release version 0.13.0 of Nu! This is by <em>far</em> one the the biggest releases, yet. Let's dive in!</p>
@@ -1605,7 +1605,7 @@ false
     <title type="html">Nushell 0.14.0</title>
     <id>www.nushell.sh/blog/2020-05-12-nushell_0_14_0.html</id>
     <link href="www.nushell.sh/blog/2020-05-12-nushell_0_14_0.html"/>
-    <updated>2022-06-04T10:03:18.316Z</updated>
+    <updated>2022-06-04T11:48:56.706Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-14-0" tabindex="-1"> Nushell 0.14.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release version 0.14.0 of Nu!</p>
@@ -1695,7 +1695,7 @@ false
     <title type="html">Nushell 0.15.0</title>
     <id>www.nushell.sh/blog/2020-06-09-nushell_0_15_0.html</id>
     <link href="www.nushell.sh/blog/2020-06-09-nushell_0_15_0.html"/>
-    <updated>2022-06-04T10:03:18.317Z</updated>
+    <updated>2022-06-04T11:48:56.707Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-15-0" tabindex="-1"> Nushell 0.15.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.15 of Nu - and it has a few last-minute surprises we hope you'll find as much fun as we do.</p>
@@ -1800,7 +1800,7 @@ My current history path is /home/jonathant/.local/share/nu/history.txt
     <title type="html">Nushell 0.16.0</title>
     <id>www.nushell.sh/blog/2020-06-30-nushell_0_16_0.html</id>
     <link href="www.nushell.sh/blog/2020-06-30-nushell_0_16_0.html"/>
-    <updated>2022-06-04T10:03:18.317Z</updated>
+    <updated>2022-06-04T11:48:56.707Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-16-0" tabindex="-1"> Nushell 0.16.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.16 of Nu</p>
@@ -1912,7 +1912,7 @@ My current history path is /home/jonathant/.local/share/nu/history.txt
     <title type="html">Nushell 0.17.0</title>
     <id>www.nushell.sh/blog/2020-07-21-nushell_0_17_0.html</id>
     <link href="www.nushell.sh/blog/2020-07-21-nushell_0_17_0.html"/>
-    <updated>2022-06-04T10:03:18.318Z</updated>
+    <updated>2022-06-04T11:48:56.708Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-17-0" tabindex="-1"> Nushell 0.17.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.17 of Nu, the first Nu to include WebAssembly, custom keybindings, and much more.</p>
@@ -2052,7 +2052,7 @@ dlrow olleh
     <title type="html">Nushell 0.18</title>
     <id>www.nushell.sh/blog/2020-08-11-nushell_0_18.html</id>
     <link href="www.nushell.sh/blog/2020-08-11-nushell_0_18.html"/>
-    <updated>2022-06-04T10:03:18.318Z</updated>
+    <updated>2022-06-04T11:48:56.708Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-18" tabindex="-1"> Nushell 0.18</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.18 of Nu. The focus of this release was largely to polish what is already there, ensuring that internally parts work together better, are more consistent, and are easier to maintain. We've also added new commands for working with paths, URLs, strings, and lists.</p>
@@ -2106,7 +2106,7 @@ dlrow olleh
     <title type="html">One year of Nushell</title>
     <id>www.nushell.sh/blog/2020-08-23-year_of_nushell.html</id>
     <link href="www.nushell.sh/blog/2020-08-23-year_of_nushell.html"/>
-    <updated>2022-06-04T10:03:18.319Z</updated>
+    <updated>2022-06-04T11:48:56.709Z</updated>
     <content type="html"><![CDATA[<h1 id="one-year-of-nushell" tabindex="-1"> One year of Nushell</h1>
 <p>Hard to imagine that it's already been a year since Nu first went public. At the time, it was largely a demo of what could be possible, but still needed quite a bit of work to make it ready for everyday use. A year later and we've learned a lot, and made a few mistakes along the way. In this post, we look back over the year and see how we did and where we might be going in the future.</p>
 <h1 id="history" tabindex="-1"> History</h1>
@@ -2253,7 +2253,7 @@ dlrow olleh
     <title type="html">Nushell 0.19</title>
     <id>www.nushell.sh/blog/2020-09-01-nushell_0_19.html</id>
     <link href="www.nushell.sh/blog/2020-09-01-nushell_0_19.html"/>
-    <updated>2022-06-04T10:03:18.320Z</updated>
+    <updated>2022-06-04T11:48:56.710Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-19" tabindex="-1"> Nushell 0.19</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.19 of Nu. In this version, we fill some long-lived gaps in Nu, improve completions, theming, and much more.</p>
@@ -2362,7 +2362,7 @@ dlrow olleh
     <title type="html">Nushell 0.20</title>
     <id>www.nushell.sh/blog/2020-09-22-nushell_0_20.html</id>
     <link href="www.nushell.sh/blog/2020-09-22-nushell_0_20.html"/>
-    <updated>2022-06-04T10:03:18.320Z</updated>
+    <updated>2022-06-04T11:48:56.710Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-20" tabindex="-1"> Nushell 0.20</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.20 of Nu. In this version, we're introducing some new features for working with rows, improvements to completions, and more.</p>
@@ -2502,7 +2502,7 @@ dlrow olleh
     <title type="html">Nushell 0.21</title>
     <id>www.nushell.sh/blog/2020-10-13-nushell_0_21.html</id>
     <link href="www.nushell.sh/blog/2020-10-13-nushell_0_21.html"/>
-    <updated>2022-06-04T10:03:18.320Z</updated>
+    <updated>2022-06-04T11:48:56.710Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-21" tabindex="-1"> Nushell 0.21</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.21 of Nu. In this version, we introduce a charting functionality for quickly exploring data, stability improvements, and some general command cleanups.</p>
@@ -2552,7 +2552,7 @@ dlrow olleh
     <title type="html">Nushell 0.22</title>
     <id>www.nushell.sh/blog/2020-11-03-nushell_0_22.html</id>
     <link href="www.nushell.sh/blog/2020-11-03-nushell_0_22.html"/>
-    <updated>2022-06-04T10:03:18.321Z</updated>
+    <updated>2022-06-04T11:48:56.711Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-22" tabindex="-1"> Nushell 0.22</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.22 of Nu. In this version, we introduce a new flattening command, more math commands, we remove it-expansion, and add a lot of assorted improvements.</p>
@@ -2639,7 +2639,7 @@ dlrow olleh
     <title type="html">Nushell 0.23</title>
     <id>www.nushell.sh/blog/2020-11-24-nushell_0_23.html</id>
     <link href="www.nushell.sh/blog/2020-11-24-nushell_0_23.html"/>
-    <updated>2022-06-04T10:03:18.321Z</updated>
+    <updated>2022-06-04T11:48:56.711Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-23" tabindex="-1"> Nushell 0.23</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.23 of Nu. In this version, we continue improving the commands, release a new website, and talk about some of the experiments that will be making their way into Nu in future versions.</p>
@@ -2687,7 +2687,7 @@ dlrow olleh
     <title type="html">Nushell 0.24</title>
     <id>www.nushell.sh/blog/2020-12-15-nushell_0_24.html</id>
     <link href="www.nushell.sh/blog/2020-12-15-nushell_0_24.html"/>
-    <updated>2022-06-04T10:03:18.322Z</updated>
+    <updated>2022-06-04T11:48:56.712Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-24" tabindex="-1"> Nushell 0.24</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.24 of Nu. We've added a few new utilities, improved the existing date functionality, and more.</p>
@@ -2730,7 +2730,7 @@ dlrow olleh
     <title type="html">Nushell 0.25</title>
     <id>www.nushell.sh/blog/2021-01-05-nushell_0_25.html</id>
     <link href="www.nushell.sh/blog/2021-01-05-nushell_0_25.html"/>
-    <updated>2022-06-04T10:03:18.322Z</updated>
+    <updated>2022-06-04T11:48:56.712Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-25" tabindex="-1"> Nushell 0.25</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.25 of Nu. It's one of the largest releases we've ever done. With it Nushell grows from being a shell to being a full scripting language as well.</p>
@@ -2868,7 +2868,7 @@ echo $(add 1 11)         # errors, `add` isn't in scope here
     <title type="html">Nushell 0.26</title>
     <id>www.nushell.sh/blog/2021-01-26-nushell_0_26.html</id>
     <link href="www.nushell.sh/blog/2021-01-26-nushell_0_26.html"/>
-    <updated>2022-06-04T10:03:18.323Z</updated>
+    <updated>2022-06-04T11:48:56.713Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-26" tabindex="-1"> Nushell 0.26</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.26 of Nu. It's a polish release with lots of improvements.</p>
@@ -2939,7 +2939,7 @@ foo --bar 10
     <title type="html">Nushell 0.27</title>
     <id>www.nushell.sh/blog/2021-02-16-nushell_0_27.html</id>
     <link href="www.nushell.sh/blog/2021-02-16-nushell_0_27.html"/>
-    <updated>2022-06-04T10:03:18.323Z</updated>
+    <updated>2022-06-04T11:48:56.713Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-27" tabindex="-1"> Nushell 0.27</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.27 of Nu. This release fixes some long-standing issues with Nushell.</p>
@@ -3023,7 +3023,7 @@ foo --bar 10
     <title type="html">Nushell 0.28</title>
     <id>www.nushell.sh/blog/2021-03-09-nushell_0_28.html</id>
     <link href="www.nushell.sh/blog/2021-03-09-nushell_0_28.html"/>
-    <updated>2022-06-04T10:03:18.324Z</updated>
+    <updated>2022-06-04T11:48:56.714Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-28" tabindex="-1"> Nushell 0.28</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.28 of Nu. In this release we've added new commands for working with tables, paths, and lots of general feature improvements.</p>
@@ -3153,7 +3153,7 @@ foo --bar 10
     <title type="html">Nushell 0.29</title>
     <id>www.nushell.sh/blog/2021-03-30-nushell_0_29.html</id>
     <link href="www.nushell.sh/blog/2021-03-30-nushell_0_29.html"/>
-    <updated>2022-06-04T10:03:18.324Z</updated>
+    <updated>2022-06-04T11:48:56.714Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-29" tabindex="-1"> Nushell 0.29</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.29 of Nu. This release adds more polish for paths, streaming, and more.</p>
@@ -3216,7 +3216,7 @@ foo --bar 10
     <title type="html">Nushell 0.30</title>
     <id>www.nushell.sh/blog/2021-04-20-nushell_0_30.html</id>
     <link href="www.nushell.sh/blog/2021-04-20-nushell_0_30.html"/>
-    <updated>2022-06-04T10:03:18.325Z</updated>
+    <updated>2022-06-04T11:48:56.715Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-30" tabindex="-1"> Nushell 0.30</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.30 of Nu. This release adds big improvements to performance and simplicity of the engine.</p>
@@ -3303,7 +3303,7 @@ foo --bar 10
     <title type="html">Nushell 0.31</title>
     <id>www.nushell.sh/blog/2021-05-11-nushell_0_31.html</id>
     <link href="www.nushell.sh/blog/2021-05-11-nushell_0_31.html"/>
-    <updated>2022-06-04T10:03:18.325Z</updated>
+    <updated>2022-06-04T11:48:56.715Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-31" tabindex="-1"> Nushell 0.31</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.31 of Nu. This release includes continued polish of the engine and commands.</p>
@@ -3370,7 +3370,7 @@ foo --bar 10
     <title type="html">Nushell 0.32</title>
     <id>www.nushell.sh/blog/2021-06-01-nushell_0_32.html</id>
     <link href="www.nushell.sh/blog/2021-06-01-nushell_0_32.html"/>
-    <updated>2022-06-04T10:03:18.326Z</updated>
+    <updated>2022-06-04T11:48:56.717Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-32" tabindex="-1"> Nushell 0.32</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.32 of Nu. This release contains a large amount of usability improvements.</p>
@@ -3531,7 +3531,7 @@ spam
     <title type="html">Nushell 0.33</title>
     <id>www.nushell.sh/blog/2021-06-22-nushell_0_33.html</id>
     <link href="www.nushell.sh/blog/2021-06-22-nushell_0_33.html"/>
-    <updated>2022-06-04T10:03:18.327Z</updated>
+    <updated>2022-06-04T11:48:56.717Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-33" tabindex="-1"> Nushell 0.33</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.33 of Nu. This release includes improved completions, support for pipeline variables, syntax theming and more.</p>
@@ -3603,7 +3603,7 @@ spam
     <title type="html">Nushell 0.34</title>
     <id>www.nushell.sh/blog/2021-07-13-nushell_0_34.html</id>
     <link href="www.nushell.sh/blog/2021-07-13-nushell_0_34.html"/>
-    <updated>2022-06-04T10:03:18.328Z</updated>
+    <updated>2022-06-04T11:48:56.718Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-34" tabindex="-1"> Nushell 0.34</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.34 of Nu. This release is the first to support dataframes and also includes a set of usability improvements.</p>
@@ -3741,7 +3741,7 @@ barbaz
     <title type="html">Nushell 0.35</title>
     <id>www.nushell.sh/blog/2021-08-03-nushell_0_35.html</id>
     <link href="www.nushell.sh/blog/2021-08-03-nushell_0_35.html"/>
-    <updated>2022-06-04T10:03:18.328Z</updated>
+    <updated>2022-06-04T11:48:56.719Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-35" tabindex="-1"> Nushell 0.35</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.35 of Nu. This release shows off a lot of dataframe progress and lots of command polish.</p>
@@ -3813,7 +3813,7 @@ barbaz
     <title type="html">Two years of Nushell</title>
     <id>www.nushell.sh/blog/2021-08-23-two-years-of-nushell.html</id>
     <link href="www.nushell.sh/blog/2021-08-23-two-years-of-nushell.html"/>
-    <updated>2022-06-04T10:03:18.329Z</updated>
+    <updated>2022-06-04T11:48:56.719Z</updated>
     <content type="html"><![CDATA[<h1 id="two-years-of-nushell" tabindex="-1"> Two years of Nushell</h1>
 <p><img src="@source/assets/images/two_year_cake.png" alt="Stock cake photo with a 2"></p>
 <p><em>Happy birthday, Nushell!</em></p>
@@ -3876,7 +3876,7 @@ barbaz
     <title type="html">Nushell 0.36</title>
     <id>www.nushell.sh/blog/2021-08-24-nushell_0_36.html</id>
     <link href="www.nushell.sh/blog/2021-08-24-nushell_0_36.html"/>
-    <updated>2022-06-04T10:03:18.330Z</updated>
+    <updated>2022-06-04T11:48:56.720Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-36" tabindex="-1"> Nushell 0.36</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.36 of Nu. This release fixes some long-standing issues with history, improves the help system, improves dataframes, and much more.</p>
@@ -3952,7 +3952,7 @@ barbaz
     <title type="html">Nushell 0.37</title>
     <id>www.nushell.sh/blog/2021-09-14-nushell_0_37.html</id>
     <link href="www.nushell.sh/blog/2021-09-14-nushell_0_37.html"/>
-    <updated>2022-06-04T10:03:18.330Z</updated>
+    <updated>2022-06-04T11:48:56.721Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-37" tabindex="-1"> Nushell 0.37</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.37 of Nu. This release adds a new <code>find</code> function, improvements to the current engine, and updates on the upcoming engine.</p>
@@ -4012,7 +4012,7 @@ barbaz
     <title type="html">Nushell 0.38</title>
     <id>www.nushell.sh/blog/2021-10-05-nushell_0_38.html</id>
     <link href="www.nushell.sh/blog/2021-10-05-nushell_0_38.html"/>
-    <updated>2022-06-04T10:03:18.331Z</updated>
+    <updated>2022-06-04T11:48:56.721Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-38" tabindex="-1"> Nushell 0.38</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.38 of Nu. This release includes polish to the user interface, improvements to how columns are passed, lots of bug fixes, and updates on the upcoming engine.</p>
@@ -4075,7 +4075,7 @@ barbaz
     <title type="html">Nushell 0.39</title>
     <id>www.nushell.sh/blog/2021-10-26-nushell_0_39.html</id>
     <link href="www.nushell.sh/blog/2021-10-26-nushell_0_39.html"/>
-    <updated>2022-06-04T10:03:18.331Z</updated>
+    <updated>2022-06-04T11:48:56.721Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-39" tabindex="-1"> Nushell 0.39</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.39 of Nu. This release is a bugfix release of 0.38.</p>
@@ -4113,7 +4113,7 @@ barbaz
     <title type="html">Nushell 0.40</title>
     <id>www.nushell.sh/blog/2021-11-16-nushell_0_40.html</id>
     <link href="www.nushell.sh/blog/2021-11-16-nushell_0_40.html"/>
-    <updated>2022-06-04T10:03:18.331Z</updated>
+    <updated>2022-06-04T11:48:56.722Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-40" tabindex="-1"> Nushell 0.40</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.40 of Nu. This release is includes better table imports and much smaller release size.</p>
@@ -4217,7 +4217,7 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
     <title type="html">Nushell 0.41</title>
     <id>www.nushell.sh/blog/2021-12-07-nushell_0_41.html</id>
     <link href="www.nushell.sh/blog/2021-12-07-nushell_0_41.html"/>
-    <updated>2022-06-04T10:03:18.332Z</updated>
+    <updated>2022-06-04T11:48:56.722Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-41" tabindex="-1"> Nushell 0.41</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.41 of Nu. This release is a bugfix release of 0.41.</p>
@@ -4263,7 +4263,7 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
     <title type="html">Nushell 0.42</title>
     <id>www.nushell.sh/blog/2021-12-28-nushell_0_42.html</id>
     <link href="www.nushell.sh/blog/2021-12-28-nushell_0_42.html"/>
-    <updated>2022-06-04T10:03:18.332Z</updated>
+    <updated>2022-06-04T11:48:56.722Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-42" tabindex="-1"> Nushell 0.42</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.42 of Nu. This release is a bugfix release of 0.41.</p>
@@ -4305,7 +4305,7 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
     <title type="html">Nushell 0.43</title>
     <id>www.nushell.sh/blog/2022-01-18-nushell_0_43.html</id>
     <link href="www.nushell.sh/blog/2022-01-18-nushell_0_43.html"/>
-    <updated>2022-06-04T10:03:18.332Z</updated>
+    <updated>2022-06-04T11:48:56.723Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-43" tabindex="-1"> Nushell 0.43</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.43 of Nu. This release is a bugfix release of 0.42.</p>
@@ -4349,7 +4349,7 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
     <title type="html">Nushell 0.44</title>
     <id>www.nushell.sh/blog/2022-02-08-nushell_0_44.html</id>
     <link href="www.nushell.sh/blog/2022-02-08-nushell_0_44.html"/>
-    <updated>2022-06-04T10:03:18.332Z</updated>
+    <updated>2022-06-04T11:48:56.723Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-44-the-calm-before-the-storm" tabindex="-1"> Nushell 0.44 - the calm before the storm</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.44 of Nu. This is the last release before engine-q becomes the new engine.</p>
@@ -4387,7 +4387,7 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
     <title type="html">Nushell 0.59 (aka 0.60 beta)</title>
     <id>www.nushell.sh/blog/2022-03-01-nushell_0_59.html</id>
     <link href="www.nushell.sh/blog/2022-03-01-nushell_0_59.html"/>
-    <updated>2022-06-04T10:03:18.333Z</updated>
+    <updated>2022-06-04T11:48:56.723Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-59-aka-0-60-beta" tabindex="-1"> Nushell 0.59 (aka 0.60 beta)</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing a beta release of 0.60 of Nu. This is to get early feedback on 0.60 before it's full release in three weeks.</p>
@@ -4449,7 +4449,7 @@ extern "git checkout" [
     <title type="html">Nushell 0.60</title>
     <id>www.nushell.sh/blog/2022-03-22-nushell_0_60.html</id>
     <link href="www.nushell.sh/blog/2022-03-22-nushell_0_60.html"/>
-    <updated>2022-06-04T10:03:18.334Z</updated>
+    <updated>2022-06-04T11:48:56.725Z</updated>
     <summary type="html"><![CDATA[<p><em>Before we begin, as the Russian invasion of Ukraine still continues to threaten lives, <a href="https://war.ukraine.ua" target="_blank" rel="noopener noreferrer">here</a> are ways you can help.</em></p>
 <h1 id="nushell-0-60" tabindex="-1"> Nushell 0.60</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -5278,7 +5278,7 @@ specify what command should be used to run the plugin</p>
     <title type="html">Nushell 0.61</title>
     <id>www.nushell.sh/blog/2022-04-12-nushell_0_61.html</id>
     <link href="www.nushell.sh/blog/2022-04-12-nushell_0_61.html"/>
-    <updated>2022-06-04T10:03:18.335Z</updated>
+    <updated>2022-06-04T11:48:56.726Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-61" tabindex="-1"> Nushell 0.61</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing version 0.61 of Nu. This release includes UI improvements, many bugfixes, improved glob support, and more.</p>
@@ -5383,7 +5383,7 @@ specify what command should be used to run the plugin</p>
     <title type="html">Nushell 0.62</title>
     <id>www.nushell.sh/blog/2022-05-03-nushell_0_62.html</id>
     <link href="www.nushell.sh/blog/2022-05-03-nushell_0_62.html"/>
-    <updated>2022-06-04T10:03:18.337Z</updated>
+    <updated>2022-06-04T11:48:56.728Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-62" tabindex="-1"> Nushell 0.62</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing version 0.62 of Nu. This release deeper integration with SQLite, new completion logic, and much more.</p>
@@ -5557,7 +5557,7 @@ specify what command should be used to run the plugin</p>
     <title type="html">Nushell 0.63</title>
     <id>www.nushell.sh/blog/2022-05-24-nushell_0_63.html</id>
     <link href="www.nushell.sh/blog/2022-05-24-nushell_0_63.html"/>
-    <updated>2022-06-04T10:03:18.339Z</updated>
+    <updated>2022-06-04T11:48:56.730Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-63" tabindex="-1"> Nushell 0.63</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing version 0.63 of Nu. This release is the first to include the 'overlays' feature, hooks, lazy dataframes, and more.</p>
@@ -5759,7 +5759,7 @@ This Is A Test Case
     <title type="html">Nu Blog</title>
     <id>www.nushell.sh/blog/</id>
     <link href="www.nushell.sh/blog/"/>
-    <updated>2022-06-04T10:03:18.339Z</updated>
+    <updated>2022-06-04T11:48:56.730Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-blog" tabindex="-1"> Nu Blog</h1>
 <p><a href="/rss.xml">RSS</a> / <a href="/feed.atom">Atom</a></p>
 <i>Content not supported</i>
@@ -5769,7 +5769,7 @@ This Is A Test Case
     <title type="html">How to configure 3rd party prompts</title>
     <id>www.nushell.sh/book/3rdpartyprompts.html</id>
     <link href="www.nushell.sh/book/3rdpartyprompts.html"/>
-    <updated>2022-06-04T10:03:18.339Z</updated>
+    <updated>2022-06-04T11:48:56.730Z</updated>
     <content type="html"><![CDATA[<h1 id="how-to-configure-3rd-party-prompts" tabindex="-1"> How to configure 3rd party prompts</h1>
 <h2 id="nerdfonts" tabindex="-1"> nerdfonts</h2>
 <p>nerdfonts are not required but they make the presentation much better.</p>
@@ -5837,7 +5837,7 @@ let-env PROMPT_MULTILINE_INDICATOR = "::: "
     <title type="html">Introduction</title>
     <id>www.nushell.sh/book/</id>
     <link href="www.nushell.sh/book/"/>
-    <updated>2022-06-04T10:03:18.340Z</updated>
+    <updated>2022-06-04T11:48:56.731Z</updated>
     <content type="html"><![CDATA[<h1 id="introduction" tabindex="-1"> Introduction</h1>
 <p>Hello, and welcome to the Nushell project. The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development.</p>
 <p>Nu takes cues from a lot of familiar territory: traditional shells like bash, object based shells like PowerShell, gradually typed languages like TypeScript, functional programming, systems programming, and more. But rather than trying to be a jack of all trades, Nu focuses its energy on doing a few things well:</p>
@@ -5985,7 +5985,7 @@ Flags:
     <title type="html">Aliases</title>
     <id>www.nushell.sh/book/aliases.html</id>
     <link href="www.nushell.sh/book/aliases.html"/>
-    <updated>2022-06-04T10:03:18.340Z</updated>
+    <updated>2022-06-04T11:48:56.731Z</updated>
     <content type="html"><![CDATA[<h1 id="aliases" tabindex="-1"> Aliases</h1>
 <p>Aliases in Nushell offer a way of doing a simple, textual replacement. This allows you to create a shorthand name for a longer command, including its default arguments.</p>
 <p>For example, let's create an alias called <code>ll</code> which will expand to <code>ls -l</code>.</p>
@@ -6009,7 +6009,7 @@ Flags:
     <title type="html">Coloring and theming in Nu</title>
     <id>www.nushell.sh/book/coloring_and_theming.html</id>
     <link href="www.nushell.sh/book/coloring_and_theming.html"/>
-    <updated>2022-06-04T10:03:18.349Z</updated>
+    <updated>2022-06-04T11:48:56.741Z</updated>
     <content type="html"><![CDATA[<h1 id="coloring-and-theming-in-nu" tabindex="-1"> Coloring and theming in Nu</h1>
 <p>Many parts of Nushell's interface can have their color customized. All of these can be set in the <code>config.nu</code> configuration file. If you see the hash/hashtag/pound mark <code>#</code> in the config file it means the text after it is commented out.</p>
 <ol>
@@ -7115,7 +7115,7 @@ Flags:
     <title type="html">Coming from Bash</title>
     <id>www.nushell.sh/book/coming_from_bash.html</id>
     <link href="www.nushell.sh/book/coming_from_bash.html"/>
-    <updated>2022-06-04T10:03:18.349Z</updated>
+    <updated>2022-06-04T11:48:56.741Z</updated>
     <content type="html"><![CDATA[<h1 id="coming-from-bash" tabindex="-1"> Coming from Bash</h1>
 <p>If you're coming from <code>Git Bash</code> on Windows, then the external commands you're used to (bash, grep, etc) will not be available in <code>nu</code> by default (unless you had explicitly made them available in the Windows Path environment variable).
 To make these commands available in <code>nu</code> as well, add the following line to your <code>config.nu</code> with either <code>append</code> or <code>prepend</code>.</p>
@@ -7378,7 +7378,7 @@ To make these commands available in <code>nu</code> as well, add the following l
     <title type="html">Command Reference</title>
     <id>www.nushell.sh/book/command_reference.html</id>
     <link href="www.nushell.sh/book/command_reference.html"/>
-    <updated>2022-06-04T10:03:18.349Z</updated>
+    <updated>2022-06-04T11:48:56.741Z</updated>
     <content type="html"><![CDATA[<h1 id="command-reference" tabindex="-1"> Command Reference</h1>
 <p>To see all commands in Nushell, run <a href="/book/commands/help.html"><code>help commands</code></a>.</p>
 <table>
@@ -7397,7 +7397,7 @@ To make these commands available in <code>nu</code> as well, add the following l
     <title type="html">Configuration</title>
     <id>www.nushell.sh/book/configuration.html</id>
     <link href="www.nushell.sh/book/configuration.html"/>
-    <updated>2022-06-04T10:03:18.350Z</updated>
+    <updated>2022-06-04T11:48:56.742Z</updated>
     <content type="html"><![CDATA[<h1 id="configuration" tabindex="-1"> Configuration</h1>
 <h2 id="nushell-configuration-with-env-nu-and-config-nu" tabindex="-1"> Nushell Configuration with <code>env.nu</code> and <code>config.nu</code></h2>
 <p>Nushell uses a configuration system that loads+runs two Nushell script files at launch time:
@@ -7464,7 +7464,7 @@ alias open = ^open
     <title type="html">Creating your own errors</title>
     <id>www.nushell.sh/book/creating_errors.html</id>
     <link href="www.nushell.sh/book/creating_errors.html"/>
-    <updated>2022-06-04T10:03:18.350Z</updated>
+    <updated>2022-06-04T11:48:56.742Z</updated>
     <content type="html"><![CDATA[<h1 id="creating-your-own-errors" tabindex="-1"> Creating your own errors</h1>
 <p>Using the <a href="/book/metadata.html">metadata</a> information, you can create your own custom error messages. Error messages are built of multiple parts:</p>
 <ul>
@@ -7504,7 +7504,7 @@ Error:
     <title type="html">Custom commands</title>
     <id>www.nushell.sh/book/custom_commands.html</id>
     <link href="www.nushell.sh/book/custom_commands.html"/>
-    <updated>2022-06-04T10:03:18.350Z</updated>
+    <updated>2022-06-04T11:48:56.742Z</updated>
     <content type="html"><![CDATA[<h1 id="custom-commands" tabindex="-1"> Custom commands</h1>
 <p>Nu's ability to compose long pipelines allows you a lot of control over your data and system, but it comes at the price of a lot of typing. Ideally, you'd be able to save your well-crafted pipelines to use again and again.</p>
 <p>This is where custom commands come in.</p>
@@ -7770,7 +7770,7 @@ Flags:
     <title type="html">Custom completions</title>
     <id>www.nushell.sh/book/custom_completions.html</id>
     <link href="www.nushell.sh/book/custom_completions.html"/>
-    <updated>2022-06-04T10:03:18.351Z</updated>
+    <updated>2022-06-04T11:48:56.743Z</updated>
     <content type="html"><![CDATA[<h1 id="custom-completions" tabindex="-1"> Custom completions</h1>
 <p>Custom completions allow you to mix together two features of Nushell: custom commands and completions. With them, you're able to create commands that handle the completions for positional parameters and flag parameters. These custom completions work both custom commands and <a href="/book/externs.html">known external, or <code>extern</code>, commands</a>.</p>
 <p>There are two parts to a custom command: the command that handles a completion and attaching this command to the type of another command using <code>@</code>.</p>
@@ -7812,7 +7812,7 @@ cat                 dog                 eel
     <title type="html">Dataframes</title>
     <id>www.nushell.sh/book/dataframes.html</id>
     <link href="www.nushell.sh/book/dataframes.html"/>
-    <updated>2022-06-04T10:03:18.354Z</updated>
+    <updated>2022-06-04T11:48:56.746Z</updated>
     <content type="html"><![CDATA[<h1 id="dataframes" tabindex="-1"> Dataframes</h1>
 <div><p>TIP</p>
 <p>The dataframe commands are available from version 0.33.1 onwards</p>
@@ -8973,7 +8973,7 @@ dataframes and how they can help you process data faster and efficiently.</p>
     <title type="html">Environment</title>
     <id>www.nushell.sh/book/environment.html</id>
     <link href="www.nushell.sh/book/environment.html"/>
-    <updated>2022-06-04T10:03:18.354Z</updated>
+    <updated>2022-06-04T11:48:56.746Z</updated>
     <content type="html"><![CDATA[<h1 id="environment" tabindex="-1"> Environment</h1>
 <p>A common task in a shell is to control the environment that external applications will use. This is often done automatically, as the environment is packaged up and given to the external application as it launches. Sometimes, though, we want to have more precise control over what environment variables an application sees.</p>
 <p>You can see the current environment variables using the <a href="/book/commands/env.html"><code>env</code></a> command:</p>
@@ -9108,7 +9108,7 @@ BAR
     <title type="html">Escaping to the system</title>
     <id>www.nushell.sh/book/escaping.html</id>
     <link href="www.nushell.sh/book/escaping.html"/>
-    <updated>2022-06-04T10:03:18.354Z</updated>
+    <updated>2022-06-04T11:48:56.746Z</updated>
     <content type="html"><![CDATA[<h1 id="escaping-to-the-system" tabindex="-1"> Escaping to the system</h1>
 <p>Nu provides a set of commands that you can use across different OSes (&quot;internal&quot; commands), and having this consistency is helpful. Sometimes, though, you want to run an external command that has the same name as an internal Nu command. To run the external <code>ls</code> or <code>date</code> command, for example, you use the caret (^) command. Escaping with the caret prefix calls the command that's in the user's PATH (e.g. <code>/bin/ls</code> instead of Nu's internal <a href="/book/commands/ls.html"><code>ls</code></a> command).</p>
 <p>Nu internal command:</p>
@@ -9121,7 +9121,7 @@ BAR
     <title type="html">Externs</title>
     <id>www.nushell.sh/book/externs.html</id>
     <link href="www.nushell.sh/book/externs.html"/>
-    <updated>2022-06-04T10:03:18.354Z</updated>
+    <updated>2022-06-04T11:48:56.746Z</updated>
     <content type="html"><![CDATA[<h1 id="externs" tabindex="-1"> Externs</h1>
 <p>Calling external commands is a fundamental part of using Nushell as a shell (and often using Nushell as a language). There's a problem, though, commands outside of Nushell means that Nushell can't help with finding errors in the call, or completions, or syntax highlighting.</p>
 <p>This is where <code>extern</code> comes in. The <code>extern</code> keyword allows you to write a full signature for the command that lives outside of Nushell so that you get all the benefits above. If you take a look at the default config, you'll notice that there are a few extern calls in there. Here's one of them:</p>
@@ -9167,7 +9167,7 @@ BAR
     <title type="html">Installing Nu</title>
     <id>www.nushell.sh/book/installation.html</id>
     <link href="www.nushell.sh/book/installation.html"/>
-    <updated>2022-06-04T10:03:18.355Z</updated>
+    <updated>2022-06-04T11:48:56.747Z</updated>
     <content type="html"><![CDATA[<h1 id="installing-nu" tabindex="-1"> Installing Nu</h1>
 <p>There are lots of ways to get Nu up and running. You can download pre-built binaries from our <a href="https://github.com/nushell/nushell/releases" target="_blank" rel="noopener noreferrer">release page</a>, <a href="https://repology.org/project/nushell/versions" target="_blank" rel="noopener noreferrer">use your favourite package manager</a>, or build from source.</p>
 <h2 id="pre-built-binaries" tabindex="-1"> Pre-built binaries</h2>
@@ -9266,7 +9266,7 @@ The path to add can be found with the command <code>which nu</code>, usually it 
     <title type="html">Reedline, Nu&amp;apos;s line editor</title>
     <id>www.nushell.sh/book/line_editor.html</id>
     <link href="www.nushell.sh/book/line_editor.html"/>
-    <updated>2022-06-04T10:03:18.356Z</updated>
+    <updated>2022-06-04T11:48:56.749Z</updated>
     <content type="html"><![CDATA[<h1 id="reedline-nu-s-line-editor" tabindex="-1"> Reedline, Nu's line editor</h1>
 <p>Nushell's line editor <a href="https://github.com/nushell/reedline" target="_blank" rel="noopener noreferrer">Reedline</a> is a
 cross platform line reader designed to be modular and flexible. The engine is
@@ -10171,7 +10171,7 @@ assign the completion and history menu to <code>Ctrl+t</code> and <code>Ctrl+y</
     <title type="html">Loading data</title>
     <id>www.nushell.sh/book/loading_data.html</id>
     <link href="www.nushell.sh/book/loading_data.html"/>
-    <updated>2022-06-04T10:03:18.357Z</updated>
+    <updated>2022-06-04T11:48:56.749Z</updated>
     <content type="html"><![CDATA[<h1 id="loading-data" tabindex="-1"> Loading data</h1>
 <p>Earlier, we saw how you can use commands like <a href="/book/commands/ls.html"><code>ls</code></a>, <a href="/book/commands/ps.html"><code>ps</code></a>, <a href="/book/commands/date.html"><code>date</code></a>, and <a href="/book/commands/sys.html"><code>sys</code></a> to load information about your files, processes, time of date, and the system itself. Each command gives us a table of information that we can explore. There are other ways we can load in a table of data to work with.</p>
 <h2 id="opening-files" tabindex="-1"> Opening files</h2>
@@ -10318,7 +10318,7 @@ license = "MIT"
     <title type="html">Metadata</title>
     <id>www.nushell.sh/book/metadata.html</id>
     <link href="www.nushell.sh/book/metadata.html"/>
-    <updated>2022-06-04T10:03:18.357Z</updated>
+    <updated>2022-06-04T11:48:56.749Z</updated>
     <content type="html"><![CDATA[<h1 id="metadata" tabindex="-1"> Metadata</h1>
 <p>In using Nu, you may have come across times where you felt like there was something extra going on behind the scenes. For example, let's say that you try to open a file that Nu supports only to forget and try to convert again:</p>
 <div><pre><code>> open Cargo.toml | from toml
@@ -10349,7 +10349,7 @@ error: Expected a string from pipeline
     <title type="html">Modules</title>
     <id>www.nushell.sh/book/modules.html</id>
     <link href="www.nushell.sh/book/modules.html"/>
-    <updated>2022-06-04T10:03:18.357Z</updated>
+    <updated>2022-06-04T11:48:56.749Z</updated>
     <content type="html"><![CDATA[<h1 id="modules" tabindex="-1"> Modules</h1>
 <p>Similar to many other programming languages, Nushell also has modules that let you import custom commands into a current scope.
 However, since Nushell is also a shell, modules allow you to import environment variables which can be used to conveniently activate/deactivate various environments.</p>
@@ -10575,7 +10575,7 @@ hello world!
     <title type="html">Moving around your system</title>
     <id>www.nushell.sh/book/moving_around.html</id>
     <link href="www.nushell.sh/book/moving_around.html"/>
-    <updated>2022-06-04T10:03:18.357Z</updated>
+    <updated>2022-06-04T11:48:56.750Z</updated>
     <content type="html"><![CDATA[<h1 id="moving-around-your-system" tabindex="-1"> Moving around your system</h1>
 <p>Early shells allow you to move around your filesystem and run commands, and modern shells like Nu allow you to do the same. Let's take a look at some of the common commands you might use when interacting with your system.</p>
 <h2 id="viewing-directory-contents" tabindex="-1"> Viewing directory contents</h2>
@@ -10632,7 +10632,7 @@ hello world!
     <title type="html">Nu map from other shells and domain specific languages</title>
     <id>www.nushell.sh/book/nushell_map.html</id>
     <link href="www.nushell.sh/book/nushell_map.html"/>
-    <updated>2022-06-04T10:03:18.358Z</updated>
+    <updated>2022-06-04T11:48:56.750Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-map-from-other-shells-and-domain-specific-languages" tabindex="-1"> Nu map from other shells and domain specific languages</h1>
 <p>The idea behind this table is to help you understand how Nu built-ins and plug-ins relate to other known shells and domain specific languages. We've tried to produce a map of all the Nu commands and what their equivalents are in other languages. Contributions are welcome.</p>
 <p>Note: this table assumes Nu 0.43 or later.</p>
@@ -11288,7 +11288,7 @@ hello world!
     <title type="html">Nu map from functional languages</title>
     <id>www.nushell.sh/book/nushell_map_functional.html</id>
     <link href="www.nushell.sh/book/nushell_map_functional.html"/>
-    <updated>2022-06-04T10:03:18.358Z</updated>
+    <updated>2022-06-04T11:48:56.750Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-map-from-functional-languages" tabindex="-1"> Nu map from functional languages</h1>
 <p>The idea behind this table is to help you understand how Nu built-ins and plug-ins relate to functional languages. We've tried to produce a map of all the Nu commands and what their equivalents are in other languages. Contributions are welcome.</p>
 <p>Note: this table assumes Nu 0.43 or later.</p>
@@ -11965,7 +11965,7 @@ hello world!
     <title type="html">Nu map from imperative languages</title>
     <id>www.nushell.sh/book/nushell_map_imperative.html</id>
     <link href="www.nushell.sh/book/nushell_map_imperative.html"/>
-    <updated>2022-06-04T10:03:18.358Z</updated>
+    <updated>2022-06-04T11:48:56.751Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-map-from-imperative-languages" tabindex="-1"> Nu map from imperative languages</h1>
 <p>The idea behind this table is to help you understand how Nu built-ins and plug-ins relate to imperative languages. We've tried to produce a map of all the Nu commands and what their equivalents are in other languages. Contributions are welcome.</p>
 <p>Note: this table assumes Nu 0.43 or later.</p>
@@ -12628,7 +12628,7 @@ hello world!
     <title type="html">Nushell operator map</title>
     <id>www.nushell.sh/book/nushell_operator_map.html</id>
     <link href="www.nushell.sh/book/nushell_operator_map.html"/>
-    <updated>2022-06-04T10:03:18.358Z</updated>
+    <updated>2022-06-04T11:48:56.751Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-operator-map" tabindex="-1"> Nushell operator map</h1>
 <p>The idea behind this table is to help you understand how Nu operators relate to other language operators. We've tried to produce a map of all the nushell operators and what their equivalents are in other languages. Contributions are welcome.</p>
 <p>Note: this table assumes Nu 0.14.1 or later.</p>
@@ -12788,7 +12788,7 @@ hello world!
     <title type="html">Operators</title>
     <id>www.nushell.sh/book/operators.html</id>
     <link href="www.nushell.sh/book/operators.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.751Z</updated>
     <content type="html"><![CDATA[<h1 id="operators" tabindex="-1"> Operators</h1>
 <p>Nushell supports the following operators for common math, logic, and string operations:</p>
 <table>
@@ -12919,7 +12919,7 @@ foobarbaz <span>!</span>~ bar <span># returns false</span>
     <title type="html">Overlays</title>
     <id>www.nushell.sh/book/overlays.html</id>
     <link href="www.nushell.sh/book/overlays.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.751Z</updated>
     <content type="html"><![CDATA[<h1 id="overlays" tabindex="-1"> Overlays</h1>
 <p>Overlays act as &quot;layers&quot; of definitions (custom commands, aliases, environment variables) that can be activated and deactivated on demand.
 They resemble virtual environments found in some languages, such as Python.</p>
@@ -13057,7 +13057,7 @@ foo-in-zero
     <title type="html">Parallelism</title>
     <id>www.nushell.sh/book/parallelism.html</id>
     <link href="www.nushell.sh/book/parallelism.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.751Z</updated>
     <content type="html"><![CDATA[<h1 id="parallelism" tabindex="-1"> Parallelism</h1>
 <p>Nushell now has early support for running code in parallel. This allows you to process elements of a stream using more hardware resources of your computer.</p>
 <p>You will notice these commands with their characteristic <code>par-</code> naming. Each corresponds to a non-parallel version, allowing you to easily write code in a serial style first, and then go back and easily convert serial scripts into parallel scripts with a few extra characters.</p>
@@ -13086,7 +13086,7 @@ foo-in-zero
     <title type="html">Pipelines</title>
     <id>www.nushell.sh/book/pipeline.html</id>
     <link href="www.nushell.sh/book/pipeline.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="pipelines" tabindex="-1"> Pipelines</h1>
 <p>One of the core designs of Nu is the pipeline, a design idea that traces its roots back decades to some of the original philosophy behind Unix. Just as Nu extends from the single string data type of Unix, Nu also extends the idea of the pipeline to include more than just text.</p>
 <h2 id="basics" tabindex="-1"> Basics</h2>
@@ -13127,7 +13127,7 @@ foo-in-zero
     <title type="html">Plugins</title>
     <id>www.nushell.sh/book/plugins.html</id>
     <link href="www.nushell.sh/book/plugins.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="plugins" tabindex="-1"> Plugins</h1>
 <p>Nu can be extended using plugins. Plugins behave much like Nu's built-in commands, with the added benefit that they can be added separately from Nu itself.</p>
 <p>Nu plugins are executables; Nu launches them as needed and communicates with them over <a href="https://en.wikipedia.org/wiki/Standard_streams" target="_blank" rel="noopener noreferrer">stdin, stdout, and stderr</a>. Nu plugins can use either JSON or <a href="https://capnproto.org/" target="_blank" rel="noopener noreferrer">Cap'n Proto</a> as their communication encoding.</p>
@@ -13161,7 +13161,7 @@ foo-in-zero
     <title type="html">Regular expressions</title>
     <id>www.nushell.sh/book/regular_expressions.html</id>
     <link href="www.nushell.sh/book/regular_expressions.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="regular-expressions" tabindex="-1"> Regular expressions</h1>
 <p>Regular expressions in Nushell's commands are handled by the <code>rust-lang/regex</code> crate. If you want to know more, check the crate documentation: &quot;<a href="https://github.com/rust-lang/regex" target="_blank" rel="noopener noreferrer">regex</a>&quot;.</p>
 ]]></content>
@@ -13170,7 +13170,7 @@ foo-in-zero
     <title type="html">Scripts</title>
     <id>www.nushell.sh/book/scripts.html</id>
     <link href="www.nushell.sh/book/scripts.html"/>
-    <updated>2022-06-04T10:03:18.359Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="scripts" tabindex="-1"> Scripts</h1>
 <p>In Nushell, you can write and run scripts in the Nushell language. To run a script, you can pass it as an argument to the <code>nu</code> commandline application:</p>
 <div><pre><code>> nu myscript.nu
@@ -13221,7 +13221,7 @@ Hello World!
     <title type="html">Shells in shells</title>
     <id>www.nushell.sh/book/shells_in_shells.html</id>
     <link href="www.nushell.sh/book/shells_in_shells.html"/>
-    <updated>2022-06-04T10:03:18.360Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="shells-in-shells" tabindex="-1"> Shells in shells</h1>
 <h2 id="working-in-multiple-directories" tabindex="-1"> Working in multiple directories</h2>
 <p>While it's common to work in one directory, it can be handy to work in multiple places at the same time. For this, Nu offers the concept of &quot;shells&quot;. As the name implies, they're a way of running multiple shells in one, allowing you to quickly jump between working directories and more.</p>
@@ -13261,7 +13261,7 @@ Hello World!
     <title type="html">Stdout, Stderr, and Exit Codes</title>
     <id>www.nushell.sh/book/stdout_stderr_exit_codes.html</id>
     <link href="www.nushell.sh/book/stdout_stderr_exit_codes.html"/>
-    <updated>2022-06-04T10:03:18.360Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="stdout-stderr-and-exit-codes" tabindex="-1"> Stdout, Stderr, and Exit Codes</h1>
 <p>An important piece of interop between Nushell and external commands is working with the standard streams of data coming from the external.</p>
 <p>The first of these important streams is stdout.</p>
@@ -13302,7 +13302,7 @@ Hello World!
     <title type="html">Table of Contents</title>
     <id>www.nushell.sh/book/table_of_contents.html</id>
     <link href="www.nushell.sh/book/table_of_contents.html"/>
-    <updated>2022-06-04T10:03:18.360Z</updated>
+    <updated>2022-06-04T11:48:56.752Z</updated>
     <content type="html"><![CDATA[<h1 id="table-of-contents" tabindex="-1"> Table of Contents</h1>
 <ul>
 <li><a href="/book/installation.html">Installation</a> - Installing Nushell</li>
@@ -13349,7 +13349,7 @@ Hello World!
     <title type="html">Thinking in Nu</title>
     <id>www.nushell.sh/book/thinking_in_nushell.html</id>
     <link href="www.nushell.sh/book/thinking_in_nushell.html"/>
-    <updated>2022-06-04T10:03:18.360Z</updated>
+    <updated>2022-06-04T11:48:56.753Z</updated>
     <content type="html"><![CDATA[<h1 id="thinking-in-nu" tabindex="-1"> Thinking in Nu</h1>
 <p>To help you understand - and get the most out of - Nushell, we've put together this section on &quot;thinking in Nushell&quot;. By learning to think in Nushell and use the patterns it provides, you'll hit fewer issues getting started and be better setup for success.</p>
 <p>So what does it mean to think in Nushell? Here are some common topics that come up with new users of Nushell.</p>
@@ -13408,7 +13408,7 @@ abc
     <title type="html">Types of data</title>
     <id>www.nushell.sh/book/types_of_data.html</id>
     <link href="www.nushell.sh/book/types_of_data.html"/>
-    <updated>2022-06-04T10:03:18.361Z</updated>
+    <updated>2022-06-04T11:48:56.753Z</updated>
     <content type="html"><![CDATA[<h1 id="types-of-data" tabindex="-1"> Types of data</h1>
 <p>Traditionally, Unix shell commands have communicated with each other using strings of text. One command would output text via standard out (often abbreviated 'stdout') and the other would read in text via standard in (or 'stdin'), allowing the two commands to communicate.</p>
 <p>We can think of this kind of communication as string-based.</p>
@@ -13630,7 +13630,7 @@ contents get viewed.</li>
     <title type="html">Variables and Subexpressions</title>
     <id>www.nushell.sh/book/variables_and_subexpressions.html</id>
     <link href="www.nushell.sh/book/variables_and_subexpressions.html"/>
-    <updated>2022-06-04T10:03:18.361Z</updated>
+    <updated>2022-06-04T11:48:56.753Z</updated>
     <content type="html"><![CDATA[<h1 id="variables-and-subexpressions" tabindex="-1"> Variables and Subexpressions</h1>
 <p>There are two types of evaluation expressions in Nushell: variables and subexpressions. You know that you're looking at an evaluation expression because it begins with a dollar sign (<code>$</code>). This indicates that when Nushell gets the value in this position, it will need to run an evaluation step to process the expression and then use the resulting value. Both evaluation expression forms support a simple form and a 'path' form for working with more complex data.</p>
 <h2 id="variables" tabindex="-1"> Variables</h2>
@@ -13684,7 +13684,7 @@ testuser
     <title type="html">Working with lists</title>
     <id>www.nushell.sh/book/working_with_lists.html</id>
     <link href="www.nushell.sh/book/working_with_lists.html"/>
-    <updated>2022-06-04T10:03:18.361Z</updated>
+    <updated>2022-06-04T11:48:56.754Z</updated>
     <content type="html"><![CDATA[<h1 id="working-with-lists" tabindex="-1"> Working with lists</h1>
 <h2 id="creating-lists" tabindex="-1"> Creating lists</h2>
 <p>A list is an ordered collection of values.
@@ -13804,7 +13804,7 @@ be converted to a separate row with a single column:</p>
     <title type="html">Working with strings</title>
     <id>www.nushell.sh/book/working_with_strings.html</id>
     <link href="www.nushell.sh/book/working_with_strings.html"/>
-    <updated>2022-06-04T10:03:18.362Z</updated>
+    <updated>2022-06-04T11:48:56.754Z</updated>
     <content type="html"><![CDATA[<h1 id="working-with-strings" tabindex="-1"> Working with strings</h1>
 <p>Strings in Nushell help to hold text data for later use. This can include file names, file paths, names of columns,
 and much more. Strings are so common that Nushell offers a couple ways to work with them, letting you pick what best
@@ -13862,7 +13862,7 @@ true
     <title type="html">Working with tables</title>
     <id>www.nushell.sh/book/working_with_tables.html</id>
     <link href="www.nushell.sh/book/working_with_tables.html"/>
-    <updated>2022-06-04T10:03:18.362Z</updated>
+    <updated>2022-06-04T11:48:56.754Z</updated>
     <content type="html"><![CDATA[<h1 id="working-with-tables" tabindex="-1"> Working with tables</h1>
 <p>One of the common ways of seeing data in Nu is through a table. Nu comes with a number of commands for working with tables to make it convenient to find what you're looking for, and for narrowing down the data to just what you need.</p>
 <p>To start off, let's get a table that we can use:</p>
@@ -14087,7 +14087,7 @@ true
     <title type="html">Introduction</title>
     <id>www.nushell.sh/contributor-book/</id>
     <link href="www.nushell.sh/contributor-book/"/>
-    <updated>2022-06-04T10:03:18.362Z</updated>
+    <updated>2022-06-04T11:48:56.755Z</updated>
     <content type="html"><![CDATA[<h1 id="introduction" tabindex="-1"> Introduction</h1>
 <p>Hello and welcome to the Nushell Contributor Book. Nushell, or Nu as its often called, is a modern shell written in Rust. You can learn more about Nu and how to use it in the <a href="https://www.nushell.sh/book/" target="_blank" rel="noopener noreferrer">Nu book</a>. In this book, we'll be looking at how to contribute to the Nu project itself, how Nu's code is organized, and the core concepts behind its design.</p>
 <p>Contributing to Nu will require at least some basic programmer experience, and it's helpful to have some experience with Rust. That said, we've had people contribute to Nu who have never written a line of Rust before writing their submission. If you are interested in contributing, there's a growing community of people who would like to help you succeed.</p>
@@ -14103,7 +14103,7 @@ true
     <title type="html">Commands</title>
     <id>www.nushell.sh/contributor-book/commands.html</id>
     <link href="www.nushell.sh/contributor-book/commands.html"/>
-    <updated>2022-06-04T10:03:18.362Z</updated>
+    <updated>2022-06-04T11:48:56.755Z</updated>
     <content type="html"><![CDATA[<h1 id="commands" tabindex="-1"> Commands</h1>
 <p>Commands are the building blocks for pipelines in Nu. They do the action of the pipeline, whether creating data, changing data as it flows from inputs to outputs, or viewing data once it has exited the pipeline. There are two types of commands: internal commands, those commands built to run inside of Nu, and external commands, commands that are outside of Nu and communicate with standard Unix-style <code>stdin</code>/<code>stdout</code>.</p>
 <h2 id="internal-commands" tabindex="-1"> Internal commands</h2>
@@ -14136,7 +14136,7 @@ true
     <title type="html">Metadata</title>
     <id>www.nushell.sh/contributor-book/metadata.html</id>
     <link href="www.nushell.sh/contributor-book/metadata.html"/>
-    <updated>2022-06-04T10:03:18.362Z</updated>
+    <updated>2022-06-04T11:48:56.755Z</updated>
     <content type="html"><![CDATA[<h1 id="metadata" tabindex="-1"> Metadata</h1>
 <p>All values that flow into and out of commands in Nu are tagged with metadata. You'll see this commonly around the codebase as <code>Tagged&lt;Value&gt;</code>.</p>
 <p>Though the metadata that is tracked is still in its early days, we expect to expand this as Nu matures.</p>
@@ -14152,7 +14152,7 @@ true
     <title type="html">Philosophy</title>
     <id>www.nushell.sh/contributor-book/philosophy.html</id>
     <link href="www.nushell.sh/contributor-book/philosophy.html"/>
-    <updated>2022-06-04T10:03:18.362Z</updated>
+    <updated>2022-06-04T11:48:56.755Z</updated>
     <content type="html"><![CDATA[<h1 id="philosophy" tabindex="-1"> Philosophy</h1>
 <h2 id="core-values" tabindex="-1"> Core Values</h2>
 <p>Nu's core value is that working in a shell should be fun. To support this, we believe that:</p>
@@ -14177,7 +14177,7 @@ true
     <title type="html">Plugins</title>
     <id>www.nushell.sh/contributor-book/plugins.html</id>
     <link href="www.nushell.sh/contributor-book/plugins.html"/>
-    <updated>2022-06-04T10:03:18.364Z</updated>
+    <updated>2022-06-04T11:48:56.756Z</updated>
     <content type="html"><![CDATA[<h1 id="plugins" tabindex="-1"> Plugins</h1>
 <h2 id="protocol" tabindex="-1"> Protocol</h2>
 <p>Plugins use JSON-RPC over stdin/stdout (much in the same way VSCode plugins do). The protocol is split into two stages.</p>
@@ -14459,7 +14459,7 @@ Just change the first line into:</p>
     <title type="html">Shells</title>
     <id>www.nushell.sh/contributor-book/shells.html</id>
     <link href="www.nushell.sh/contributor-book/shells.html"/>
-    <updated>2022-06-04T10:03:18.364Z</updated>
+    <updated>2022-06-04T11:48:56.756Z</updated>
     <content type="html"><![CDATA[<h1 id="shells" tabindex="-1"> Shells</h1>
 <p>Perhaps a bit unique to Nu is the concept of <code>shells</code>, though the idea of working in multiple places at the same time in a shell is fairly common (via pushd/popd, screen, and more). What perhaps makes Nu a little different is that its <code>shells</code> concept is both multiple platform, and that it works both on the filesystem and inside of values.</p>
 <p><strong>Note:</strong> The concept of a Value Shell is one of the many open design points of Nu and is subject to change in the future.</p>
