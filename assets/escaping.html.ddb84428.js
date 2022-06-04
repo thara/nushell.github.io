@@ -1,1 +1,0 @@
-const t={key:"v-44632546",path:"/old_book/escaping.html",title:"Escaping to the system",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"old_book/escaping.md"};export{t as data};

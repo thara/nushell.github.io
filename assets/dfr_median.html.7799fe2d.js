@@ -1,0 +1,2 @@
+const e={key:"v-27932706",path:"/book/commands/dfr_median.html",title:"dfr median",lang:"English",frontmatter:{title:"dfr median",version:"0.63.0",usage:`Aggregates columns to their median value or creates a median expression
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_median.md"};export{e as data};

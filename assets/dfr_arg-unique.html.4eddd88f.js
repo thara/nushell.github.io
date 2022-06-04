@@ -1,2 +1,0 @@
-const e={key:"v-2471b428",path:"/book/commands/dfr_arg-unique.html",title:"dfr arg-unique",lang:"English",frontmatter:{title:"dfr arg-unique",version:"0.63.0",usage:`Returns indexes for unique values
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_arg-unique.md"};export{e as data};

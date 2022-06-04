@@ -1,2 +1,0 @@
-const e={key:"v-45120630",path:"/book/commands/dfr_agg-groups.html",title:"dfr agg-groups",lang:"English",frontmatter:{title:"dfr agg-groups",version:"0.63.0",usage:`creates an agg_groups expression
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_agg-groups.md"};export{e as data};

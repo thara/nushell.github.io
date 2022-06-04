@@ -1,0 +1,2 @@
+const e={key:"v-2687d25d",path:"/book/commands/from_tsv.html",title:"from tsv",lang:"English",frontmatter:{title:"from tsv",version:"0.63.0",usage:`Parse text as .tsv and create table.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/from_tsv.md"};export{e as data};

@@ -1,2 +1,0 @@
-const e={key:"v-e79a5802",path:"/book/commands/history.html",title:"history",lang:"English",frontmatter:{title:"history",version:"0.63.0",usage:`Get the command history
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/history.md"};export{e as data};

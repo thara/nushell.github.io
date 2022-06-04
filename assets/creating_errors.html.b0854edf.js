@@ -1,1 +1,0 @@
-const t={key:"v-7a2c8aa0",path:"/zh-CN/book/creating_errors.html",title:"\u521B\u5EFA\u4F60\u81EA\u5DF1\u7684\u9519\u8BEF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"zh-CN/book/creating_errors.md"};export{t as data};

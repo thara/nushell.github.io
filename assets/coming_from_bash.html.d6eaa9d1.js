@@ -1,1 +1,0 @@
-const t={key:"v-dcf3c8f4",path:"/zh-CN/book/coming_from_bash.html",title:"\u4ECE Bash \u5230 Nu",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"zh-CN/book/coming_from_bash.md"};export{t as data};

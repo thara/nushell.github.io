@@ -1,1 +1,0 @@
-const t={key:"v-ddf62ff6",path:"/pt-BR/contributor-book/",title:"\xCDndice",lang:"pt-BR",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"pt-BR/contributor-book/README.md"};export{t as data};

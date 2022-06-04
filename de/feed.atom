@@ -3,7 +3,7 @@
   <id>www.nushell.sh/de/</id>
   <title>Nushell</title>
   <subtitle>Eine neue Art von Shell.</subtitle>
-  <updated>2022-06-04T13:17:54.418Z</updated>
+  <updated>2022-06-04T13:35:55.856Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="www.nushell.sh/de/"/>
@@ -11,7 +11,7 @@
     <title type="html">Konfiguration von Drittanbieter-Prompts</title>
     <id>www.nushell.sh/de/book/3rdpartyprompts.html</id>
     <link href="www.nushell.sh/de/book/3rdpartyprompts.html"/>
-    <updated>2022-06-04T13:17:54.526Z</updated>
+    <updated>2022-06-04T13:35:55.965Z</updated>
     <content type="html"><![CDATA[<h1 id="konfiguration-von-drittanbieter-prompts" tabindex="-1"> Konfiguration von Drittanbieter-Prompts</h1>
 <h2 id="nerdfonts" tabindex="-1"> nerdfonts</h2>
 <p>nerdfonts sind nicht zwangsweise notwendig, machen aber die Darstellung viel besser.
@@ -48,7 +48,7 @@ Sie enthalten unter anderem Symbole für Betriebssysteme oder den Git-Status und
     <title type="html">Einführung</title>
     <id>www.nushell.sh/de/book/</id>
     <link href="www.nushell.sh/de/book/"/>
-    <updated>2022-06-04T13:17:54.526Z</updated>
+    <updated>2022-06-04T13:35:55.965Z</updated>
     <content type="html"><![CDATA[<h1 id="einfuhrung" tabindex="-1"> Einführung</h1>
 <p>Hallo und herzlich Willkommen beim Nushell Projekt. Das Ziel diese Projekts ist es, die Philosophie von Unix Shells, wo Pipes einfache Befehle miteinander verbinden, mit modernen Ansätzen zu verbinden.</p>
 <p>Nu ist von vielen Seiten beeinflusst: traditionelle Shells wie Bash, objektbasierte Shells wie PowerShell, funktionale Programmierung, Systems Programming und viele Weitere. Aber statt die eierlegende Wollmilchsau zu sein, liegt der Fokus von Nu darauf, die angebotenen Funktionen gut zu beherrschen:</p>
@@ -195,7 +195,7 @@ Flags:
     <title type="html">Aliase</title>
     <id>www.nushell.sh/de/book/aliase.html</id>
     <link href="www.nushell.sh/de/book/aliase.html"/>
-    <updated>2022-06-04T13:17:54.527Z</updated>
+    <updated>2022-06-04T13:35:55.965Z</updated>
     <content type="html"><![CDATA[<h1 id="aliase" tabindex="-1"> Aliase</h1>
 <p>Aliase in Nushell bieten eine einfache Möglichkeit, um Texte zur ersetzen. Damit ist es möglich, einen Kurznamen für längere Befehle zu definieren - inklusive der Argumente.</p>
 <p>Beispielsweise kann ein Alias namens <code>ll</code> definiert werden, der den längeren Befehl <code>ls -l</code> ersetzt:</p>
@@ -213,7 +213,7 @@ Flags:
     <title type="html">Command Reference</title>
     <id>www.nushell.sh/de/book/command_reference.html</id>
     <link href="www.nushell.sh/de/book/command_reference.html"/>
-    <updated>2022-06-04T13:17:54.527Z</updated>
+    <updated>2022-06-04T13:35:55.965Z</updated>
     <content type="html"><![CDATA[<h1 id="command-reference" tabindex="-1"> Command Reference</h1>
 <table>
   <tr>
@@ -231,7 +231,7 @@ Flags:
     <title type="html">Eigene Befehle</title>
     <id>www.nushell.sh/de/book/eigene_befehle.html</id>
     <link href="www.nushell.sh/de/book/eigene_befehle.html"/>
-    <updated>2022-06-04T13:17:54.527Z</updated>
+    <updated>2022-06-04T13:35:55.966Z</updated>
     <content type="html"><![CDATA[<h1 id="eigene-befehle" tabindex="-1"> Eigene Befehle</h1>
 <p>Die Fähigkeit von Nu, lange Pipelines zu verarbeiten, erlauben es große Kontrolle über Daten und das System zu haben. Das Ganze kommt allerdings zum Preis von viel Tipparbeit. Idealerweise sollte es eine Möglichkeit geben, mühsam gebaute Pipelines zu speichern und wieder und wieder auszuführen.</p>
 <p>Hier kommen eigene Befehle ins Spiel.</p>
@@ -402,7 +402,7 @@ Flags:
     <title type="html">Aufruf von Systembefehlen</title>
     <id>www.nushell.sh/de/book/escaping.html</id>
     <link href="www.nushell.sh/de/book/escaping.html"/>
-    <updated>2022-06-04T13:17:54.527Z</updated>
+    <updated>2022-06-04T13:35:55.966Z</updated>
     <content type="html"><![CDATA[<h1 id="aufruf-von-systembefehlen" tabindex="-1"> Aufruf von Systembefehlen</h1>
 <p>Nushell stellt einen identischen Satz an Befehlen für verschiedene Systeme zur Verfügung, die überall dieselbe Syntax und Funktionalität haben. Manchmal ist es jedoch nötig, den gleichnamigen, vom System selbst bereitgestellten, Befehl aufzurufen. Um beispielsweise den <code>ls</code> oder <code>date</code> Befehl des Systems auszuführen, wird das Zirkumflex (<code>^</code>) dem Befehl vorangestellt:</p>
 <p>Nushell Befehl:</p>
@@ -415,7 +415,7 @@ Flags:
     <title type="html">Nu installieren</title>
     <id>www.nushell.sh/de/book/installation.html</id>
     <link href="www.nushell.sh/de/book/installation.html"/>
-    <updated>2022-06-04T13:17:54.527Z</updated>
+    <updated>2022-06-04T13:35:55.966Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-installieren" tabindex="-1"> Nu installieren</h1>
 <p>Der aktuell beste Weg Nu zu bekommen ist, es von <a href="https://crates.io" target="_blank" rel="noopener noreferrer">crates.io</a> zu installieren, Binärdateien von unserer <a href="https://github.com/nushell/nushell/releases" target="_blank" rel="noopener noreferrer">Release-Seite</a> herunterzuladen oder es selbst zu kompilieren.</p>
 <h2 id="binardatei" tabindex="-1"> Binärdatei</h2>
@@ -515,7 +515,7 @@ Der Pfad, der hinzugefügt werden muss, kann mit dem Befehl <code>which nu</code
     <title type="html">Konfiguration</title>
     <id>www.nushell.sh/de/book/konfiguration.html</id>
     <link href="www.nushell.sh/de/book/konfiguration.html"/>
-    <updated>2022-06-04T13:17:54.528Z</updated>
+    <updated>2022-06-04T13:35:55.967Z</updated>
     <content type="html"><![CDATA[<h1 id="konfiguration" tabindex="-1"> Konfiguration</h1>
 <h2 id="nushell-konfiguration-mittels-config-nu" tabindex="-1"> Nushell Konfiguration mittels <code>config.nu</code></h2>
 <p>Nushell nutzt ein Konfigurationssystem, das ein Nushell-Skript beim Start ausführt. Die Konfigurationsdatei wird für Nushell <code>config.nu</code> genannt. Der Pfad zu dieser Konfigurationsdatei kann durch den Aufruf von <code>echo $nu.config-path</code> herausgefunden werden. Es handelt sich dabei um eine Datei, die abgearbeitet wird und in jedem Schritt Definitionen, Umgebungsvariablen und mehr zum globalen Namespace hinzufügt.</p>
@@ -581,7 +581,7 @@ let-env PROMPT_COMMAND_RIGHT = {pwd} # Den rechte Promptteil mit dem aktuellen V
     <title type="html">Mathematik</title>
     <id>www.nushell.sh/de/book/mathematik.html</id>
     <link href="www.nushell.sh/de/book/mathematik.html"/>
-    <updated>2022-06-04T13:17:54.528Z</updated>
+    <updated>2022-06-04T13:35:55.967Z</updated>
     <content type="html"><![CDATA[<h1 id="mathematik" tabindex="-1"> Mathematik</h1>
 <p>Manchmal müssen lediglich ein paar Zahlen addiert werden, um eine Aufgabe zu erledigen. Nushell bietet dazu einen Satz an grundlegenden mathematischen Funktionen an. Mathematische Ausdrücke sind überall dort verfügbar, wo ein Befehl aufgerufen werden kann.</p>
 <h2 id="addieren-subtrahieren-multiplizieren-dividieren" tabindex="-1"> Addieren, Subtrahieren, Multiplizieren, Dividieren</h2>
@@ -629,7 +629,7 @@ true
     <title type="html">Plugins</title>
     <id>www.nushell.sh/de/book/plugins.html</id>
     <link href="www.nushell.sh/de/book/plugins.html"/>
-    <updated>2022-06-04T13:17:54.528Z</updated>
+    <updated>2022-06-04T13:35:55.967Z</updated>
     <content type="html"><![CDATA[<h1 id="plugins" tabindex="-1"> Plugins</h1>
 <p>Die Funktionen von Nushell können mittels Plugins erweitert werden. Diese Plugins können einen Großteil der selben Operationen ausführen, wie die internen Befehle. Noch dazu haben Plugins den Vorteil, dass sie separat und flexibel zu Nushell hinzugefügt werden können.</p>
 <p>Um ein Plugin hinzuzufügen, muss es erstellt werden und dann der Befehl <code>register</code> auf dieses Plugin aufgerufen werden. Wenn das getan wird, muss Nushell auch mitgeteilt werden, welches Protokoll vom Plugin verwendet wird.</p>
@@ -643,7 +643,7 @@ true
     <title type="html">Variablen und Unterausdrücke</title>
     <id>www.nushell.sh/de/book/variablen_und_unterausdruecke.html</id>
     <link href="www.nushell.sh/de/book/variablen_und_unterausdruecke.html"/>
-    <updated>2022-06-04T13:17:54.528Z</updated>
+    <updated>2022-06-04T13:35:55.967Z</updated>
     <content type="html"><![CDATA[<h1 id="variablen-und-unterausdrucke" tabindex="-1"> Variablen und Unterausdrücke</h1>
 <p>Es gibt zwei Arten von auszuwertenden Ausdrücken in Nushell: Variablen und Unterausdrücke. Diese werden durch das Dollar Symbol (<code>$</code>) eingeleitet. Das gibt den Hinweis, dass Nushell an dieser Stelle einen Ausdruck auswerten muss, um einen Wert zu erhalten, der für die Ausführung eines gesamten Befehls benötigt wird. Beide Formen des Ausdrucks haben eine einfache Variante und eine 'Pfad'-Variante, wenn mit komplexeren Daten gearbeitet wird.</p>
 <h2 id="variablen" tabindex="-1"> Variablen</h2>
@@ -690,7 +690,7 @@ testuser
     <title type="html">Vergleich zu Bash</title>
     <id>www.nushell.sh/de/book/von_bash_kommend.html</id>
     <link href="www.nushell.sh/de/book/von_bash_kommend.html"/>
-    <updated>2022-06-04T13:17:54.528Z</updated>
+    <updated>2022-06-04T13:35:55.967Z</updated>
     <content type="html"><![CDATA[<h1 id="vergleich-zu-bash" tabindex="-1"> Vergleich zu Bash</h1>
 <p>Hinweis: Diese Tabelle geht von Nu 0.59 oder neuer aus.</p>
 <table>

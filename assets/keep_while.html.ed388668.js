@@ -1,2 +1,0 @@
-const e={key:"v-9dc67870",path:"/book/commands/keep_while.html",title:"keep while",lang:"English",frontmatter:{title:"keep while",version:"0.63.0",usage:`Deprecated command
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/keep_while.md"};export{e as data};

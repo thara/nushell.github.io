@@ -1,1 +1,0 @@
-const e={key:"v-767d2cd2",path:"/de/book/von_bash_kommend.html",title:"Vergleich zu Bash",lang:"Deutsch",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"de/book/von_bash_kommend.md"};export{e as data};

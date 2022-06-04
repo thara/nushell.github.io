@@ -1,0 +1,1 @@
+const e={key:"v-9b468b86",path:"/old_book/commands/open.html",title:"open",lang:"English",frontmatter:{title:"open",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/open.md"};export{e as data};

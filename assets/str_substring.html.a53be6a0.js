@@ -1,2 +1,0 @@
-const t={key:"v-718f26a0",path:"/book/commands/str_substring.html",title:"str substring",lang:"English",frontmatter:{title:"str substring",version:"0.63.0",usage:`Get part of a string
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/str_substring.md"};export{t as data};

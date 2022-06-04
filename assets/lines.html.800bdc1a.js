@@ -1,0 +1,2 @@
+const e={key:"v-8f7c8a18",path:"/book/commands/lines.html",title:"lines",lang:"English",frontmatter:{title:"lines",version:"0.63.0",usage:`Converts input to lines
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/lines.md"};export{e as data};

@@ -1,1 +1,0 @@
-const t={key:"v-a2d7d5a4",path:"/old_book/plugins.html",title:"Plugins",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"old_book/plugins.md"};export{t as data};

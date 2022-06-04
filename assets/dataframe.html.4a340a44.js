@@ -1,2 +1,0 @@
-const a={key:"v-1c19a920",path:"/book/commands/dataframe.html",title:"dataframe",lang:"English",frontmatter:{title:"dataframe",version:"0.63.0",usage:`Deprecated command
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dataframe.md"};export{a as data};

@@ -3,7 +3,7 @@
   <id>www.nushell.sh/ja/</id>
   <title>Nushell</title>
   <subtitle>新しいタイプのシェル</subtitle>
-  <updated>2022-06-04T13:17:54.418Z</updated>
+  <updated>2022-06-04T13:35:55.856Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="www.nushell.sh/ja/"/>
@@ -11,7 +11,7 @@
     <title type="html">目次</title>
     <id>www.nushell.sh/ja/book/</id>
     <link href="www.nushell.sh/ja/book/"/>
-    <updated>2022-06-04T13:17:54.535Z</updated>
+    <updated>2022-06-04T13:35:55.974Z</updated>
     <content type="html"><![CDATA[<h1 id="目次" tabindex="-1"> 目次</h1>
 <ul>
 <li><a href="/ja/book/installation.html">インストール</a> - nushell のインストール</li>
@@ -42,7 +42,7 @@
     <title type="html">エイリアス</title>
     <id>www.nushell.sh/ja/book/aliases.html</id>
     <link href="www.nushell.sh/ja/book/aliases.html"/>
-    <updated>2022-06-04T13:17:54.535Z</updated>
+    <updated>2022-06-04T13:35:55.974Z</updated>
     <content type="html"><![CDATA[<h1 id="エイリアス" tabindex="-1"> エイリアス</h1>
 <p>Nu ではパイプラインを利用して自由にデータやシステムを操作できますが、その反面多くのタイピングを要してしまいます。一度作成したパイプラインを保存しておき再利用できるようにしておきたいところです。</p>
 <p>そこでエイリアスの出番です。</p>
@@ -76,7 +76,7 @@ hello world
     <title type="html">Bash から来た人向け</title>
     <id>www.nushell.sh/ja/book/coming_from_bash.html</id>
     <link href="www.nushell.sh/ja/book/coming_from_bash.html"/>
-    <updated>2022-06-04T13:17:54.536Z</updated>
+    <updated>2022-06-04T13:35:55.981Z</updated>
     <content type="html"><![CDATA[<h1 id="bash-から来た人向け" tabindex="-1"> Bash から来た人向け</h1>
 <p>注: このテーブルは Nu 1.14.1 以降を想定しています。</p>
 <table>
@@ -311,7 +311,7 @@ hello world
     <title type="html">Command Reference</title>
     <id>www.nushell.sh/ja/book/command_reference.html</id>
     <link href="www.nushell.sh/ja/book/command_reference.html"/>
-    <updated>2022-06-04T13:17:54.536Z</updated>
+    <updated>2022-06-04T13:35:55.981Z</updated>
     <content type="html"><![CDATA[<h1 id="command-reference" tabindex="-1"> Command Reference</h1>
 <table>
   <tr>
@@ -329,7 +329,7 @@ hello world
     <title type="html">設定</title>
     <id>www.nushell.sh/ja/book/configuration.html</id>
     <link href="www.nushell.sh/ja/book/configuration.html"/>
-    <updated>2022-06-04T13:17:54.536Z</updated>
+    <updated>2022-06-04T13:35:55.981Z</updated>
     <content type="html"><![CDATA[<h1 id="設定" tabindex="-1"> 設定</h1>
 <p>Nu には、見た目や挙動を変更させるための内部的な変数があります。
 以下がそのリストです。</p>
@@ -476,7 +476,7 @@ hello world
     <title type="html">環境変数</title>
     <id>www.nushell.sh/ja/book/environment.html</id>
     <link href="www.nushell.sh/ja/book/environment.html"/>
-    <updated>2022-06-04T13:17:54.536Z</updated>
+    <updated>2022-06-04T13:35:55.982Z</updated>
     <content type="html"><![CDATA[<h1 id="環境変数" tabindex="-1"> 環境変数</h1>
 <p>外部アプリケーションが使用する環境を制御することはシェルの一般的なタスクです。多くの場合、環境はパッケージ化されて外部のアプリケーション起動時に与えられることで自動的に行われます。しかし時には、アプリケーションが利用する環境変数をより正確に制御したい場合があります。</p>
 <p>アプリケーションに送られる現在の環境変数は<code>$nu.env</code>の値を echo して確認することができます。</p>
@@ -500,7 +500,7 @@ BAR
     <title type="html">エスケープ</title>
     <id>www.nushell.sh/ja/book/escaping.html</id>
     <link href="www.nushell.sh/ja/book/escaping.html"/>
-    <updated>2022-06-04T13:17:54.536Z</updated>
+    <updated>2022-06-04T13:35:55.982Z</updated>
     <content type="html"><![CDATA[<h1 id="エスケープ" tabindex="-1"> エスケープ</h1>
 <p>Nu は様々な OS で使用できる一連のコマンドを提供します。このような一貫性があると便利です。ただし、ときには Nu コマンドと同じ名前のコマンドを実行したいときがあります。例えば、ローカルの<code>ls</code>や<code>date</code>コマンドなどです。このような場合にはキャレット(^)コマンドを使用します。</p>
 <p>Nu のコマンド:</p>
@@ -513,7 +513,7 @@ BAR
     <title type="html">Nu のインストール</title>
     <id>www.nushell.sh/ja/book/installation.html</id>
     <link href="www.nushell.sh/ja/book/installation.html"/>
-    <updated>2022-06-04T13:17:54.536Z</updated>
+    <updated>2022-06-04T13:35:55.982Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-のインストール" tabindex="-1"> Nu のインストール</h1>
 <p>今のところ Nu をインストールするもっともよい方法は、<a href="https://crates.io" target="_blank" rel="noopener noreferrer">crates.io</a>からインストールするか、ビルド済のバイナリーを<a href="https://github.com/nushell/nushell/releases" target="_blank" rel="noopener noreferrer">リリースページ</a>からダウンロードするか、ソースからビルドすることです。
 Docker を利用してビルド済のコンテナをプルしてくる方法もあります。</p>
@@ -618,7 +618,7 @@ nushell<span>></span> cargo build --workspace --features<span>=</span>extra <spa
     <title type="html">はじめに</title>
     <id>www.nushell.sh/ja/book/introduction.html</id>
     <link href="www.nushell.sh/ja/book/introduction.html"/>
-    <updated>2022-06-04T13:17:54.537Z</updated>
+    <updated>2022-06-04T13:35:55.982Z</updated>
     <content type="html"><![CDATA[<h1 id="はじめに" tabindex="-1"> はじめに</h1>
 <p>こんにちは、Nushell プロジェクトへようこそ。このプロジェクトのゴールは、シンプルなコマンドをパイプでつなぎ合わせるというシェルの Unix 哲学を現代の開発スタイルにもちこむことです。</p>
 <p>Nu は Bash のような伝統的なシェル、PowerShell などの高度なシェル、関数型プログラミング、システムプログラミングなど、多くの分野からヒントを得ています。しかし Nu は何でもこなせることを目指すのではなく、いくつかのことをうまくこなせることに注力しています。</p>
@@ -758,7 +758,7 @@ Flags:
     <title type="html">データの読み込み</title>
     <id>www.nushell.sh/ja/book/loading_data.html</id>
     <link href="www.nushell.sh/ja/book/loading_data.html"/>
-    <updated>2022-06-04T13:17:54.537Z</updated>
+    <updated>2022-06-04T13:35:55.983Z</updated>
     <content type="html"><![CDATA[<h1 id="データの読み込み" tabindex="-1"> データの読み込み</h1>
 <p>これまでに、<code>ls</code>、<code>ps</code>、<code>date</code>、および<code>sys</code>コマンドを使って、ファイル、プロセス、日付そしてシステム自身の情報を取得する方法をみてきました。各コマンドはテーブル情報を提供しますが、他にもデータをテーブルに読み込む方法があります。</p>
 <h2 id="ファイルを開く" tabindex="-1"> ファイルを開く</h2>
@@ -897,7 +897,7 @@ license = "MIT"
     <title type="html">Math</title>
     <id>www.nushell.sh/ja/book/math.html</id>
     <link href="www.nushell.sh/ja/book/math.html"/>
-    <updated>2022-06-04T13:17:54.537Z</updated>
+    <updated>2022-06-04T13:35:55.983Z</updated>
     <content type="html"><![CDATA[<h1 id="math" tabindex="-1"> Math</h1>
 <p>何かの作業をしているとき、いくつかの数字を足し算したくなるときがあります。Nu には基本的な数学演算が用意されています。</p>
 <p>&quot;math mode&quot;にするには、コマンドの先頭に<code>=</code>をつけます。これにより演算子を使用するコマンドを書くことができます。<code>where</code>コマンドのように自動でおこなってくれるコマンドもあります。</p>
@@ -937,7 +937,7 @@ true
     <title type="html">メタデータ</title>
     <id>www.nushell.sh/ja/book/metadata.html</id>
     <link href="www.nushell.sh/ja/book/metadata.html"/>
-    <updated>2022-06-04T13:17:54.537Z</updated>
+    <updated>2022-06-04T13:35:55.983Z</updated>
     <content type="html"><![CDATA[<h1 id="メタデータ" tabindex="-1"> メタデータ</h1>
 <p>Nu を使用していると裏でなにか特別なことがおきているのではないかと思うことがあるでしょう。例えば、Nu がサポートしているファイル形式を忘れていて、余計に変換しようとしてしまったとしましょう。</p>
 <div><pre><code>> open Cargo.toml | from toml
@@ -970,7 +970,7 @@ error: Expected a string from pipeline
     <title type="html">システム内の移動</title>
     <id>www.nushell.sh/ja/book/moving_around.html</id>
     <link href="www.nushell.sh/ja/book/moving_around.html"/>
-    <updated>2022-06-04T13:17:54.538Z</updated>
+    <updated>2022-06-04T13:35:55.983Z</updated>
     <content type="html"><![CDATA[<h1 id="システム内の移動" tabindex="-1"> システム内の移動</h1>
 <p>初期のシェルを使うとシステム内を移動してコマンドを実行することができますが、Nu のような現代的なシェルでも同じことができます。システムを操作する際によく使われるコマンドをいくつか見てみましょう。</p>
 <h2 id="ディレクトリの内容を確認する" tabindex="-1"> ディレクトリの内容を確認する</h2>
@@ -1026,7 +1026,7 @@ error: Expected a string from pipeline
     <title type="html">他のシェルと DSL から Nu への対応表</title>
     <id>www.nushell.sh/ja/book/nushell_map.html</id>
     <link href="www.nushell.sh/ja/book/nushell_map.html"/>
-    <updated>2022-06-04T13:17:54.538Z</updated>
+    <updated>2022-06-04T13:35:55.983Z</updated>
     <content type="html"><![CDATA[<h1 id="他のシェルと-dsl-から-nu-への対応表" tabindex="-1"> 他のシェルと DSL から Nu への対応表</h1>
 <p>このテーブルは Nu の組込みコマンドやプラグインと他のシェルや DLS(Domain Specific Languages)との対応関係を理解することを助けるためのものです。ここでは全ての Nu コマンドとそのコマンドが他の言語でどう使われているかをマッピングしています。コントリビューション歓迎です。</p>
 <p>注: Nu が 0.14.1 以降であることを想定しています。</p>
@@ -1726,7 +1726,7 @@ error: Expected a string from pipeline
     <title type="html">関数型言語から Nu への対応表</title>
     <id>www.nushell.sh/ja/book/nushell_map_functional.html</id>
     <link href="www.nushell.sh/ja/book/nushell_map_functional.html"/>
-    <updated>2022-06-04T13:17:54.538Z</updated>
+    <updated>2022-06-04T13:35:55.984Z</updated>
     <content type="html"><![CDATA[<h1 id="関数型言語から-nu-への対応表" tabindex="-1"> 関数型言語から Nu への対応表</h1>
 <p>このテーブルは Nu の組込みコマンドやプラグインと他の関数型言語との対応関係を理解することを助けるためのものです。ここでは全ての Nu コマンドとそのコマンドが他の言語でどう使われているかをマッピングしています。コントリビューション歓迎です。</p>
 <p>注: Nu が 0.14.1 以降であることを想定しています。</p>
@@ -1838,7 +1838,7 @@ error: Expected a string from pipeline
     <title type="html">命令形言語から Nu への対応表</title>
     <id>www.nushell.sh/ja/book/nushell_map_imperative.html</id>
     <link href="www.nushell.sh/ja/book/nushell_map_imperative.html"/>
-    <updated>2022-06-04T13:17:54.539Z</updated>
+    <updated>2022-06-04T13:35:55.984Z</updated>
     <content type="html"><![CDATA[<h1 id="命令形言語から-nu-への対応表" tabindex="-1"> 命令形言語から Nu への対応表</h1>
 <p>このテーブルは Nu の組込みコマンドやプラグインと他の命令型言語との対応関係を理解することを助けるためのものです。ここでは全ての Nu コマンドとそのコマンドが他の言語でどう使われているかをマッピングしています。コントリビューション歓迎です。</p>
 <p>注: Nu が 0.14.1 以降であることを想定しています。</p>
@@ -2531,7 +2531,7 @@ error: Expected a string from pipeline
     <title type="html">Nushell 演算子対応表</title>
     <id>www.nushell.sh/ja/book/nushell_operator_map.html</id>
     <link href="www.nushell.sh/ja/book/nushell_operator_map.html"/>
-    <updated>2022-06-04T13:17:54.539Z</updated>
+    <updated>2022-06-04T13:35:55.984Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-演算子対応表" tabindex="-1"> Nushell 演算子対応表</h1>
 <p>このテーブルは Nu の演算子と他言語の演算子の対応関係を理解するのを助けるためのものです。ここでは全ての Nu の演算子とその演算子が他の言語でどう使われているかをマッピングしています。コントリビューション歓迎です。</p>
 <p>注: Nu が 0.14.1 以降であることを想定しています。</p>
@@ -2683,7 +2683,7 @@ error: Expected a string from pipeline
     <title type="html">パイプライン</title>
     <id>www.nushell.sh/ja/book/pipeline.html</id>
     <link href="www.nushell.sh/ja/book/pipeline.html"/>
-    <updated>2022-06-04T13:17:54.539Z</updated>
+    <updated>2022-06-04T13:35:55.985Z</updated>
     <content type="html"><![CDATA[<h1 id="パイプライン" tabindex="-1"> パイプライン</h1>
 <p>Nu のコアデザインのひとつがパイプラインです。パイプラインは Unix の背後にある哲学にまでそのルーツを遡ることができるデザインアイデアです。Nu は、Unix の文字列データを拡張したように、パイプラインの概念も拡張してテキスト以外のものも扱えるようにします。</p>
 <h2 id="基礎" tabindex="-1"> 基礎</h2>
@@ -2713,7 +2713,7 @@ error: Expected a string from pipeline
     <title type="html">プラグイン</title>
     <id>www.nushell.sh/ja/book/plugins.html</id>
     <link href="www.nushell.sh/ja/book/plugins.html"/>
-    <updated>2022-06-04T13:17:54.539Z</updated>
+    <updated>2022-06-04T13:35:55.985Z</updated>
     <content type="html"><![CDATA[<h1 id="プラグイン" tabindex="-1"> プラグイン</h1>
 <p>プラグインを用いることで Nu の機能を拡張することができます。プラグインは、Nu の組み込みコマンドと同じ操作の多くを実行することができ、Nu 本体とは別に追加できるという利点もあります。</p>
 <p>プラグインを追加するには、ビルドして PATH にバイナリーを配置するだけです。Nu のプラグインは、PATH 内の他のバイナリーと区別できるように<code>nu_plugin_</code>というファイル名ではじまります。</p>
@@ -2727,7 +2727,7 @@ error: Expected a string from pipeline
     <title type="html">シェルの中のシェル</title>
     <id>www.nushell.sh/ja/book/shells_in_shells.html</id>
     <link href="www.nushell.sh/ja/book/shells_in_shells.html"/>
-    <updated>2022-06-04T13:17:54.539Z</updated>
+    <updated>2022-06-04T13:35:55.985Z</updated>
     <content type="html"><![CDATA[<h1 id="シェルの中のシェル" tabindex="-1"> シェルの中のシェル</h1>
 <h2 id="複数のディレクトリで作業する" tabindex="-1"> 複数のディレクトリで作業する</h2>
 <p>ひとつのディレクトリで作業することが一般的ですが、同時に複数の場所で作業できれば便利です。このため、Nu は&quot;shells&quot;という概念を提供します。その名の通り、これらは同じ場所で複数のシェルを実行する方法であり、作業ディレクトリ間をすばやく移動することができます。</p>
@@ -2824,7 +2824,7 @@ error: Expected a string from pipeline
     <title type="html">目次</title>
     <id>www.nushell.sh/ja/book/table_of_contents.html</id>
     <link href="www.nushell.sh/ja/book/table_of_contents.html"/>
-    <updated>2022-06-04T13:17:54.539Z</updated>
+    <updated>2022-06-04T13:35:55.985Z</updated>
     <content type="html"><![CDATA[<h1 id="目次" tabindex="-1"> 目次</h1>
 <ul>
 <li><a href="/ja/book/installation.html">インストール</a> - nushell のインストール</li>
@@ -2846,7 +2846,7 @@ error: Expected a string from pipeline
     <title type="html">データ型</title>
     <id>www.nushell.sh/ja/book/types_of_data.html</id>
     <link href="www.nushell.sh/ja/book/types_of_data.html"/>
-    <updated>2022-06-04T13:17:54.540Z</updated>
+    <updated>2022-06-04T13:35:55.985Z</updated>
     <content type="html"><![CDATA[<h1 id="データ型" tabindex="-1"> データ型</h1>
 <p>従来、Unix シェルコマンドは文字列テキストを通じて互いに通信してきました。あるコマンドは標準出力(しばしば'stdout'と略されます)を介してテキストを出力し、他方のコマンドは標準入力(または'stdin')を介してテキストを読み込みます。このようにして、２つのコマンドは通信できます。</p>
 <p>この種の通信は文字列ベースと考えることができます。</p>
@@ -2937,7 +2937,7 @@ block はデータの行ごとに実行するコードを表すのに便利で�
     <title type="html">テーブルを扱う</title>
     <id>www.nushell.sh/ja/book/working_with_tables.html</id>
     <link href="www.nushell.sh/ja/book/working_with_tables.html"/>
-    <updated>2022-06-04T13:17:54.540Z</updated>
+    <updated>2022-06-04T13:35:55.985Z</updated>
     <content type="html"><![CDATA[<h1 id="テーブルを扱う" tabindex="-1"> テーブルを扱う</h1>
 <p>Nu でデータを表示する一般的な方法はテーブルを使用することです。Nu には、探しているものを見つけやすくしたり、必要なデータを絞り込んだりするのに便利なテーブルを操作するためのコマンドがたくさん用意されています。</p>
 <p>まずはじめに、今回利用するテーブルを確認しましょう。</p>

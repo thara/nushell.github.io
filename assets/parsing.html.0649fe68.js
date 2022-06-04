@@ -1,1 +1,0 @@
-const t={key:"v-7781edee",path:"/cookbook/parsing.html",title:"Parsing",lang:"English",frontmatter:{title:"Parsing"},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"cookbook/parsing.md"};export{t as data};

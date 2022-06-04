@@ -1,1 +1,0 @@
-const a={key:"v-1109bb6c",path:"/book/parallelism.html",title:"Parallelism",lang:"English",frontmatter:{},excerpt:"",headers:[{level:2,title:"par-each",slug:"par-each",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/parallelism.md"};export{a as data};

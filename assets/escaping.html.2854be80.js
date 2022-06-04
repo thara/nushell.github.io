@@ -1,1 +1,0 @@
-const a={key:"v-7ac8b69a",path:"/zh-CN/book/escaping.html",title:"\u8F6C\u79FB\u5230\u7CFB\u7EDF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"zh-CN/book/escaping.md"};export{a as data};

@@ -1,2 +1,0 @@
-const e={key:"v-7652feff",path:"/book/commands/dfr_std.html",title:"dfr std",lang:"English",frontmatter:{title:"dfr std",version:"0.63.0",usage:`Aggregates columns to their std value
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_std.md"};export{e as data};

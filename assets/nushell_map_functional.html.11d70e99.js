@@ -1,1 +1,0 @@
-const a={key:"v-4e4f6430",path:"/book/nushell_map_functional.html",title:"Nu map from functional languages",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/nushell_map_functional.md"};export{a as data};

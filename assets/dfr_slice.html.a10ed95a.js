@@ -1,2 +1,0 @@
-const e={key:"v-7d80d6b0",path:"/book/commands/dfr_slice.html",title:"dfr slice",lang:"English",frontmatter:{title:"dfr slice",version:"0.63.0",usage:`Creates new dataframe from a slice of rows
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_slice.md"};export{e as data};

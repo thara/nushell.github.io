@@ -1,2 +1,0 @@
-const e={key:"v-feed95ba",path:"/book/commands/p.html",title:"p",lang:"English",frontmatter:{title:"p",version:"0.63.0",usage:`Switch to the previous shell.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/p.md"};export{e as data};

@@ -1,2 +1,0 @@
-const e={key:"v-cf688618",path:"/book/commands/describe.html",title:"describe",lang:"English",frontmatter:{title:"describe",version:"0.63.0",usage:`Describe the value(s) piped in.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/describe.md"};export{e as data};

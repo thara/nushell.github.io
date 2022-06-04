@@ -1,2 +1,0 @@
-const e={key:"v-b6866f50",path:"/book/commands/every.html",title:"every",lang:"English",frontmatter:{title:"every",version:"0.63.0",usage:`Show (or skip) every n-th row, starting from the first one.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/every.md"};export{e as data};

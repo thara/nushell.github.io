@@ -1,0 +1,1 @@
+const t={key:"v-7782b4ce",path:"/pt-BR/book/introducao.html",title:"Introdu\xE7\xE3o",lang:"pt-BR",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"pt-BR/book/introducao.md"};export{t as data};

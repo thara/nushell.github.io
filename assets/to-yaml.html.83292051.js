@@ -1,0 +1,1 @@
+const t={key:"v-5e7cc992",path:"/old_book/commands/to-yaml.html",title:"to yaml",lang:"English",frontmatter:{title:"to yaml",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/to-yaml.md"};export{t as data};

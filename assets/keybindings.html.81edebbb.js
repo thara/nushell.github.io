@@ -1,2 +1,0 @@
-const e={key:"v-0f07ed74",path:"/book/commands/keybindings.html",title:"keybindings",lang:"English",frontmatter:{title:"keybindings",version:"0.63.0",usage:`Keybindings related commands
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/keybindings.md"};export{e as data};

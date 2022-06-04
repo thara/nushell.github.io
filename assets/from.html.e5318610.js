@@ -1,2 +1,0 @@
-const t={key:"v-0f040275",path:"/book/commands/from.html",title:"from",lang:"English",frontmatter:{title:"from",version:"0.63.0",usage:`Parse a string or binary data into structured data
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/from.md"};export{t as data};

@@ -1,2 +1,0 @@
-const e={key:"v-73311ac0",path:"/book/commands/dfr_cache.html",title:"dfr cache",lang:"English",frontmatter:{title:"dfr cache",version:"0.63.0",usage:`Caches operations in a new LazyFrame
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_cache.md"};export{e as data};

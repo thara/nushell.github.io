@@ -1,1 +1,0 @@
-const a={key:"v-3619e48a",path:"/es/book/escapando.html",title:"Escapando al sistema",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"es/book/escapando.md"};export{a as data};

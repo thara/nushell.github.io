@@ -1,1 +1,0 @@
-const t={key:"v-1984bb5a",path:"/old_book/working_with_lists.html",title:"Working with lists",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"old_book/working_with_lists.md"};export{t as data};

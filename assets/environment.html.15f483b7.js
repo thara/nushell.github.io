@@ -1,1 +1,0 @@
-const e={key:"v-44e44e2d",path:"/ja/book/environment.html",title:"\u74B0\u5883\u5909\u6570",lang:"ja",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"ja/book/environment.md"};export{e as data};

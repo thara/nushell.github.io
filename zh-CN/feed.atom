@@ -3,7 +3,7 @@
   <id>www.nushell.sh/zh-CN/</id>
   <title>Nushell</title>
   <subtitle>一种新型的Shell</subtitle>
-  <updated>2022-06-04T13:17:54.418Z</updated>
+  <updated>2022-06-04T13:35:55.856Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="www.nushell.sh/zh-CN/"/>
@@ -11,7 +11,7 @@
     <title type="html">配置第三方提示</title>
     <id>www.nushell.sh/zh-CN/book/3rdpartyprompts.html</id>
     <link href="www.nushell.sh/zh-CN/book/3rdpartyprompts.html"/>
-    <updated>2022-06-04T13:17:54.503Z</updated>
+    <updated>2022-06-04T13:35:55.950Z</updated>
     <content type="html"><![CDATA[<h1 id="配置第三方提示" tabindex="-1"> 配置第三方提示</h1>
 <h2 id="nerdfonts" tabindex="-1"> Nerdfonts</h2>
 <p>Nerdfonts 并不是必需的，但它们能使呈现效果更好。</p>
@@ -79,7 +79,7 @@ let-env PROMPT_MULTILINE_INDICATOR <span>=</span> <span>"::: "</span>
     <title type="html">介绍</title>
     <id>www.nushell.sh/zh-CN/book/</id>
     <link href="www.nushell.sh/zh-CN/book/"/>
-    <updated>2022-06-04T13:17:54.504Z</updated>
+    <updated>2022-06-04T13:35:55.950Z</updated>
     <content type="html"><![CDATA[<h1 id="介绍" tabindex="-1"> 介绍</h1>
 <p>你好，欢迎来到 Nushell 项目。这个项目的目标是继承 Unix Shell 中用管道把简单的命令连接在一起的理念，并将其带到更具现代风格的开发中。</p>
 <p>Nu 汲取了很多常见领域的灵感：传统 Shell 比如 Bash、基于对象的 Shell 比如 PowerShell、逐步类型化的语言比如 TypeScript、函数式编程、系统编程，等等。但是，Nu 并不试图成为万金油，而是把精力集中在做好这几件事上:</p>
@@ -227,7 +227,7 @@ Flags:
     <title type="html">别名</title>
     <id>www.nushell.sh/zh-CN/book/aliases.html</id>
     <link href="www.nushell.sh/zh-CN/book/aliases.html"/>
-    <updated>2022-06-04T13:17:54.504Z</updated>
+    <updated>2022-06-04T13:35:55.950Z</updated>
     <content type="html"><![CDATA[<h1 id="别名" tabindex="-1"> 别名</h1>
 <p>Nushell 中的别名提供了一种简单的文本替换方式，这允许你为一个较长的命令创建一个简写名称，包括其默认参数。</p>
 <p>例如，让我们创建一个名为 <code>ll</code> 的别名，它将展开为 <code>ls -l</code>。</p>
@@ -251,7 +251,7 @@ Flags:
     <title type="html">Nu 的配色和主题</title>
     <id>www.nushell.sh/zh-CN/book/coloring_and_theming.html</id>
     <link href="www.nushell.sh/zh-CN/book/coloring_and_theming.html"/>
-    <updated>2022-06-04T13:17:54.505Z</updated>
+    <updated>2022-06-04T13:35:55.952Z</updated>
     <content type="html"><![CDATA[<h1 id="nu-的配色和主题" tabindex="-1"> Nu 的配色和主题</h1>
 <p>Nushell 界面的许多部分都可以定制它们的颜色，所有这些都可以在<code>config.nu</code>配置文件中设置。如果你在配置文件中看到 hash/hashtag/pound 符号 <code>#</code>，这意味着它后面的文字被注释掉了。</p>
 <ol>
@@ -1357,7 +1357,7 @@ Flags:
     <title type="html">从 Bash 到 Nu</title>
     <id>www.nushell.sh/zh-CN/book/coming_from_bash.html</id>
     <link href="www.nushell.sh/zh-CN/book/coming_from_bash.html"/>
-    <updated>2022-06-04T13:17:54.505Z</updated>
+    <updated>2022-06-04T13:35:55.952Z</updated>
     <content type="html"><![CDATA[<h1 id="从-bash-到-nu" tabindex="-1"> 从 Bash 到 Nu</h1>
 <p>如果你是来自 Windows 上的<code>Git Bash</code>用户，那么你习惯的外部命令（bash、grep 等）在<code>nu</code>中默认是不可用的（除非你在 Windows 路径环境变量中明确包含了它们）。
 要使这些命令在<code>nu</code>中可用，请在你的<code>config.nu</code>中添加以下一行，用<code>append</code>或<code>prepend</code>。</p>
@@ -1615,7 +1615,7 @@ Flags:
     <title type="html">命令索引</title>
     <id>www.nushell.sh/zh-CN/book/command_reference.html</id>
     <link href="www.nushell.sh/zh-CN/book/command_reference.html"/>
-    <updated>2022-06-04T13:17:54.505Z</updated>
+    <updated>2022-06-04T13:35:55.952Z</updated>
     <content type="html"><![CDATA[<h1 id="命令索引" tabindex="-1"> 命令索引</h1>
 <p>若要查看所有 Nushell 命令, 可以执行 <a href="/book/commands/help.html"><code>help commands</code></a>。</p>
 <p>译注：本页内容由于是从源码生成的暂不支持国际化，大家还是先看英文版的凑合下吧。</p>
@@ -1635,7 +1635,7 @@ Flags:
     <title type="html">配置</title>
     <id>www.nushell.sh/zh-CN/book/configuration.html</id>
     <link href="www.nushell.sh/zh-CN/book/configuration.html"/>
-    <updated>2022-06-04T13:17:54.506Z</updated>
+    <updated>2022-06-04T13:35:55.952Z</updated>
     <content type="html"><![CDATA[<h1 id="配置" tabindex="-1"> 配置</h1>
 <h2 id="nushell-配置与env-nu和config-nu" tabindex="-1"> Nushell 配置与<code>env.nu</code>和<code>config.nu</code></h2>
 <p>Nushell 使用一个配置系统，在启动时加载并运行两个 Nushell 脚本文件：
@@ -1702,7 +1702,7 @@ Flags:
     <title type="html">创建你自己的错误</title>
     <id>www.nushell.sh/zh-CN/book/creating_errors.html</id>
     <link href="www.nushell.sh/zh-CN/book/creating_errors.html"/>
-    <updated>2022-06-04T13:17:54.506Z</updated>
+    <updated>2022-06-04T13:35:55.952Z</updated>
     <content type="html"><![CDATA[<h1 id="创建你自己的错误" tabindex="-1"> 创建你自己的错误</h1>
 <p>使用 <a href="/zh-CN/book/metadata.html">元数据</a> 信息，你可以创建自己的自定义错误，错误信息由多个部分构成：</p>
 <ul>
@@ -1742,7 +1742,7 @@ Error:
     <title type="html">自定义命令</title>
     <id>www.nushell.sh/zh-CN/book/custom_commands.html</id>
     <link href="www.nushell.sh/zh-CN/book/custom_commands.html"/>
-    <updated>2022-06-04T13:17:54.506Z</updated>
+    <updated>2022-06-04T13:35:55.953Z</updated>
     <content type="html"><![CDATA[<h1 id="自定义命令" tabindex="-1"> 自定义命令</h1>
 <p>Nu 具备组合长管道的能力使你对数据和系统有很强的控制力，但它的代价是需要大量的键盘输入。不过理想情况下，你可以保存精心设计的管道以便反复使用。</p>
 <p>这就是自定义命令(Custom Commands)的作用。</p>
@@ -1992,7 +1992,7 @@ Flags:
     <title type="html">自定义补全</title>
     <id>www.nushell.sh/zh-CN/book/custom_completions.html</id>
     <link href="www.nushell.sh/zh-CN/book/custom_completions.html"/>
-    <updated>2022-06-04T13:17:54.507Z</updated>
+    <updated>2022-06-04T13:35:55.953Z</updated>
     <content type="html"><![CDATA[<h1 id="自定义补全" tabindex="-1"> 自定义补全</h1>
 <p>自定义补全允许你混合使用 Nushell 的两个功能：自定义命令和补全。有了它们，你就能够创建支持对位置参数和标志(Flags)参数进行自动补全的命令。这些自定义补全既适用于自定义命令，也适用于 <a href="/zh-CN/book/externs.html">已知的外部或<code>extern</code>命令</a>。</p>
 <p>自定义命令有两个部分：处理补全的命令和使用<code>@</code>将此命令附加到另一个命令的类型中。</p>
@@ -2034,7 +2034,7 @@ Flags:
     <title type="html">DataFrames</title>
     <id>www.nushell.sh/zh-CN/book/dataframes.html</id>
     <link href="www.nushell.sh/zh-CN/book/dataframes.html"/>
-    <updated>2022-06-04T13:17:54.509Z</updated>
+    <updated>2022-06-04T13:35:55.955Z</updated>
     <content type="html"><![CDATA[<h1 id="dataframes" tabindex="-1"> DataFrames</h1>
 <div><p>TIP</p>
 <p>DataFrame 相关命令从 0.33.1 版本开始支持</p>
@@ -2963,7 +2963,7 @@ res <span>=</span> df<span>.</span>groupby<span>(</span><span>"year"</span><span
     <title type="html">环境</title>
     <id>www.nushell.sh/zh-CN/book/environment.html</id>
     <link href="www.nushell.sh/zh-CN/book/environment.html"/>
-    <updated>2022-06-04T13:17:54.509Z</updated>
+    <updated>2022-06-04T13:35:55.956Z</updated>
     <content type="html"><![CDATA[<h1 id="环境" tabindex="-1"> 环境</h1>
 <p>Shell 中的一个常见任务是控制外部应用程序将使用的环境变量。这通常是自动完成的，因为环境被打包，并在外部应用程序启动时提供给它。但有时，我们希望更精确地控制一个应用程序看到的环境变量。</p>
 <p>你可以使用<a href="/book/commands/env.html"><code>env</code></a>命令查看当前环境变量：</p>
@@ -3094,7 +3094,7 @@ BAR
     <title type="html">转移到系统</title>
     <id>www.nushell.sh/zh-CN/book/escaping.html</id>
     <link href="www.nushell.sh/zh-CN/book/escaping.html"/>
-    <updated>2022-06-04T13:17:54.509Z</updated>
+    <updated>2022-06-04T13:35:55.956Z</updated>
     <content type="html"><![CDATA[<h1 id="转移到系统" tabindex="-1"> 转移到系统</h1>
 <p>Nu 提供了一套你可以在不同操作系统中使用的命令（也成为&quot;内部&quot;命令），而且具备这种一致性是很有帮助的。但有时，你需要运行一个与 Nu 内部命令同名的外部命令。例如，要运行外部的<code>ls</code>或<code>date</code>命令，你可以使用脱字符 (^) 命令。用 <code>^</code> 前缀 可以转移调用用户 PATH 中的命令（例如：<code>/bin/ls</code>，而不是 Nu 内部的 <a href="/book/commands/ls.html"><code>ls</code></a> 命令）。</p>
 <p>Nu 的内部命令：</p>
@@ -3107,7 +3107,7 @@ BAR
     <title type="html">外部命令</title>
     <id>www.nushell.sh/zh-CN/book/externs.html</id>
     <link href="www.nushell.sh/zh-CN/book/externs.html"/>
-    <updated>2022-06-04T13:17:54.510Z</updated>
+    <updated>2022-06-04T13:35:55.956Z</updated>
     <content type="html"><![CDATA[<h1 id="外部命令" tabindex="-1"> 外部命令</h1>
 <p>调用外部命令是将 Nushell 作为一个 Shell 使用的基本部分（通常也将 Nushell 作为一种语言使用）。但是有一个问题，对于 Nushell 之外的命令而言，Nushell 不能帮助寻找调用中的错误，或者自动补全，或者语法高亮。</p>
 <p>这就是 <code>extern</code> 的作用。<code>extern</code>关键字允许你为 Nushell 之外的命令写一个完整的签名，这样你就能得到上述所有的好处。如果你看一下默认配置，你会发现其中有一些<code>extern</code>调用。下面是其中之一：</p>
@@ -3153,7 +3153,7 @@ BAR
     <title type="html">安装 Nu</title>
     <id>www.nushell.sh/zh-CN/book/installation.html</id>
     <link href="www.nushell.sh/zh-CN/book/installation.html"/>
-    <updated>2022-06-04T13:17:54.510Z</updated>
+    <updated>2022-06-04T13:35:55.957Z</updated>
     <content type="html"><![CDATA[<h1 id="安装-nu" tabindex="-1"> 安装 Nu</h1>
 <p>有很多方法可以获取并使用 Nu。你可以从我们的<a href="https://github.com/nushell/nushell/releases" target="_blank" rel="noopener noreferrer">发布页面</a>下载预编译的二进制文件，也可以 <a href="https://repology.org/project/nushell/versions" target="_blank" rel="noopener noreferrer">使用你喜欢的软件包管理器</a>，或者从源码构建。</p>
 <h2 id="预编译二进制包" tabindex="-1"> 预编译二进制包</h2>
@@ -3252,7 +3252,7 @@ nushell<span>></span> cargo build --workspace --features<span>=</span>extra <spa
     <title type="html">介绍</title>
     <id>www.nushell.sh/zh-CN/book/introduction.html</id>
     <link href="www.nushell.sh/zh-CN/book/introduction.html"/>
-    <updated>2022-06-04T13:17:54.510Z</updated>
+    <updated>2022-06-04T13:35:55.957Z</updated>
     <content type="html"><![CDATA[<h1 id="介绍" tabindex="-1"> 介绍</h1>
 <p>大家好，欢迎来到 Nushell 项目。这个项目的目标是彰显 Shell 的 Unix 哲学，就是用管道将简单的命令连接在一起，并且带来现代的开发风格。</p>
 <p>Nu 从许多熟悉的领域中汲取了线索：bash 等传统 shell，PowerShell 等高级 shell，函数式编程，系统编程等。但是 Nu 并没有试图成为所有行业的杰作，而是将精力集中在做好一些事情上：</p>
@@ -3386,7 +3386,7 @@ Flags:
     <title type="html">Reedline，Nu 的行编辑器</title>
     <id>www.nushell.sh/zh-CN/book/line_editor.html</id>
     <link href="www.nushell.sh/zh-CN/book/line_editor.html"/>
-    <updated>2022-06-04T13:17:54.511Z</updated>
+    <updated>2022-06-04T13:35:55.958Z</updated>
     <content type="html"><![CDATA[<h1 id="reedline-nu-的行编辑器" tabindex="-1"> Reedline，Nu 的行编辑器</h1>
 <p>Nushell 的行编辑器 <a href="https://github.com/nushell/reedline" target="_blank" rel="noopener noreferrer">Reedline</a> 是一个跨平台的行读取器，它被设计为模块化且颇具灵活性的。该引擎的作用是负责控制命令历史，验证，自动补全，提示以及屏幕绘制。</p>
 <h2 id="配置" tabindex="-1"> 配置</h2>
@@ -4158,7 +4158,7 @@ let-env PROMPT_MULTILINE_INDICATOR <span>=</span> <span>"::: "</span>
     <title type="html">加载数据</title>
     <id>www.nushell.sh/zh-CN/book/loading_data.html</id>
     <link href="www.nushell.sh/zh-CN/book/loading_data.html"/>
-    <updated>2022-06-04T13:17:54.512Z</updated>
+    <updated>2022-06-04T13:35:55.958Z</updated>
     <content type="html"><![CDATA[<h1 id="加载数据" tabindex="-1"> 加载数据</h1>
 <p>之前我们使用了<a href="/book/commands/ls.html"><code>ls</code></a>、<a href="/book/commands/ps.html"><code>ps</code></a>、<a href="/book/commands/date.html"><code>date</code></a>和<a href="/book/commands/sys.html"><code>sys</code></a>等命令来加载关于文件、进程、日期时间和系统本身的信息。每条命令都会给我们提供一个信息表，以对其进行探索。我们也可以通过其他方式将数据载入表格以供使用。</p>
 <h2 id="打开文件" tabindex="-1"> 打开文件</h2>
@@ -4306,7 +4306,7 @@ Antonio | Vivaldi | Composer
     <title type="html">元数据</title>
     <id>www.nushell.sh/zh-CN/book/metadata.html</id>
     <link href="www.nushell.sh/zh-CN/book/metadata.html"/>
-    <updated>2022-06-04T13:17:54.512Z</updated>
+    <updated>2022-06-04T13:35:55.958Z</updated>
     <content type="html"><![CDATA[<h1 id="元数据" tabindex="-1"> 元数据</h1>
 <p>在使用 Nu 的过程中，你可能遇到过这样的情况：你觉得有一些额外的事情在幕后进行。例如，假设你试图打开一个 Nu 支持的文件，但却忘记了它已被 Nu 支持并试图再次转换：</p>
 <div><pre><code>> open Cargo.toml | from toml
@@ -4337,7 +4337,7 @@ error: Expected a string from pipeline
     <title type="html">模块</title>
     <id>www.nushell.sh/zh-CN/book/modules.html</id>
     <link href="www.nushell.sh/zh-CN/book/modules.html"/>
-    <updated>2022-06-04T13:17:54.512Z</updated>
+    <updated>2022-06-04T13:35:55.959Z</updated>
     <content type="html"><![CDATA[<h1 id="模块" tabindex="-1"> 模块</h1>
 <p>与其他许多编程语言类似，Nushell 也有模块，可以让你将自定义的命令导入到当前作用域中。
 然而，由于 Nushell 也是一个 Shell，模块还允许你导入环境变量，可以用来方便地激活/停用各种环境配置。</p>
@@ -4554,7 +4554,7 @@ hello world<span>!</span>
     <title type="html">在系统中四处移动</title>
     <id>www.nushell.sh/zh-CN/book/moving_around.html</id>
     <link href="www.nushell.sh/zh-CN/book/moving_around.html"/>
-    <updated>2022-06-04T13:17:54.513Z</updated>
+    <updated>2022-06-04T13:35:55.959Z</updated>
     <content type="html"><![CDATA[<h1 id="在系统中四处移动" tabindex="-1"> 在系统中四处移动</h1>
 <p>早期的 Shell 允许你在文件系统中进行目录跳转并运行命令，而现代的 Shell 如 Nu 也允许你这样做。让我们来看看你在与系统交互时可能会用到的一些常用命令。</p>
 <h2 id="查看目录内容" tabindex="-1"> 查看目录内容</h2>
@@ -4611,7 +4611,7 @@ hello world<span>!</span>
     <title type="html">从其他 Shell 或 DSL 到 Nu</title>
     <id>www.nushell.sh/zh-CN/book/nushell_map.html</id>
     <link href="www.nushell.sh/zh-CN/book/nushell_map.html"/>
-    <updated>2022-06-04T13:17:54.513Z</updated>
+    <updated>2022-06-04T13:35:55.960Z</updated>
     <content type="html"><![CDATA[<h1 id="从其他-shell-或-dsl-到-nu" tabindex="-1"> 从其他 Shell 或 DSL 到 Nu</h1>
 <p>这个表格背后的想法是帮助你了解 Nu 的内置和插件所提供命令与其他已知的 Shell 和特定领域语言(DSL)的关系。我们试图制作一张所有 Nu 命令和它们在其他语言中的对应关系的表。欢迎大家参与贡献。</p>
 <p>注意：此表针对 Nu 0.43 或更高版本。</p>
@@ -5267,7 +5267,7 @@ hello world<span>!</span>
     <title type="html">从函数式语言到 Nu</title>
     <id>www.nushell.sh/zh-CN/book/nushell_map_functional.html</id>
     <link href="www.nushell.sh/zh-CN/book/nushell_map_functional.html"/>
-    <updated>2022-06-04T13:17:54.514Z</updated>
+    <updated>2022-06-04T13:35:55.960Z</updated>
     <content type="html"><![CDATA[<h1 id="从函数式语言到-nu" tabindex="-1"> 从函数式语言到 Nu</h1>
 <p>这个表格的目的是帮助你了解 Nu 的内置和插件所提供命令与函数式语言的关系。我们试图制作一张所有 Nu 命令和它们在其他语言中的映射关系的表。欢迎大家参与贡献。</p>
 <p>注意：此表针对 Nu 0.43 或更高版本。</p>
@@ -5944,7 +5944,7 @@ hello world<span>!</span>
     <title type="html">从命令式语言到 Nu</title>
     <id>www.nushell.sh/zh-CN/book/nushell_map_imperative.html</id>
     <link href="www.nushell.sh/zh-CN/book/nushell_map_imperative.html"/>
-    <updated>2022-06-04T13:17:54.514Z</updated>
+    <updated>2022-06-04T13:35:55.960Z</updated>
     <content type="html"><![CDATA[<h1 id="从命令式语言到-nu" tabindex="-1"> 从命令式语言到 Nu</h1>
 <p>这个表格的目的是帮助你了解 Nu 的内置和插件所提供的命令与命令式语言的关系。我们试图制作一张所有 Nu 命令和它们在其他语言中的对应关系的表。欢迎大家参与贡献。</p>
 <p>注意：此表假设 Nu 0.43 或更高版本。</p>
@@ -6607,7 +6607,7 @@ hello world<span>!</span>
     <title type="html">Nushell 运算符</title>
     <id>www.nushell.sh/zh-CN/book/nushell_operator_map.html</id>
     <link href="www.nushell.sh/zh-CN/book/nushell_operator_map.html"/>
-    <updated>2022-06-04T13:17:54.514Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-运算符" tabindex="-1"> Nushell 运算符</h1>
 <p>这个表格的目的是帮助你了解 Nu 运算符与其他语言运算符的关系。我们试图制作一张包含所有 Nushell 运算符的表，以及它们在其他语言中的对应关系。欢迎大家参与贡献。</p>
 <p>注意：此表针对 Nu 0.14.1 或更高版本。</p>
@@ -6767,7 +6767,7 @@ hello world<span>!</span>
     <title type="html">运算符</title>
     <id>www.nushell.sh/zh-CN/book/operators.html</id>
     <link href="www.nushell.sh/zh-CN/book/operators.html"/>
-    <updated>2022-06-04T13:17:54.514Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="运算符" tabindex="-1"> 运算符</h1>
 <p>Nushell 支持以下常见的数学、逻辑和字符串操作的运算符：</p>
 <table>
@@ -6894,7 +6894,7 @@ foobarbaz <span>!</span>~ bar <span># returns false</span>
     <title type="html">并行</title>
     <id>www.nushell.sh/zh-CN/book/parallelism.html</id>
     <link href="www.nushell.sh/zh-CN/book/parallelism.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="并行" tabindex="-1"> 并行</h1>
 <p>Nushell 现在已经初步支持并行运行代码了，这允许你使用更多的计算机硬件资源来处理一个流的各个元素。</p>
 <p>你会注意到这些命令包含其特有的<code>par-</code>命名，每一个都对应着一个非并行的版本，这允许你先轻松地以串行的风格写代码，然后再回头用几个额外的字符轻松地将串行脚本转换成并行脚本。</p>
@@ -6923,7 +6923,7 @@ foobarbaz <span>!</span>~ bar <span># returns false</span>
     <title type="html">管道</title>
     <id>www.nushell.sh/zh-CN/book/pipeline.html</id>
     <link href="www.nushell.sh/zh-CN/book/pipeline.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="管道" tabindex="-1"> 管道</h1>
 <p>Nu 的核心设计之一是管道，这个设计思想可以追溯到几十年前 Unix 背后的一些原始理念。正如 Nu 拓展了 Unix 的单一字符串数据类型一样，Nu 也扩展了管道的概念，使其不仅仅包含文本。</p>
 <h2 id="基础" tabindex="-1"> 基础</h2>
@@ -6964,7 +6964,7 @@ foobarbaz <span>!</span>~ bar <span># returns false</span>
     <title type="html">插件</title>
     <id>www.nushell.sh/zh-CN/book/plugins.html</id>
     <link href="www.nushell.sh/zh-CN/book/plugins.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="插件" tabindex="-1"> 插件</h1>
 <p>Nu 可以通过插件进行扩展。插件的行为与 Nu 的内置命令很相似，另外的好处是它们可以与 Nu 本身分开添加。</p>
 <p>Nu 的插件是可执行的；Nu 在需要时启动它们，并通过 <a href="https://en.wikipedia.org/wiki/Standard_streams" target="_blank" rel="noopener noreferrer">stdin, stdout 和 stderr</a> 与它们进行通信。Nu 的插件可以使用 JSON 或 <a href="https://capnproto.org/" target="_blank" rel="noopener noreferrer">Cap'n Proto</a> 作为它们的通信编码方式。</p>
@@ -6998,7 +6998,7 @@ foobarbaz <span>!</span>~ bar <span># returns false</span>
     <title type="html">正则表达式</title>
     <id>www.nushell.sh/zh-CN/book/regular_expressions.html</id>
     <link href="www.nushell.sh/zh-CN/book/regular_expressions.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="正则表达式" tabindex="-1"> 正则表达式</h1>
 <p>Nushell 命令中的正则表达式是由 <code>rust-lang/regex</code> 包处理的。如果你想了解更多，请查看 crate 的文档：&quot;<a href="https://github.com/rust-lang/regex" target="_blank" rel="noopener noreferrer">Regex</a>&quot;。</p>
 ]]></content>
@@ -7007,7 +7007,7 @@ foobarbaz <span>!</span>~ bar <span># returns false</span>
     <title type="html">脚本</title>
     <id>www.nushell.sh/zh-CN/book/scripts.html</id>
     <link href="www.nushell.sh/zh-CN/book/scripts.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.961Z</updated>
     <content type="html"><![CDATA[<h1 id="脚本" tabindex="-1"> 脚本</h1>
 <p>在 Nushell 中，你可以用 Nushell 语言编写和运行脚本。要运行一个脚本，你可以把它作为一个参数传递给<code>nu</code>命令行程序：</p>
 <div><pre><code><span>></span> nu myscript.nu
@@ -7058,7 +7058,7 @@ Hello World<span>!</span>
     <title type="html">Shell 中的 Shell</title>
     <id>www.nushell.sh/zh-CN/book/shells_in_shells.html</id>
     <link href="www.nushell.sh/zh-CN/book/shells_in_shells.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.962Z</updated>
     <content type="html"><![CDATA[<h1 id="shell-中的-shell" tabindex="-1"> Shell 中的 Shell</h1>
 <h2 id="在多个目录下工作" tabindex="-1"> 在多个目录下工作</h2>
 <p>虽然在一个目录下工作很常见，但同时在多个路径工作也很方便。为此，Nu 提供了 &quot;Shells&quot; 的概念。顾名思义，它们是一种在一个 Shell 中运行多个 Shell 的方法，允许你在多个工作目录之间快速跳转。</p>
@@ -7098,7 +7098,7 @@ Hello World<span>!</span>
     <title type="html">标准输入、输出和退出码</title>
     <id>www.nushell.sh/zh-CN/book/stdout_stderr_exit_codes.html</id>
     <link href="www.nushell.sh/zh-CN/book/stdout_stderr_exit_codes.html"/>
-    <updated>2022-06-04T13:17:54.515Z</updated>
+    <updated>2022-06-04T13:35:55.962Z</updated>
     <content type="html"><![CDATA[<h1 id="标准输入、输出和退出码" tabindex="-1"> 标准输入、输出和退出码</h1>
 <p>Nushell 和外部命令之间互操作的一个重要部分是与来自外部的标准数据流一起工作。</p>
 <p>这些重要数据流中的第一个是标准输出流(stdout)。</p>
@@ -7139,7 +7139,7 @@ Hello World<span>!</span>
     <title type="html">Table of Contents</title>
     <id>www.nushell.sh/zh-CN/book/table_of_contents.html</id>
     <link href="www.nushell.sh/zh-CN/book/table_of_contents.html"/>
-    <updated>2022-06-04T13:17:54.516Z</updated>
+    <updated>2022-06-04T13:35:55.962Z</updated>
     <content type="html"><![CDATA[<h1 id="table-of-contents" tabindex="-1"> Table of Contents</h1>
 <ul>
 <li><a href="/zh-CN/book/installation.html">安装</a> - 安装 Nushell</li>
@@ -7186,7 +7186,7 @@ Hello World<span>!</span>
     <title type="html">以 Nushell 的方式思考</title>
     <id>www.nushell.sh/zh-CN/book/thinking_in_nushell.html</id>
     <link href="www.nushell.sh/zh-CN/book/thinking_in_nushell.html"/>
-    <updated>2022-06-04T13:17:54.516Z</updated>
+    <updated>2022-06-04T13:35:55.962Z</updated>
     <content type="html"><![CDATA[<h1 id="以-nushell-的方式思考" tabindex="-1"> 以 Nushell 的方式思考</h1>
 <p>为了帮助你理解并充分利用 Nushell，我们把这部分内容一起放入&quot;以 Nushell 的方式思考&quot;这一节。通过学习 Nushell 的思考方式，并使用它提供的模式，你会在开始时遇到更少的问题，并为接下来的成功做好准备。</p>
 <p>那么，用 Nushell 的方式思考是什么意思呢？下面是一些 Nushell 新用户常见的问题。</p>
@@ -7245,7 +7245,7 @@ abc
     <title type="html">数据类型</title>
     <id>www.nushell.sh/zh-CN/book/types_of_data.html</id>
     <link href="www.nushell.sh/zh-CN/book/types_of_data.html"/>
-    <updated>2022-06-04T13:17:54.524Z</updated>
+    <updated>2022-06-04T13:35:55.963Z</updated>
     <content type="html"><![CDATA[<h1 id="数据类型" tabindex="-1"> 数据类型</h1>
 <p>传统上，Unix Shell 命令之间使用字符串文本进行通信。一个命令通过标准输出（通常缩写为 &quot;stdout&quot;）输出文本，另一个命令通过标准输入（或 &quot;stdin&quot;）读入文本，以此来让两个命令进行通信。</p>
 <p>我们可以认为这种通信是基于字符串的。</p>
@@ -7464,7 +7464,7 @@ abc
     <title type="html">变量和子表达式</title>
     <id>www.nushell.sh/zh-CN/book/variables_and_subexpressions.html</id>
     <link href="www.nushell.sh/zh-CN/book/variables_and_subexpressions.html"/>
-    <updated>2022-06-04T13:17:54.524Z</updated>
+    <updated>2022-06-04T13:35:55.963Z</updated>
     <content type="html"><![CDATA[<h1 id="变量和子表达式" tabindex="-1"> 变量和子表达式</h1>
 <p>在 Nushell 中有两种类型的求值表达式：变量和子表达式。如果你看到一个以美元符号（<code>$</code>）开头的字符串的话，你就应该知道你看到的是一个求值表达式。这表明当 Nushell 运行到此处时需要执行一个求值操作来处理这个表达式并使用此结果值。这两种求值表达式都支持一个简单形式和一个&quot;路径&quot;形式，用于处理更复杂的数据。</p>
 <h2 id="变量" tabindex="-1"> 变量</h2>
@@ -7518,7 +7518,7 @@ testuser
     <title type="html">处理列表</title>
     <id>www.nushell.sh/zh-CN/book/working_with_lists.html</id>
     <link href="www.nushell.sh/zh-CN/book/working_with_lists.html"/>
-    <updated>2022-06-04T13:17:54.525Z</updated>
+    <updated>2022-06-04T13:35:55.963Z</updated>
     <content type="html"><![CDATA[<h1 id="处理列表" tabindex="-1"> 处理列表</h1>
 <h2 id="创建列表" tabindex="-1"> 创建列表</h2>
 <p>列表(<code>List</code>)是一个有序的值的集合。
@@ -7633,7 +7633,7 @@ testuser
     <title type="html">处理字符串</title>
     <id>www.nushell.sh/zh-CN/book/working_with_strings.html</id>
     <link href="www.nushell.sh/zh-CN/book/working_with_strings.html"/>
-    <updated>2022-06-04T13:17:54.525Z</updated>
+    <updated>2022-06-04T13:35:55.964Z</updated>
     <content type="html"><![CDATA[<h1 id="处理字符串" tabindex="-1"> 处理字符串</h1>
 <p>Nushell 中的字符串用于保存文本数据以便后续使用，其中可以包括文件名、文件路径、列名以及更多。字符串是如此地普遍，以至于 Nushell 提供了几种处理它们的方法，你可以从中选择最合适的。</p>
 <h2 id="单引号字符串" tabindex="-1"> 单引号字符串</h2>
@@ -7689,7 +7689,7 @@ greetings, Alice
     <title type="html">处理表格</title>
     <id>www.nushell.sh/zh-CN/book/working_with_tables.html</id>
     <link href="www.nushell.sh/zh-CN/book/working_with_tables.html"/>
-    <updated>2022-06-04T13:17:54.525Z</updated>
+    <updated>2022-06-04T13:35:55.964Z</updated>
     <content type="html"><![CDATA[<h1 id="处理表格" tabindex="-1"> 处理表格</h1>
 <p>在 Nu 中查看数据的一种常见方式是通过表格。Nu 提供了许多处理表格的命令以方便找到你想要的内容以及将数据缩小到你需要的范围。</p>
 <p>首先，让我们获得一个可用的表：</p>
