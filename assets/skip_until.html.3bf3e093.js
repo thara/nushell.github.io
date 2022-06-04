@@ -1,0 +1,2 @@
+const e={key:"v-0baa6cfe",path:"/book/commands/skip_until.html",title:"skip until",lang:"English",frontmatter:{title:"skip until",version:"0.63.0",usage:`Skip elements of the input until a predicate is true.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/skip_until.md"};export{e as data};

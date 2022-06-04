@@ -1,0 +1,2 @@
+const e={key:"v-33bfa4eb",path:"/book/commands/dfr_all-false.html",title:"dfr all-false",lang:"English",frontmatter:{title:"dfr all-false",version:"0.63.0",usage:`Returns true if all values are false
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_all-false.md"};export{e as data};

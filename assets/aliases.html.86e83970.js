@@ -1,0 +1,1 @@
+const e={key:"v-fe59aee0",path:"/old_book/aliases.html",title:"Aliases",lang:"English",frontmatter:{},excerpt:"",headers:[{level:2,title:"Persisting",slug:"persisting",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"old_book/aliases.md"};export{e as data};

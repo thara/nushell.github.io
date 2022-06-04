@@ -1,1 +1,0 @@
-const t={key:"v-277712bf",path:"/old_book/commands/to-toml.html",title:"to toml",lang:"English",frontmatter:{title:"to toml",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/to-toml.md"};export{t as data};

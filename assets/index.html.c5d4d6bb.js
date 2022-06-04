@@ -1,0 +1,1 @@
+const t={key:"v-145ac574",path:"/blog/",title:"Nu Blog",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"blog/README.md"};export{t as data};

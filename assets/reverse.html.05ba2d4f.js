@@ -1,1 +1,0 @@
-const e={key:"v-adaae9ee",path:"/old_book/commands/reverse.html",title:"reverse",lang:"English",frontmatter:{title:"reverse",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/reverse.md"};export{e as data};

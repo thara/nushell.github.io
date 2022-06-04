@@ -1,0 +1,2 @@
+const e={key:"v-6ed93f37",path:"/book/commands/math_ceil.html",title:"math ceil",lang:"English",frontmatter:{title:"math ceil",version:"0.63.0",usage:`Applies the ceil function to a list of numbers
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/math_ceil.md"};export{e as data};

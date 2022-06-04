@@ -1,0 +1,1 @@
+const e={key:"v-125512ca",path:"/zh-CN/book/nushell_map.html",title:"\u4ECE\u5176\u4ED6 Shell \u6216 DSL \u5230 Nu",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"zh-CN/book/nushell_map.md"};export{e as data};

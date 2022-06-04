@@ -1,0 +1,1 @@
+const a={key:"v-094f1d14",path:"/ja/book/nushell_map_functional.html",title:"\u95A2\u6570\u578B\u8A00\u8A9E\u304B\u3089 Nu \u3078\u306E\u5BFE\u5FDC\u8868",lang:"ja",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"ja/book/nushell_map_functional.md"};export{a as data};

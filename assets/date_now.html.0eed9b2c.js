@@ -1,0 +1,2 @@
+const e={key:"v-6892c58c",path:"/book/commands/date_now.html",title:"date now",lang:"English",frontmatter:{title:"date now",version:"0.63.0",usage:`Get the current date.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/date_now.md"};export{e as data};

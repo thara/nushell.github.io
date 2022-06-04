@@ -1,0 +1,1 @@
+const a={key:"v-2d28c874",path:"/ja/book/escaping.html",title:"\u30A8\u30B9\u30B1\u30FC\u30D7",lang:"ja",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"ja/book/escaping.md"};export{a as data};

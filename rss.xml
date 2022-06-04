@@ -6,8 +6,8 @@
     <link>www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Sat, 04 Jun 2022 11:48:56 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Jun 2022 11:48:56 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Jun 2022 13:17:54 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Jun 2022 13:17:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -13446,13 +13446,13 @@ and much more. Strings are so common that Nushell offers a couple ways to work w
 matches your needs.</p>
 <h2 id="single-quoted-string" tabindex="-1"> Single-quoted string</h2>
 <p>The simplest string in Nushell is the single-quoted string. This string uses the <code>'</code> character to surround some text. Here's the text for hello world as a single-quoted string:</p>
-<div><pre><code>> 'hello world'
+<div><pre><code><span>></span> <span>'hello world'</span>
 hello world
 </code></pre></div><p>Single-quoted strings don't do anything to the text they're given, making them ideal for holding a wide range of text data.</p>
 <h2 id="double-quoted-strings" tabindex="-1"> Double-quoted strings</h2>
 <p>For more complex strings, Nushell also offers double-quoted strings. These strings use the <code>&quot;</code> character to surround text. They also support the ability escape characters inside the text using the <code>\</code> character.</p>
 <p>For example, we could write the text hello followed by a new line and then world, using escape characters and a double-quoted string:</p>
-<div><pre><code>> "hello\nworld"
+<div><pre><code><span>></span> <span>"hello<span title="\n">\n</span>world"</span>
 hello
 world
 </code></pre></div><p>Escape characters let you quickly add in a character that would otherwise be hard to type.</p>
@@ -13473,14 +13473,14 @@ world
 <p>More complex string use cases also need a new form of string: string interpolation. This is a way of building text from both raw text and the result of running expressions. String interpolation combines the results together, giving you a new string.</p>
 <p>String interpolation uses <code>$&quot; &quot;</code> and <code>$' '</code> as ways to wrap interpolated text.</p>
 <p>For example, let's say we have a variable called <code>$name</code> and we want to greet the name of the person contained in this variable:</p>
-<div><pre><code>> let name = "Alice"
-> $"greetings, ($name)"
+<div><pre><code><span>></span> <span>let</span> name <span>=</span> <span>"Alice"</span>
+<span>></span> $<span>"greetings, (<span>$name</span>)"</span>
 greetings, Alice
 </code></pre></div><p>By wrapping expressions in <code>()</code>, we can run them to completion and use the results to help build the string.</p>
 <p>String interpolation has both a single-quoted, <code>$' '</code>, and a double-quoted, <code>$&quot; &quot;</code>, form. These correspond to the single-quoted and double-quoted strings: single-quoted string interpolation doesn't support escape characters while double-quoted string interpolation does.</p>
 <p>As of version 0.61, interpolated strings support escaping parentheses, so that the <code>(</code> and <code>)</code> characters may be used in a string without Nushell trying to evaluate what appears between them:</p>
-<div><pre><code>> $"2 + 2 is (2 + 2) \(you guessed it!)"
-2 + 2 is 4 (you guessed it!)
+<div><pre><code><span>></span> $<span>"2 + 2 is (2 + 2) \(you guessed it!)"</span>
+<span>2</span> + <span>2</span> is <span>4</span> <span>(</span>you guessed it<span>!</span><span>)</span>
 </code></pre></div><h2 id="splitting-strings" tabindex="-1"> Splitting strings</h2>
 <p>The <a href="/book/commands/split_row.html"><code>split row</code></a> command creates a list from a string based on a delimiter.
 For example, <code>let colors = (&quot;red,green,blue&quot; | split row &quot;,&quot;)</code> creates the list <code>[red green blue]</code>.</p>
@@ -13489,9 +13489,73 @@ For example, <code>let colors = (&quot;red,green,blue&quot; | split row &quot;,&
 <h2 id="the-str-command" tabindex="-1"> The <code>str</code> command</h2>
 <p>Many string functions are subcommands of the <code>str</code> command. You can get a full list using <code>help str</code>.</p>
 <p>For example, you can look if a string contains a particular character using <code>str contains</code>:</p>
-<div><pre><code>> "hello world" | str contains "w"
-true
-</code></pre></div>]]></content:encoded>
+<div><pre><code><span>></span> <span>"hello world"</span> <span>|</span> str contains <span>"w"</span>
+<span>true</span>
+</code></pre></div><h3 id="trimming-strings" tabindex="-1"> Trimming Strings</h3>
+<p>You can trim the sides of a string with the <a href="/book/commands/str_trim.html"><code>str trim</code></a> command. By default, the <a href="/book/commands/str_trim.html"><code>str trim</code></a> commands trims whitespace from both sides of the string. For example</p>
+<div><pre><code><span>></span> <span>'       My   string   '</span> <span>|</span> str trim
+My   string
+</code></pre></div><p>You can specificy on which side the trimming occurs with the <code>--right</code> and <code>--left</code> options.</p>
+<p>To trim a specific character, use <code>--char &lt;Character&gt;</code> to specificy the character to trim.</p>
+<p>Here's an example of all the options in action:</p>
+<div><pre><code><span>></span> <span>'=== Nu shell ==='</span> <span>|</span> str trim -r -c <span>'='</span>
+<span>==</span><span>=</span> Nu shell
+</code></pre></div><h3 id="substrings" tabindex="-1"> Substrings</h3>
+<p>Substrings are slices of a string. They have startpoint and an endpoint. Heres an example of using a substring:</p>
+<div><pre><code><span>></span> <span>'Hello World!'</span> <span>|</span> str index-of <span>'o'</span>
+<span>4</span>
+<span>></span> <span>'Hello World!'</span> <span>|</span> str index-of <span>'r'</span>
+<span>8</span>
+<span>></span> <span>'Hello World!'</span> <span>|</span> str substring <span>'4,8'</span>
+o Wo
+</code></pre></div><h3 id="string-padding" tabindex="-1"> String padding</h3>
+<p>With the <a href="/book/commands/str_lpad.html"><code>str lpad</code></a> and <a href="/book/commands/str_rpad.html"><code>str rpad</code></a> commands you can add padding to a string. Padding adds characters to string until it's a certain length. For example:</p>
+<div><pre><code><span>></span> <span>'1234'</span> <span>|</span> str lpad -l <span>10</span> -c <span>'0'</span>
+0000001234
+<span>></span> <span>'1234'</span> <span>|</span> str rpad -l <span>10</span> -c <span>'0'</span> <span>|</span> str length
+<span>10</span>
+</code></pre></div><h3 id="reversing-strings" tabindex="-1"> Reversing Strings</h3>
+<p>This can be done easily with the <a href="/book/commands/str_reverse.html"><code>str reverse</code></a> command.</p>
+<div><pre><code><span>></span> <span>'Nushell'</span> <span>|</span> str reverse
+llehsuN
+<span>></span> <span>[</span><span>'Nushell'</span> <span>'is'</span> <span>'cool'</span><span>]</span> <span>|</span> str reverse
+╭───┬─────────╮
+│ <span>0</span> │ llehsuN │
+│ <span>1</span> │ si      │
+│ <span>2</span> │ looc    │
+╰───┴─────────╯
+</code></pre></div><h2 id="string-parsing" tabindex="-1"> String Parsing</h2>
+<p>With the <a href="/book/commands/parse.html"><code>parse</code></a> command you can parse a string into columns. For example:</p>
+<div><pre><code><span>></span> <span>'Nushell is the best'</span> <span>|</span> parse <span>'{shell} is {type}'</span>
+╭───┬─────────┬──────────╮
+│ <span># │  shell  │   type   │</span>
+├───┼─────────┼──────────┤
+│ <span>0</span> │ Nushell │ the best │
+╰───┴─────────┴──────────╯
+<span>></span> <span>'Bash is kinda cringe'</span> <span>|</span> parse --regex <span>'(?P&lt;shell>\w+) is (?P&lt;type>[\w\s]+)'</span>
+╭───┬───────┬──────────────╮
+│ <span># │ shell │     type     │</span>
+├───┼───────┼──────────────┤
+│ <span>0</span> │ Bash  │ kinda cringe │
+╰───┴───────┴──────────────╯
+</code></pre></div><h2 id="converting-strings" tabindex="-1"> Converting Strings</h2>
+<p>There are multiple ways to convert strings to and from other types.</p>
+<h3 id="to-string" tabindex="-1"> To String</h3>
+<ol>
+<li>Using <a href="/book/commands/into_string.html"><code>into string</code></a>. e.g. <code>123 | into string</code></li>
+<li>Using string interpolation. e.g. <code>$'(123)'</code></li>
+<li>Using <a href="/book/commands/build-string.html"><code>build-string</code></a>. e.g. <code>build-string (123)</code></li>
+</ol>
+<h3 id="from-string" tabindex="-1"> From String</h3>
+<ol>
+<li>Using <a href="/book/commands/into.html"><code>into &lt;type&gt;</code></a>. e.g. <code>'123' | into int</code></li>
+</ol>
+<h2 id="coloring-strings" tabindex="-1"> Coloring Strings</h2>
+<p>You can color strings with the <a href="/book/commands/ansi.html"><code>ansi</code></a> command. For example:</p>
+<div><pre><code><span>></span> <span>$'(ansi purple_bold)This text is a bold purple!(ansi reset)'</span>
+</code></pre></div><p><code>ansi purple_bold</code> makes the text a bold purple
+<code>ansi reset</code> resets the coloring to the default. (Tip: You should always end colored strings with <code>ansi reset</code>)</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Working with tables</title>

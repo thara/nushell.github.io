@@ -1,0 +1,1 @@
+const e={key:"v-4778f52c",path:"/es/book/mapa_nushell.html",title:"Mapa nushell de otras shells y lenguajes DSLs",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"es/book/mapa_nushell.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-8d5469a4",path:"/book/regular_expressions.html",title:"Regular expressions",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/regular_expressions.md"};export{e as data};

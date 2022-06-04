@@ -1,1 +1,0 @@
-const o={key:"v-31a9cdfb",path:"/old_book/commands/from-url.html",title:"from url",lang:"English",frontmatter:{title:"from url",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/from-url.md"};export{o as data};

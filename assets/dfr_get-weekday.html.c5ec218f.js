@@ -1,2 +1,0 @@
-const e={key:"v-31c13d9e",path:"/book/commands/dfr_get-weekday.html",title:"dfr get-weekday",lang:"English",frontmatter:{title:"dfr get-weekday",version:"0.63.0",usage:`Gets weekday from date
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_get-weekday.md"};export{e as data};

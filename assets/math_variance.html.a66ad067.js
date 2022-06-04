@@ -1,0 +1,2 @@
+const e={key:"v-2e0973cb",path:"/book/commands/math_variance.html",title:"math variance",lang:"English",frontmatter:{title:"math variance",version:"0.63.0",usage:`Finds the variance of a list of numbers or tables
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/math_variance.md"};export{e as data};

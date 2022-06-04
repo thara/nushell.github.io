@@ -1,0 +1,1 @@
+const e={key:"v-1aef5308",path:"/es/book/mapa_funcional_nushell.html",title:"Mapa nushell de lenguajes funcionales",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"es/book/mapa_funcional_nushell.md"};export{e as data};

@@ -1,0 +1,2 @@
+const e={key:"v-480cdf88",path:"/book/commands/dfr_get-year.html",title:"dfr get-year",lang:"English",frontmatter:{title:"dfr get-year",version:"0.63.0",usage:`Gets year from date
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/dfr_get-year.md"};export{e as data};

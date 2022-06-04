@@ -1,2 +1,0 @@
-const e={key:"v-478929de",path:"/book/commands/dfr_to-lowercase.html",title:"dfr to-lowercase",lang:"English",frontmatter:{title:"dfr to-lowercase",version:"0.63.0",usage:`Lowercase the strings in the column
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_to-lowercase.md"};export{e as data};

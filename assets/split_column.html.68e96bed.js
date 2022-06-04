@@ -1,0 +1,2 @@
+const e={key:"v-e41a22b8",path:"/book/commands/split_column.html",title:"split column",lang:"English",frontmatter:{title:"split column",version:"0.63.0",usage:`Split a string into multiple columns using a separator
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/split_column.md"};export{e as data};

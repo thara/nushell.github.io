@@ -1,0 +1,1 @@
+const t={key:"v-97deadfe",path:"/es/book/metadatos.html",title:"Metadatos",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"es/book/metadatos.md"};export{t as data};

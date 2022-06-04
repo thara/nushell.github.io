@@ -1,0 +1,2 @@
+const e={key:"v-8d052eb4",path:"/book/commands/keybindings_listen.html",title:"keybindings listen",lang:"English",frontmatter:{title:"keybindings listen",version:"0.63.0",usage:`Get input from the user.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/keybindings_listen.md"};export{e as data};

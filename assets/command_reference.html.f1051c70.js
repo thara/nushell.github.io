@@ -1,0 +1,1 @@
+const e={key:"v-32af7229",path:"/ja/book/command_reference.html",title:"Command Reference",lang:"ja",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"ja/book/command_reference.md"};export{e as data};

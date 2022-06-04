@@ -3,7 +3,7 @@
   <id>www.nushell.sh/pt-BR/</id>
   <title>Nushell</title>
   <subtitle>Um novo tipo de shell.</subtitle>
-  <updated>2022-06-04T11:48:56.665Z</updated>
+  <updated>2022-06-04T13:17:54.418Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="www.nushell.sh/pt-BR/"/>
@@ -11,7 +11,7 @@
     <title type="html">Índice</title>
     <id>www.nushell.sh/pt-BR/book/</id>
     <link href="www.nushell.sh/pt-BR/book/"/>
-    <updated>2022-06-04T11:48:56.786Z</updated>
+    <updated>2022-06-04T13:17:54.540Z</updated>
     <content type="html"><![CDATA[<h1 id="indice" tabindex="-1"> Índice</h1>
 <ul>
 <li><a href="/pt-BR/book/instalacao.html">Instalação</a> - Instalando o nushell</li>
@@ -33,7 +33,7 @@
     <title type="html">Carregando dados</title>
     <id>www.nushell.sh/pt-BR/book/carregando_dados.html</id>
     <link href="www.nushell.sh/pt-BR/book/carregando_dados.html"/>
-    <updated>2022-06-04T11:48:56.787Z</updated>
+    <updated>2022-06-04T13:17:54.541Z</updated>
     <content type="html"><![CDATA[<h1 id="carregando-dados" tabindex="-1"> Carregando dados</h1>
 <p>Anteriormente vimos como você pode usar comandos como <code>ls</code>, <code>ps</code>, <code>date</code> e <code>sys</code> para carregar informações sobre seus arquivos, processos, data e hora e sobre o sistema em si. Cada comando retorna uma tabela de informações que podemos explorar. Há outras maneiras de se carregar uma tabela de dados com a qual trabalhar.</p>
 <h2 id="abrindo-arquivos" tabindex="-1"> Abrindo arquivos</h2>
@@ -170,7 +170,7 @@ license <span>=</span> <span>"MIT"</span>
     <title type="html">Command Reference</title>
     <id>www.nushell.sh/pt-BR/book/command_reference.html</id>
     <link href="www.nushell.sh/pt-BR/book/command_reference.html"/>
-    <updated>2022-06-04T11:48:56.787Z</updated>
+    <updated>2022-06-04T13:17:54.541Z</updated>
     <content type="html"><![CDATA[<h1 id="command-reference" tabindex="-1"> Command Reference</h1>
 <table>
   <tr>
@@ -188,7 +188,7 @@ license <span>=</span> <span>"MIT"</span>
     <title type="html">Escapando para o sistema</title>
     <id>www.nushell.sh/pt-BR/book/escapando.html</id>
     <link href="www.nushell.sh/pt-BR/book/escapando.html"/>
-    <updated>2022-06-04T11:48:56.787Z</updated>
+    <updated>2022-06-04T13:17:54.541Z</updated>
     <content type="html"><![CDATA[<h1 id="escapando-para-o-sistema" tabindex="-1"> Escapando para o sistema</h1>
 <p>O Nu fornece um conjunto de comandos que você pode usar entre diferentes SOs e contar com essa consistência é útil. Às vezes, porém, você quer executar comando que tem o mesmo nome que um dos comandos do Nu. Para executar os comandos locais <code>ls</code> ou <code>date</code>, por exemplo, use o comando circunflexo (^).</p>
 <p>Comando Nu:</p>
@@ -201,7 +201,7 @@ license <span>=</span> <span>"MIT"</span>
     <title type="html">Explorando seu sistema</title>
     <id>www.nushell.sh/pt-BR/book/explorando.html</id>
     <link href="www.nushell.sh/pt-BR/book/explorando.html"/>
-    <updated>2022-06-04T11:48:56.787Z</updated>
+    <updated>2022-06-04T13:17:54.541Z</updated>
     <content type="html"><![CDATA[<h1 id="explorando-seu-sistema" tabindex="-1"> Explorando seu sistema</h1>
 <p>Shells mais antigos permitem que você navegue pelo sistema de arquivos e execute comandos. Shells modernos como o Nu permitem que você faça o mesmo. Vamos dar uma olhada em alguns dos comandos comuns que você vai usar quando estiver interagindo com seu sistema.</p>
 <h2 id="visualizando-o-conteudo-de-directorios" tabindex="-1"> Visualizando o conteúdo de directórios</h2>
@@ -248,7 +248,7 @@ license <span>=</span> <span>"MIT"</span>
     <title type="html">Instalando Nu</title>
     <id>www.nushell.sh/pt-BR/book/instalacao.html</id>
     <link href="www.nushell.sh/pt-BR/book/instalacao.html"/>
-    <updated>2022-06-04T11:48:56.787Z</updated>
+    <updated>2022-06-04T13:17:54.541Z</updated>
     <content type="html"><![CDATA[<h1 id="instalando-nu" tabindex="-1"> Instalando Nu</h1>
 <p>Atualmente, as melhores maneiras de instalar o Nu são a partir do <a href="https://crates.io" target="_blank" rel="noopener noreferrer">crates.io</a>, fazer o download dos binários da nossa <a href="https://github.com/nushell/nushell/releases" target="_blank" rel="noopener noreferrer">página de releases</a>, fazer o build a partir dos fontes ou baixar um container pronto com o Docker.</p>
 <h2 id="binarios" tabindex="-1"> Binários</h2>
@@ -326,7 +326,7 @@ nushell<span>></span> cargo build --workspace --features<span>=</span>stable <sp
     <title type="html">Introdução</title>
     <id>www.nushell.sh/pt-BR/book/introducao.html</id>
     <link href="www.nushell.sh/pt-BR/book/introducao.html"/>
-    <updated>2022-06-04T11:48:56.788Z</updated>
+    <updated>2022-06-04T13:17:54.542Z</updated>
     <content type="html"><![CDATA[<h1 id="introducao" tabindex="-1"> Introdução</h1>
 <p>Olá! Seja bem vindo ao projeto Nushell. O objetivo desse projeto é trazer a filosofia de shells do Unix, onde pipes conectam comandos simples, para o estilo moderno de desenvolvimento.</p>
 <p>Nu usa dicas de vários terrenos familiares: shells tradicionais como bash, shells avançados como PowerShell, programação funcional, programação de sistemas, e outros. Porém, mais do que tentar ser &quot;pau pra toda obra&quot;, Nu foca sua energia em fazer poucas coisas muito bem:</p>
@@ -448,7 +448,7 @@ Flags:
     <title type="html">Metadados</title>
     <id>www.nushell.sh/pt-BR/book/metadados.html</id>
     <link href="www.nushell.sh/pt-BR/book/metadados.html"/>
-    <updated>2022-06-04T11:48:56.788Z</updated>
+    <updated>2022-06-04T13:17:54.542Z</updated>
     <content type="html"><![CDATA[<h1 id="metadados" tabindex="-1"> Metadados</h1>
 <p>Usando o Nu vocë pode se deparar com momentos em que sente como se houvesse algo a mais acontecendo nos bastidores. Por exemplo, digamos que vocë vai tentar abrir um arquivo mas se esquece que ele é suportado pelo Nu e tenta convertê-lo novamente:</p>
 <div><pre><code><span>></span> <span>open</span> Cargo.toml <span>|</span> from toml
@@ -483,7 +483,7 @@ error: Expected a string from pipeline
     <title type="html">O pipeline</title>
     <id>www.nushell.sh/pt-BR/book/pipeline.html</id>
     <link href="www.nushell.sh/pt-BR/book/pipeline.html"/>
-    <updated>2022-06-04T11:48:56.788Z</updated>
+    <updated>2022-06-04T13:17:54.542Z</updated>
     <content type="html"><![CDATA[<h1 id="o-pipeline" tabindex="-1"> O pipeline</h1>
 <p>Um dos principais designs do Nu é o pipeline, uma ideia de design que tem suas raízes décadas atrás, na filosofia original por trás do Unix. Assim como Nu se extende a partir do tipo de dado string do Unix, também extende a ideia do pipeline para incluir mais do que apenas texto.</p>
 <h2 id="basico" tabindex="-1"> Básico</h2>
@@ -513,7 +513,7 @@ error: Expected a string from pipeline
     <title type="html">Plugins</title>
     <id>www.nushell.sh/pt-BR/book/plugins.html</id>
     <link href="www.nushell.sh/pt-BR/book/plugins.html"/>
-    <updated>2022-06-04T11:48:56.788Z</updated>
+    <updated>2022-06-04T13:17:54.542Z</updated>
     <content type="html"><![CDATA[<h1 id="plugins" tabindex="-1"> Plugins</h1>
 <p>A funcionalidade do Nu pode ser extendida usando plugins. Os plugins podem desenpenhar muitas das mesmas operações que os comandos embutidos do Nu, com o benefício adicional de que eles podem ser incluídos separadamente do Nu em si.</p>
 <p>Para adicionar um plugin, simplesmente implemente-o e coloque o binário no seu PATH. Os nomes dos arquivos de plugins do Nu começam com <code>nu_plugin_</code> para que o Nu possa encontrá-los em meio aos outros binários no seu PATH.</p>
@@ -526,7 +526,7 @@ error: Expected a string from pipeline
     <title type="html">Shells em shells</title>
     <id>www.nushell.sh/pt-BR/book/shells_em_shells.html</id>
     <link href="www.nushell.sh/pt-BR/book/shells_em_shells.html"/>
-    <updated>2022-06-04T11:48:56.789Z</updated>
+    <updated>2022-06-04T13:17:54.543Z</updated>
     <content type="html"><![CDATA[<h1 id="shells-em-shells" tabindex="-1"> Shells em shells</h1>
 <h2 id="trabalhando-em-multiplos-diretorios" tabindex="-1"> Trabalhando em múltiplos diretórios</h2>
 <p>Embora seja comum trabalhar em um único diretório, pode ser útil trabalhar em múltiplos locais ao mesmo tempo. Para isso, Nu oferece o conceito de &quot;shells&quot;. Como o nome implica, eles são uma maneira de executar múltiplos shells em um, permitindo que você salte rapidamente entre diretórios e muito mais.</p>
@@ -639,7 +639,7 @@ error: Expected a string from pipeline
     <title type="html">Tipos de dados</title>
     <id>www.nushell.sh/pt-BR/book/tipos_de_dados.html</id>
     <link href="www.nushell.sh/pt-BR/book/tipos_de_dados.html"/>
-    <updated>2022-06-04T11:48:56.789Z</updated>
+    <updated>2022-06-04T13:17:54.543Z</updated>
     <content type="html"><![CDATA[<h1 id="tipos-de-dados" tabindex="-1"> Tipos de dados</h1>
 <p>Tradicionalmente, comandos de shell do Unix comunicavam-se entre si através de strings de texto. Um comando gerava texto como saída através da saída padrão (normalmente abreviada como 'stdout') e o outro comando lia o texto pela entrada padrão (ou 'stdin'). Desse modo, os dois comandos podiam se comunicar.</p>
 <p>Podemos pensar nesse tipo de comunicação como baseada em texto ou baseada em strings.</p>
@@ -677,7 +677,7 @@ error: Expected a string from pipeline
     <title type="html">Trabalhando com tabelas</title>
     <id>www.nushell.sh/pt-BR/book/trabalhando_com_tabelas.html</id>
     <link href="www.nushell.sh/pt-BR/book/trabalhando_com_tabelas.html"/>
-    <updated>2022-06-04T11:48:56.790Z</updated>
+    <updated>2022-06-04T13:17:54.544Z</updated>
     <content type="html"><![CDATA[<h1 id="trabalhando-com-tabelas" tabindex="-1"> Trabalhando com tabelas</h1>
 <p>Uma forma comum de ver os dados no Nu é por meio de uma tabela. O Nu traz um conjunto de comandos para se trabalhar com tabelas, facilitar a localização do que você procura e restringir os dados apenas ao que você precisa.</p>
 <p>Para começar, vamos usar a seguinte tabela:</p>
@@ -895,7 +895,7 @@ error: Expected a string from pipeline
     <title type="html">Índice</title>
     <id>www.nushell.sh/pt-BR/contributor-book/</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/"/>
-    <updated>2022-06-04T11:48:56.790Z</updated>
+    <updated>2022-06-04T13:17:54.545Z</updated>
     <content type="html"><![CDATA[<h1 id="indice" tabindex="-1"> Índice</h1>
 <ul>
 <li><a href="/pt-BR/contributor-book/introdu%C3%A7%C3%A3o.html">Introdução</a> - Uma introdução ao livro do contribuidor</li>
@@ -913,7 +913,7 @@ error: Expected a string from pipeline
     <title type="html">Comandos</title>
     <id>www.nushell.sh/pt-BR/contributor-book/comandos.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/comandos.html"/>
-    <updated>2022-06-04T11:48:56.790Z</updated>
+    <updated>2022-06-04T13:17:54.545Z</updated>
     <content type="html"><![CDATA[<h1 id="comandos" tabindex="-1"> Comandos</h1>
 <p>Comandos são os blocos de construção para pipelines em Nu. Eles fazem a ação do pipeline, seja criando dados, mudando dados que fluem de entradas para saídas, ou visualizar dados assim que estes saem do pipeline. Existem dois tipos de comandos: comandos internos, que são comandos feitos para executar dentro do Nu, e comandos externos, que são externos ao Nu e se comunicam com o padrão Unix <code>stdin</code>/<code>stdout</code>.</p>
 <h2 id="comandos-internos" tabindex="-1"> Comandos internos</h2>
@@ -946,7 +946,7 @@ O comando externo é aberto para que seu <code>stdin</code> seja redirecionado, 
     <title type="html">Filosofia</title>
     <id>www.nushell.sh/pt-BR/contributor-book/filosofia.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/filosofia.html"/>
-    <updated>2022-06-04T11:48:56.790Z</updated>
+    <updated>2022-06-04T13:17:54.545Z</updated>
     <content type="html"><![CDATA[<h1 id="filosofia" tabindex="-1"> Filosofia</h1>
 <h2 id="principais-valores" tabindex="-1"> Principais Valores</h2>
 <p>O principal valor do Nu é que trabalhar em um shell deve ser divertido. Para apoiar isso, nós acreditamos que:</p>
@@ -971,7 +971,7 @@ O comando externo é aberto para que seu <code>stdin</code> seja redirecionado, 
     <title type="html">Introdução</title>
     <id>www.nushell.sh/pt-BR/contributor-book/introdu%C3%A7%C3%A3o.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/introdu%C3%A7%C3%A3o.html"/>
-    <updated>2022-06-04T11:48:56.790Z</updated>
+    <updated>2022-06-04T13:17:54.545Z</updated>
     <content type="html"><![CDATA[<h1 id="introducao" tabindex="-1"> Introdução</h1>
 <p>Olá e bem-vindo ao livro de contribuição do Nushell. Nushell, ou Nu como é normalmente chamado, é um shell moderno escrito em Rust. Você pode aprender mais sobre o Nu e como usá-lo no <a href="https://www.nushell.sh/book/" target="_blank" rel="noopener noreferrer">Nu book</a>, Nesse livro, vamos mostrar como contribuir para o projeto Nu, como o código do Nu é orgnizado, e os principais conceitos atrás do seu design.</p>
 <p>Para contribuir com o Nu é necessário ter uma experiência básica de programação, e é útil também ter alguma experiência com Rust. Dito isso, têmos pessoas contribuindo para o Nu sem antes ter escrito nenhuma linha de Rust antes de escrever sua submissão. Se você está interessado em contribuir, existe uma comunidade crescente de pessoas que gostariam de ajudá-lo a suceder.</p>
@@ -987,7 +987,7 @@ O comando externo é aberto para que seu <code>stdin</code> seja redirecionado, 
     <title type="html">Metadados</title>
     <id>www.nushell.sh/pt-BR/contributor-book/metadados.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/metadados.html"/>
-    <updated>2022-06-04T11:48:56.790Z</updated>
+    <updated>2022-06-04T13:17:54.545Z</updated>
     <content type="html"><![CDATA[<h1 id="metadados" tabindex="-1"> Metadados</h1>
 <p>Todos os valores que fluem para/de um comando no Nu são marcados com metadados. Você verá isso no código-fonte normalmente como um <code>Tagged&lt;Value&gt;</code>.</p>
 <p>Apesar de os metadados que são monitorados ainda estão em fase inicial, esperamos expandir isso conforme o Nu amadurecer.
@@ -1003,7 +1003,7 @@ Atualmente, existem dois tipos de metadados monitorados em cada valor:</p>
     <title type="html">Plugins</title>
     <id>www.nushell.sh/pt-BR/contributor-book/plugins.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/plugins.html"/>
-    <updated>2022-06-04T11:48:56.791Z</updated>
+    <updated>2022-06-04T13:17:54.547Z</updated>
     <content type="html"><![CDATA[<h1 id="plugins" tabindex="-1"> Plugins</h1>
 <h2 id="protocolo" tabindex="-1"> Protocolo</h2>
 <p>Plugins usam JSON-RPC sobre stdin/stdout (de maneira parecida aos plugins do VSCode). O protocolo é dividido em dois estágios.</p>
@@ -1283,7 +1283,7 @@ Apenas mude a primeira linha da seguinte forma:</p>
     <title type="html">Shells</title>
     <id>www.nushell.sh/pt-BR/contributor-book/shells.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/shells.html"/>
-    <updated>2022-06-04T11:48:56.792Z</updated>
+    <updated>2022-06-04T13:17:54.547Z</updated>
     <content type="html"><![CDATA[<h1 id="shells" tabindex="-1"> Shells</h1>
 <p>Talvez um conceito único de Nu seja o de <code>shells</code>, apesar de a ideia de trabalhar em diversos lugares ao mesmo tempo em um shell é bem comum (via pushd/popd, telas, e mais). O que talvez torne o Nu um pouco diferente é que o seu conceito de <code>shells</code> é de ambas plataformas e funciona tanto no sistema de arquivos quanto dentro de valores.</p>
 <p><strong>Nota:</strong> O conceito de um Value Shell é um de muitos fatores de design abertos e está sujeito a mudanças no futuro.</p>
@@ -1319,7 +1319,7 @@ Apenas mude a primeira linha da seguinte forma:</p>
     <title type="html">Streams</title>
     <id>www.nushell.sh/pt-BR/contributor-book/streams.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/streams.html"/>
-    <updated>2022-06-04T11:48:56.792Z</updated>
+    <updated>2022-06-04T13:17:54.547Z</updated>
     <content type="html"><![CDATA[<h1 id="streams" tabindex="-1"> Streams</h1>
 <p>Streams assíncronas formam a base de como a informação trafega de um lado do pipeline para o outro. Isso permite que o Nu trabalhe com comandos internos, comandos externos e plugins de uma forma relativamente contínua.</p>
 <p>Existem dois tipos fundamentais de streams no Nu: InputStream e OutputStream</p>
@@ -1349,7 +1349,7 @@ Apenas mude a primeira linha da seguinte forma:</p>
     <title type="html">Valores</title>
     <id>www.nushell.sh/pt-BR/contributor-book/valores.html</id>
     <link href="www.nushell.sh/pt-BR/contributor-book/valores.html"/>
-    <updated>2022-06-04T11:48:56.792Z</updated>
+    <updated>2022-06-04T13:17:54.547Z</updated>
     <content type="html"><![CDATA[<h1 id="valores" tabindex="-1"> Valores</h1>
 <p>Um Valor é a estrutura básica de dados no Nu.</p>
 <div><pre><code><span>pub</span> <span>struct</span> <span>Value</span> <span>{</span>

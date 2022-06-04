@@ -1,1 +1,0 @@
-const t={key:"v-639bc51e",path:"/old_book/commands/last.html",title:"last",lang:"English",frontmatter:{title:"last",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/last.md"};export{t as data};

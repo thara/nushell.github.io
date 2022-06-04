@@ -1,0 +1,2 @@
+const e={key:"v-7d6c9b0d",path:"/book/commands/date_to-record.html",title:"date to-record",lang:"English",frontmatter:{title:"date to-record",version:"0.63.0",usage:`Convert the date into a structured table.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/commands/date_to-record.md"};export{e as data};

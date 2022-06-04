@@ -1,0 +1,1 @@
+const t={key:"v-31dd6d96",path:"/book/table_of_contents.html",title:"Table of Contents",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/table_of_contents.md"};export{t as data};

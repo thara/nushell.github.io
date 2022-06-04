@@ -1,0 +1,1 @@
+const t={key:"v-a00aa62c",path:"/pt-BR/contributor-book/introdu%C3%A7%C3%A3o.html",title:"Introdu\xE7\xE3o",lang:"pt-BR",frontmatter:{title:"Introdu\xE7\xE3o"},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"pt-BR/contributor-book/introdu\xE7\xE3o.md"};export{t as data};

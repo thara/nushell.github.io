@@ -1,2 +1,0 @@
-const t={key:"v-7d83e2df",path:"/book/commands/str_starts-with.html",title:"str starts-with",lang:"English",frontmatter:{title:"str starts-with",version:"0.63.0",usage:`Check if string starts with a pattern
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/str_starts-with.md"};export{t as data};

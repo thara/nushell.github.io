@@ -1,2 +1,0 @@
-const e={key:"v-57d3b02d",path:"/book/commands/str_replace.html",title:"str replace",lang:"English",frontmatter:{title:"str replace",version:"0.63.0",usage:`Find and replace text
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/str_replace.md"};export{e as data};

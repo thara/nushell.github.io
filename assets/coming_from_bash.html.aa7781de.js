@@ -1,0 +1,1 @@
+const a={key:"v-0ac1f481",path:"/book/coming_from_bash.html",title:"Coming from Bash",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"book/coming_from_bash.md"};export{a as data};

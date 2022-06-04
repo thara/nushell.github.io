@@ -1,0 +1,1 @@
+const e={key:"v-6dfef2b0",path:"/es/book/entorno.html",title:"Entorno",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Dan-Gamin",email:"58695417+Dan-Gamin@users.noreply.github.com",commits:1}]},filePathRelative:"es/book/entorno.md"};export{e as data};
