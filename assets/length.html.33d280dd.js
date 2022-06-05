@@ -1,2 +1,0 @@
-const e={key:"v-398a498e",path:"/book/commands/length.html",title:"length",lang:"English",frontmatter:{title:"length",version:"0.63.0",usage:`Count the number of elements in the input.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/length.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

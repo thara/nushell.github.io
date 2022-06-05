@@ -1,0 +1,1 @@
+const t={key:"v-6cc40f75",path:"/old_book/",title:"Introduction",lang:"English",frontmatter:{},excerpt:"",headers:[],filePathRelative:"old_book/README.md",git:{createdTime:1646056138e3,updatedTime:1654176499e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2},{name:"JT",email:"jonathan.d.turner@gmail.com",commits:1}]}};export{t as data};

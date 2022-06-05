@@ -1,0 +1,1 @@
+const t={key:"v-38d202d0",path:"/zh-CN/book/table_of_contents.html",title:"Table of Contents",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"zh-CN/book/table_of_contents.md",git:{createdTime:1649510934e3,updatedTime:1649510934e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

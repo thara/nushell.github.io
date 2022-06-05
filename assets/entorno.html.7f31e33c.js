@@ -1,1 +1,0 @@
-const e={key:"v-6dfef2b0",path:"/es/book/entorno.html",title:"Entorno",lang:"es",frontmatter:{},excerpt:"",headers:[],filePathRelative:"es/book/entorno.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

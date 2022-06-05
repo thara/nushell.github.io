@@ -1,2 +1,0 @@
-const e={key:"v-5c58a6db",path:"/book/commands/from_ics.html",title:"from ics",lang:"English",frontmatter:{title:"from ics",version:"0.63.0",usage:`Parse text as .ics and create table.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/from_ics.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

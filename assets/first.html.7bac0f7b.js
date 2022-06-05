@@ -1,2 +1,0 @@
-const e={key:"v-f74c443a",path:"/book/commands/first.html",title:"first",lang:"English",frontmatter:{title:"first",version:"0.63.0",usage:`Show only the first number of rows.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/first.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

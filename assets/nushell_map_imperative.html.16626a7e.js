@@ -1,1 +1,0 @@
-const e={key:"v-1573092c",path:"/zh-CN/book/nushell_map_imperative.html",title:"\u4ECE\u547D\u4EE4\u5F0F\u8BED\u8A00\u5230 Nu",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"zh-CN/book/nushell_map_imperative.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};
