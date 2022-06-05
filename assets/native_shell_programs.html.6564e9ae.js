@@ -1,1 +1,0 @@
-const t={key:"v-d50cc650",path:"/cookbook/native_shell_programs.html",title:"Native Shell Programs",lang:"English",frontmatter:{title:"Native Shell Programs"},excerpt:"",headers:[],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"cookbook/native_shell_programs.md"};export{t as data};

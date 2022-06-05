@@ -1,2 +1,0 @@
-const e={key:"v-b9835aa2",path:"/book/commands/histogram.html",title:"histogram",lang:"English",frontmatter:{title:"histogram",version:"0.63.0",usage:`Creates a new table with a histogram based on the column name passed in.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/histogram.md"};export{e as data};

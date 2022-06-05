@@ -1,2 +1,0 @@
-const e={key:"v-66a17d00",path:"/book/commands/dfr_as-nu.html",title:"dfr as-nu",lang:"English",frontmatter:{title:"dfr as-nu",version:"0.63.1",usage:`Convert expression to a nu value for access and exploration
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/dfr_as-nu.md"};export{e as data};

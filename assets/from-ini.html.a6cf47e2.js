@@ -1,1 +1,0 @@
-const o={key:"v-7a643ca6",path:"/old_book/commands/from-ini.html",title:"from ini",lang:"English",frontmatter:{title:"from ini",layout:"command",nu_version:.32},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"old_book/commands/from-ini.md"};export{o as data};

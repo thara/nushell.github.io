@@ -1,2 +1,0 @@
-const e={key:"v-9b649da2",path:"/book/commands/keybindings_list.html",title:"keybindings list",lang:"English",frontmatter:{title:"keybindings list",version:"0.63.0",usage:`List available options that can be used to create keybindings
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/keybindings_list.md"};export{e as data};

@@ -1,0 +1,2 @@
+const e={key:"v-2ca0479c",path:"/book/commands/db_order-by.html",title:"db order-by",lang:"English",frontmatter:{title:"db order-by",version:"0.63.0",usage:`Orders by query
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/db_order-by.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

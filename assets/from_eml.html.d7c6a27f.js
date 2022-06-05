@@ -1,2 +1,0 @@
-const e={key:"v-7c3f50e0",path:"/book/commands/from_eml.html",title:"from eml",lang:"English",frontmatter:{title:"from eml",version:"0.63.0",usage:`Parse text as .eml and create table.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/from_eml.md"};export{e as data};

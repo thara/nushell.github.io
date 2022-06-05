@@ -1,2 +1,0 @@
-const t={key:"v-2114e946",path:"/book/commands/date_to-table.html",title:"date to-table",lang:"English",frontmatter:{title:"date to-table",version:"0.63.0",usage:`Convert the date into a structured table.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/date_to-table.md"};export{t as data};

@@ -1,2 +1,0 @@
-const t={key:"v-73864b67",path:"/book/commands/to_json.html",title:"to json",lang:"English",frontmatter:{title:"to json",version:"0.63.0",usage:`Converts table data into JSON text.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/to_json.md"};export{t as data};

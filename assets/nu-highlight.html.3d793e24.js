@@ -1,0 +1,2 @@
+const t={key:"v-03c53671",path:"/book/commands/nu-highlight.html",title:"nu-highlight",lang:"English",frontmatter:{title:"nu-highlight",version:"0.63.0",usage:`Syntax highlight the input string.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/nu-highlight.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

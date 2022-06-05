@@ -1,0 +1,1 @@
+const e={key:"v-1109bb6c",path:"/book/parallelism.html",title:"Parallelism",lang:"English",frontmatter:{},excerpt:"",headers:[{level:2,title:"par-each",slug:"par-each",children:[]}],filePathRelative:"book/parallelism.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

@@ -1,2 +1,0 @@
-const e={key:"v-f7216e22",path:"/book/commands/roll_down.html",title:"roll down",lang:"English",frontmatter:{title:"roll down",version:"0.63.0",usage:`Roll table rows down
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],git:{contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]},filePathRelative:"book/commands/roll_down.md"};export{e as data};
