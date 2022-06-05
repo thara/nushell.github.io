@@ -1,0 +1,1 @@
+const o={key:"v-0b911545",path:"/cookbook/",title:"Cookbook",lang:"English",frontmatter:{},excerpt:"",headers:[],filePathRelative:"cookbook/README.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{o as data};

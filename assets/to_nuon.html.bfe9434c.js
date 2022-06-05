@@ -1,0 +1,2 @@
+const t={key:"v-d74b3dae",path:"/book/commands/to_nuon.html",title:"to nuon",lang:"English",frontmatter:{title:"to nuon",version:"0.63.0",usage:`Converts table data into Nuon (Nushell Object Notation) text.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/to_nuon.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

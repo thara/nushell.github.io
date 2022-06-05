@@ -1,2 +1,0 @@
-const e={key:"v-171ab3de",path:"/book/commands/seq_date.html",title:"seq date",lang:"English",frontmatter:{title:"seq date",version:"0.63.0",usage:`Print sequences of dates
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/seq_date.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

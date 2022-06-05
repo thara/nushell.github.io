@@ -1,2 +1,0 @@
-const e={key:"v-5a1e0088",path:"/book/commands/random_uuid.html",title:"random uuid",lang:"English",frontmatter:{title:"random uuid",version:"0.63.0",usage:`Generate a random uuid4 string
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/random_uuid.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

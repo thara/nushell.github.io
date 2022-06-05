@@ -1,0 +1,2 @@
+const e={key:"v-5dd02b9e",path:"/book/commands/dfr_str-lengths.html",title:"dfr str-lengths",lang:"English",frontmatter:{title:"dfr str-lengths",version:"0.63.0",usage:`Get lengths of all strings
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/dfr_str-lengths.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

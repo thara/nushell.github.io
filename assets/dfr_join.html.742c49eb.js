@@ -1,0 +1,2 @@
+const e={key:"v-ee8486b4",path:"/book/commands/dfr_join.html",title:"dfr join",lang:"English",frontmatter:{title:"dfr join",version:"0.63.0",usage:`Joins a lazy frame with other lazy frame
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/dfr_join.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

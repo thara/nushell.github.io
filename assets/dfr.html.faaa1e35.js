@@ -1,2 +1,0 @@
-const e={key:"v-441342e3",path:"/book/commands/dfr.html",title:"dfr",lang:"English",frontmatter:{title:"dfr",version:"0.63.0",usage:`Dataframe commands
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],filePathRelative:"book/commands/dfr.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

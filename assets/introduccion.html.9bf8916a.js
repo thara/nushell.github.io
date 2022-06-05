@@ -1,1 +1,0 @@
-const t={key:"v-7625b1bc",path:"/es/contributor-book/introduccion.html",title:"Introducci\xF3n",lang:"es",frontmatter:{title:"Introducci\xF3n"},excerpt:"",headers:[],filePathRelative:"es/contributor-book/introduccion.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

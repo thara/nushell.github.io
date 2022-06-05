@@ -1,0 +1,1 @@
+const e={key:"v-c462ebee",path:"/zh-CN/book/regular_expressions.html",title:"\u6B63\u5219\u8868\u8FBE\u5F0F",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"zh-CN/book/regular_expressions.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

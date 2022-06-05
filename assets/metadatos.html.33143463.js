@@ -1,1 +1,0 @@
-const t={key:"v-97deadfe",path:"/es/book/metadatos.html",title:"Metadatos",lang:"es",frontmatter:{},excerpt:"",headers:[],filePathRelative:"es/book/metadatos.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

@@ -1,0 +1,2 @@
+const e={key:"v-d7f083e8",path:"/book/commands/where.html",title:"where",lang:"English",frontmatter:{title:"where",version:"0.63.0",usage:`Filter values based on a condition.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/where.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

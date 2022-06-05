@@ -1,2 +1,0 @@
-const e={key:"v-f82cb26a",path:"/book/commands/query.html",title:"query",lang:"English",frontmatter:{title:"query",version:"0.63.0",usage:`Show all the query commands
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],filePathRelative:"book/commands/query.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

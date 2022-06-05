@@ -1,0 +1,2 @@
+const t={key:"v-675a05c6",path:"/book/commands/tutor.html",title:"tutor",lang:"English",frontmatter:{title:"tutor",version:"0.63.0",usage:`Run the tutorial. To begin, run: tutor
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/tutor.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

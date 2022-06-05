@@ -1,0 +1,1 @@
+const e={key:"v-00a15655",path:"/book/creating_errors.html",title:"Creating your own errors",lang:"English",frontmatter:{},excerpt:"",headers:[],filePathRelative:"book/creating_errors.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

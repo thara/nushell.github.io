@@ -1,0 +1,2 @@
+const e={key:"v-0940e61e",path:"/book/commands/date.html",title:"date",lang:"English",frontmatter:{title:"date",version:"0.63.0",usage:`Date-related commands
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],filePathRelative:"book/commands/date.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

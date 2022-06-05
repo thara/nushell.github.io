@@ -1,0 +1,1 @@
+const t={key:"v-27aa14f7",path:"/pt-BR/book/",title:"\xCDndice",lang:"pt-BR",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pt-BR/book/README.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

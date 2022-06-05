@@ -1,0 +1,2 @@
+const e={key:"v-3f980c12",path:"/book/commands/all.html",title:"all?",lang:"English",frontmatter:{title:"all?",version:"0.63.0",usage:`Test if every element of the input matches a predicate.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/all.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};
