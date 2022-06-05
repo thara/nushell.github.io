@@ -1,2 +1,0 @@
-const e={key:"v-6a7de71d",path:"/book/commands/path_exists.html",title:"path exists",lang:"English",frontmatter:{title:"path exists",version:"0.63.0",usage:`Check whether a path exists
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/path_exists.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

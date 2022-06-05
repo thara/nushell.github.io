@@ -1,0 +1,2 @@
+const e={key:"v-fb9509ee",path:"/book/commands/last.html",title:"last",lang:"English",frontmatter:{title:"last",version:"0.63.0",usage:`Show only the last number of rows.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/last.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

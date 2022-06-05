@@ -1,2 +1,0 @@
-const e={key:"v-a3b35f66",path:"/book/commands/headers.html",title:"headers",lang:"English",frontmatter:{title:"headers",version:"0.63.0",usage:`Use the first row of the table as column names.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/headers.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

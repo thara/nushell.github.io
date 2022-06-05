@@ -1,2 +1,0 @@
-const e={key:"v-f1e2dc80",path:"/book/commands/skip.html",title:"skip",lang:"English",frontmatter:{title:"skip",version:"0.63.0",usage:`Skip the first n elements of the input.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/skip.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

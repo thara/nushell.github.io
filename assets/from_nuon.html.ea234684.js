@@ -1,2 +1,0 @@
-const e={key:"v-0f63d5d0",path:"/book/commands/from_nuon.html",title:"from nuon",lang:"English",frontmatter:{title:"from nuon",version:"0.63.0",usage:`Convert from nuon to structured data
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/from_nuon.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

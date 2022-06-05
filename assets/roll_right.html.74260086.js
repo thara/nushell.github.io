@@ -1,0 +1,2 @@
+const e={key:"v-b6b07076",path:"/book/commands/roll_right.html",title:"roll right",lang:"English",frontmatter:{title:"roll right",version:"0.63.0",usage:`Roll table columns right
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/roll_right.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

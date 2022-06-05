@@ -1,0 +1,1 @@
+const e={key:"v-b42ff812",path:"/es/book/plugins.html",title:"Complementos (plugins)",lang:"es",frontmatter:{},excerpt:"",headers:[],filePathRelative:"es/book/plugins.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

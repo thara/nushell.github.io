@@ -1,2 +1,0 @@
-const e={key:"v-afbe4b5e",path:"/book/commands/db_schema.html",title:"db schema",lang:"English",frontmatter:{title:"db schema",version:"0.63.0",usage:`Show database information, including its schema.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/db_schema.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

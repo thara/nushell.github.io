@@ -1,0 +1,2 @@
+const e={key:"v-7bc5cbd8",path:"/book/commands/dfr_collect.html",title:"dfr collect",lang:"English",frontmatter:{title:"dfr collect",version:"0.63.0",usage:`Collect lazy dataframe into dataframe
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/dfr_collect.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

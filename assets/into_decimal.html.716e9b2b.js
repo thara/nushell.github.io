@@ -1,0 +1,2 @@
+const e={key:"v-df7f9ea6",path:"/book/commands/into_decimal.html",title:"into decimal",lang:"English",frontmatter:{title:"into decimal",version:"0.63.0",usage:`Convert text into a decimal
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/into_decimal.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

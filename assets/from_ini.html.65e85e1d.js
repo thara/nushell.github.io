@@ -1,2 +1,0 @@
-const e={key:"v-dda68720",path:"/book/commands/from_ini.html",title:"from ini",lang:"English",frontmatter:{title:"from ini",version:"0.63.0",usage:`Parse text as .ini and create table
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/from_ini.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

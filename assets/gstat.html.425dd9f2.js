@@ -1,0 +1,2 @@
+const t={key:"v-5ae1d438",path:"/book/commands/gstat.html",title:"gstat",lang:"English",frontmatter:{title:"gstat",version:"0.63.0",usage:`Get the git status of a repo
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]}],filePathRelative:"book/commands/gstat.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

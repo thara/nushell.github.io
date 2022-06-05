@@ -1,0 +1,1 @@
+const e={key:"v-78271759",path:"/es/book/aliases.html",title:"Aliases",lang:"es",frontmatter:{},excerpt:"",headers:[{level:2,title:"Par\xE1metros",slug:"parametros",children:[]}],filePathRelative:"es/book/aliases.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

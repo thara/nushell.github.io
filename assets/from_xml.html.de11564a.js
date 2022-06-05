@@ -1,2 +1,0 @@
-const e={key:"v-7796ac1d",path:"/book/commands/from_xml.html",title:"from xml",lang:"English",frontmatter:{title:"from xml",version:"0.63.0",usage:`Parse text as .xml and create table.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/from_xml.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

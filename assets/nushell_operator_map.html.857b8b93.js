@@ -1,1 +1,0 @@
-const e={key:"v-687c9eca",path:"/ja/book/nushell_operator_map.html",title:"Nushell \u6F14\u7B97\u5B50\u5BFE\u5FDC\u8868",lang:"ja",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ja/book/nushell_operator_map.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

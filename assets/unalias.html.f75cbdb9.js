@@ -1,2 +1,0 @@
-const e={key:"v-0c943b1c",path:"/book/commands/unalias.html",title:"unalias",lang:"English",frontmatter:{title:"unalias",version:"0.63.0",usage:`Deprecated command
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],filePathRelative:"book/commands/unalias.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

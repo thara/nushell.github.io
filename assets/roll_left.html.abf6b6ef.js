@@ -1,2 +1,0 @@
-const e={key:"v-c28bb6ac",path:"/book/commands/roll_left.html",title:"roll left",lang:"English",frontmatter:{title:"roll left",version:"0.63.0",usage:`Roll table columns left
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/roll_left.md",git:{createdTime:1654397922e3,updatedTime:1654397922e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

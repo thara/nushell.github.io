@@ -1,0 +1,2 @@
+const t={key:"v-36e5fdd7",path:"/book/commands/math.html",title:"math",lang:"English",frontmatter:{title:"math",version:"0.63.0",usage:`Use mathematical functions as aggregate functions on a list of numbers or tables.
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]}],filePathRelative:"book/commands/math.md",git:{createdTime:1654394897e3,updatedTime:1654394897e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{t as data};

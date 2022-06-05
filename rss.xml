@@ -6,8 +6,8 @@
     <link>www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Sun, 05 Jun 2022 03:04:31 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Jun 2022 03:04:31 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Jun 2022 06:40:48 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Jun 2022 06:40:48 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -15,7 +15,7 @@
       <link>www.nushell.sh/blog/2019-08-23-introducing-nushell.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-08-23-introducing-nushell.html</guid>
       <source url="www.nushell.sh/rss.xml">Introducing nushell</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="introducing-nushell" tabindex="-1"> Introducing nushell</h1>
 <p>Today, we're introducing a new shell, written in Rust. It draws inspiration from the classic Unix philosophy of pipelines, the structured data approach of PowerShell, functional programming, systems programming, and more.</p>
 <p>It's called Nushell, or just Nu for short. We have a <a href="https://book.nushell.sh/en" target="_blank" rel="noopener noreferrer">book</a> (¡también se habla <a href="https://book.nushell.sh/es" target="_blank" rel="noopener noreferrer">Español</a>!). We have a <a href="https://github.com/nushell/nushell" target="_blank" rel="noopener noreferrer">repo</a>.</p>
@@ -247,7 +247,7 @@ Cargo2.toml  Cargo.toml  extra	LICENSE  open		readonly.txt  rustfmt.toml   targe
       <link>www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.3.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-3-0" tabindex="-1"> Nushell 0.3.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce that today we're releasing Nushell 0.3.0. Nu has seen numerous bugfixes, performance improvements, and features added since its initial public release (which was only a few weeks ago!)</p>
@@ -303,7 +303,7 @@ Cargo2.toml  Cargo.toml  extra	LICENSE  open		readonly.txt  rustfmt.toml   targe
       <link>www.nushell.sh/blog/2019-10-15-nushell-0_4_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-10-15-nushell-0_4_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.4.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-4-0" tabindex="-1"> Nushell 0.4.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today we're happy to announce the 0.4.0 release of Nushell. The <a href="https://github.com/nushell/nushell/releases/tag/0.4.0" target="_blank" rel="noopener noreferrer">0.4.0 release</a> marks a continually maturing shell that is now starting to show signs of stability. And, of course, a few fun features along the way.</p>
@@ -345,7 +345,7 @@ Streaming tables</p>
       <link>www.nushell.sh/blog/2019-11-05-nushell-0_5_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-11-05-nushell-0_5_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.5.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-5-0" tabindex="-1"> Nushell 0.5.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're happy to announce the 0.5.0 release for Nu. We've got lots of new features, including some long-requested ones, in this release.</p>
@@ -493,7 +493,7 @@ end_of_line <span>=</span> lf
       <link>www.nushell.sh/blog/2019-11-23-nushell-survey-results.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-11-23-nushell-survey-results.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 2019 Survey Results</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-2019-survey-results" tabindex="-1"> Nushell 2019 Survey Results</h1>
 <p>Recently, we ran a short survey to see how you were feeling about <a href="https://github.com/nushell/nushell" target="_blank" rel="noopener noreferrer">Nushell</a>. We wanted to give a very hearty &quot;thank you!&quot; to everyone who participated. These surveys are a great way to gather information about how people are feeling, where they're happy, and where they feel there are pain points.</p>
 <p>In total, <strong>160</strong> people responded. An impressive amount for a project still in its first few months in the public.</p>
@@ -572,7 +572,7 @@ end_of_line <span>=</span> lf
       <link>www.nushell.sh/blog/2019-11-26-nushell-0_6_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-11-26-nushell-0_6_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.6.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-6-0" tabindex="-1"> Nushell 0.6.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.6.0 release of Nu. This release has a bunch of new features, bugfixes, and general improvements.</p>
@@ -718,7 +718,7 @@ disabled = true
       <link>www.nushell.sh/blog/2019-12-18-nushell-0_7_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-12-18-nushell-0_7_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.7.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-7-0" tabindex="-1"> Nushell 0.7.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.7.0 release of Nu. This release has a couple new features, bugfixes, and lots of internal improvements on the way to upcoming features.</p>
@@ -812,7 +812,7 @@ disabled = true
       <link>www.nushell.sh/blog/2019-12-31-happy-nu-year-2020.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2019-12-31-happy-nu-year-2020.html</guid>
       <source url="www.nushell.sh/rss.xml">Happy Nu Year 2020</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="happy-nu-year-2020" tabindex="-1"> Happy Nu Year 2020</h1>
 <p><img src="@source/assets/images/happy_nu_year_2020.png" alt="Happy Nu Year!"></p>
 <p>2019 was quite the year for Nushell. We landed the initial commit on May 10th, and 1881 commits later we find ourselves at the end of 2019. What all happened this year?</p>
@@ -974,7 +974,7 @@ disabled = true
       <link>www.nushell.sh/blog/2020-01-07-nushell-0_8_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-01-07-nushell-0_8_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.8.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-8-0" tabindex="-1"> Nushell 0.8.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.8.0 release of Nu. This continues a series of internal improvements, with better stability and correctness, and, of course, new features.</p>
@@ -1061,7 +1061,7 @@ disabled = true
       <link>www.nushell.sh/blog/2020-01-28-nushell-0_9_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-01-28-nushell-0_9_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.9.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-9-0" tabindex="-1"> Nushell 0.9.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're happy to announce the 0.9.0 release of Nu. This release offers better help and error feedback, better support for the native shell, new commands, lots of command improvements, and bugfixes.</p>
@@ -1147,7 +1147,7 @@ nushell on 📙 bump_to_0_9_0 is 📦 v0.9.0 via 🦀 v1.40.0
       <link>www.nushell.sh/blog/2020-02-18-nushell-0_10_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-02-18-nushell-0_10_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.10.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-10-0" tabindex="-1"> Nushell 0.10.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Greetings and welcome to the 10th release of Nushell! Yes, that's right this is the tenth release of Nu we've put out in the wild, and oh is this release wild. So let's stop dilly-dallying and get right to it, shall we?</p>
@@ -1218,7 +1218,7 @@ world
       <link>www.nushell.sh/blog/2020-03-10-nushell_0_11_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-03-10-nushell_0_11_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.11.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-11-0" tabindex="-1"> Nushell 0.11.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release the 0.11.0 release of Nu. This release continues to push us forward with new commands, improved engine internals, bugfixes, and more.</p>
@@ -1286,7 +1286,7 @@ The edition is 2018
       <link>www.nushell.sh/blog/2020-03-31-nushell_0_12_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-03-31-nushell_0_12_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.12.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-12-0" tabindex="-1"> Nushell 0.12.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release version 0.12.0 of Nu!</p>
@@ -1405,7 +1405,7 @@ nushell on 📙 master is 📦 v0.12.0 via 🦀 v1.42.0
       <link>www.nushell.sh/blog/2020-04-21-nushell_0_13_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-04-21-nushell_0_13_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.13.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-13-0" tabindex="-1"> Nushell 0.13.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release version 0.13.0 of Nu! This is by <em>far</em> one the the biggest releases, yet. Let's dive in!</p>
@@ -1489,7 +1489,7 @@ false
       <link>www.nushell.sh/blog/2020-05-12-nushell_0_14_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-05-12-nushell_0_14_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.14.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-14-0" tabindex="-1"> Nushell 0.14.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>We're excited to release version 0.14.0 of Nu!</p>
@@ -1573,7 +1573,7 @@ false
       <link>www.nushell.sh/blog/2020-06-09-nushell_0_15_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-06-09-nushell_0_15_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.15.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-15-0" tabindex="-1"> Nushell 0.15.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.15 of Nu - and it has a few last-minute surprises we hope you'll find as much fun as we do.</p>
@@ -1672,7 +1672,7 @@ My current history path is /home/jonathant/.local/share/nu/history.txt
       <link>www.nushell.sh/blog/2020-06-30-nushell_0_16_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-06-30-nushell_0_16_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.16.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-16-0" tabindex="-1"> Nushell 0.16.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.16 of Nu</p>
@@ -1778,7 +1778,7 @@ My current history path is /home/jonathant/.local/share/nu/history.txt
       <link>www.nushell.sh/blog/2020-07-21-nushell_0_17_0.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-07-21-nushell_0_17_0.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.17.0</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-17-0" tabindex="-1"> Nushell 0.17.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.17 of Nu, the first Nu to include WebAssembly, custom keybindings, and much more.</p>
@@ -1912,7 +1912,7 @@ dlrow olleh
       <link>www.nushell.sh/blog/2020-08-11-nushell_0_18.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-08-11-nushell_0_18.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.18</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-18" tabindex="-1"> Nushell 0.18</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.18 of Nu. The focus of this release was largely to polish what is already there, ensuring that internally parts work together better, are more consistent, and are easier to maintain. We've also added new commands for working with paths, URLs, strings, and lists.</p>
@@ -1960,7 +1960,7 @@ dlrow olleh
       <link>www.nushell.sh/blog/2020-08-23-year_of_nushell.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-08-23-year_of_nushell.html</guid>
       <source url="www.nushell.sh/rss.xml">One year of Nushell</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="one-year-of-nushell" tabindex="-1"> One year of Nushell</h1>
 <p>Hard to imagine that it's already been a year since Nu first went public. At the time, it was largely a demo of what could be possible, but still needed quite a bit of work to make it ready for everyday use. A year later and we've learned a lot, and made a few mistakes along the way. In this post, we look back over the year and see how we did and where we might be going in the future.</p>
 <h1 id="history" tabindex="-1"> History</h1>
@@ -2101,7 +2101,7 @@ dlrow olleh
       <link>www.nushell.sh/blog/2020-09-01-nushell_0_19.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-09-01-nushell_0_19.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.19</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-19" tabindex="-1"> Nushell 0.19</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.19 of Nu. In this version, we fill some long-lived gaps in Nu, improve completions, theming, and much more.</p>
@@ -2204,7 +2204,7 @@ dlrow olleh
       <link>www.nushell.sh/blog/2020-09-22-nushell_0_20.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-09-22-nushell_0_20.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.20</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-20" tabindex="-1"> Nushell 0.20</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.20 of Nu. In this version, we're introducing some new features for working with rows, improvements to completions, and more.</p>
@@ -2338,7 +2338,7 @@ dlrow olleh
       <link>www.nushell.sh/blog/2020-10-13-nushell_0_21.html</link>
       <guid isPermaLink="false">www.nushell.sh/blog/2020-10-13-nushell_0_21.html</guid>
       <source url="www.nushell.sh/rss.xml">Nushell 0.21</source>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-21" tabindex="-1"> Nushell 0.21</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.21 of Nu. In this version, we introduce a charting functionality for quickly exploring data, stability improvements, and some general command cleanups.</p>
@@ -2386,7 +2386,7 @@ dlrow olleh
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.22 of Nu. In this version, we introduce a new flattening command, more math commands, we remove it-expansion, and add a lot of assorted improvements.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-22" tabindex="-1"> Nushell 0.22</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.22 of Nu. In this version, we introduce a new flattening command, more math commands, we remove it-expansion, and add a lot of assorted improvements.</p>
@@ -2467,7 +2467,7 @@ Today, we're releasing 0.22 of Nu. In this version, we introduce a new flattenin
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.23 of Nu. In this version, we continue improving the commands, release a new website, and talk about some of the experiments that will be making their way into Nu in future versions.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-23" tabindex="-1"> Nushell 0.23</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.23 of Nu. In this version, we continue improving the commands, release a new website, and talk about some of the experiments that will be making their way into Nu in future versions.</p>
@@ -2509,7 +2509,7 @@ Today, we're releasing 0.23 of Nu. In this version, we continue improving the co
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.24 of Nu. We've added a few new utilities, improved the existing date functionality, and more.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-24" tabindex="-1"> Nushell 0.24</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.24 of Nu. We've added a few new utilities, improved the existing date functionality, and more.</p>
@@ -2546,7 +2546,7 @@ Today, we're releasing 0.24 of Nu. We've added a few new utilities, improved the
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.25 of Nu. It's one of the largest releases we've ever done. With it Nushell grows from being a shell to being a full scripting language as well.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-25" tabindex="-1"> Nushell 0.25</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.25 of Nu. It's one of the largest releases we've ever done. With it Nushell grows from being a shell to being a full scripting language as well.</p>
@@ -2678,7 +2678,7 @@ echo $(add 1 11)         # errors, `add` isn't in scope here
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.26 of Nu. It's a polish release with lots of improvements.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-26" tabindex="-1"> Nushell 0.26</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.26 of Nu. It's a polish release with lots of improvements.</p>
@@ -2743,7 +2743,7 @@ foo --bar 10
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.27 of Nu. This release fixes some long-standing issues with Nushell.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-27" tabindex="-1"> Nushell 0.27</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.27 of Nu. This release fixes some long-standing issues with Nushell.</p>
@@ -2821,7 +2821,7 @@ Today, we're releasing 0.27 of Nu. This release fixes some long-standing issues 
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
 Today, we're releasing 0.28 of Nu. In this release we've added new commands for working with tables, paths, and lots of general feature improvements.
 </description>
-      <pubDate>Sun, 05 Jun 2022 02:58:42 GMT</pubDate>
+      <pubDate>Sun, 05 Jun 2022 02:08:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-28" tabindex="-1"> Nushell 0.28</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing 0.28 of Nu. In this release we've added new commands for working with tables, paths, and lots of general feature improvements.</p>
