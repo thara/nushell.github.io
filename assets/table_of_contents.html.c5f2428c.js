@@ -1,1 +1,0 @@
-const t={key:"v-74b310c6",path:"/old_book/table_of_contents.html",title:"Table of Contents",lang:"English",frontmatter:{},excerpt:"",headers:[],filePathRelative:"old_book/table_of_contents.md",git:{createdTime:1646056138e3,updatedTime:1646056138e3,contributors:[{name:"JT",email:"jonathan.d.turner@gmail.com",commits:1}]}};export{t as data};
