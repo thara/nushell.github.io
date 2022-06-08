@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="English">
-  <id>www.nushell.sh/</id>
+  <id>https://www.nushell.sh/</id>
   <title>Nushell</title>
   <subtitle>A new type of shell.</subtitle>
-  <updated>2022-06-07T21:37:14.737Z</updated>
+  <updated>2022-06-08T06:50:42.555Z</updated>
   <generator>vuepress-plugin-feed2</generator>
-  <link rel="self" href="www.nushell.sh/feed.atom"/>
-  <link rel="alternate" href="www.nushell.sh/"/>
+  <link rel="self" href="https://www.nushell.sh/feed.atom"/>
+  <link rel="alternate" href="https://www.nushell.sh/"/>
   <contributor>
     <name>The Nu Authors</name>
   </contributor>
@@ -15,8 +15,8 @@
   </contributor>
   <entry>
     <title type="html">Nushell 0.63</title>
-    <id>www.nushell.sh/blog/2022-05-24-nushell_0_63.html</id>
-    <link href="www.nushell.sh/blog/2022-05-24-nushell_0_63.html"/>
+    <id>https://www.nushell.sh/blog/2022-05-24-nushell_0_63.html</id>
+    <link href="https://www.nushell.sh/blog/2022-05-24-nushell_0_63.html"/>
     <updated>2022-05-25T10:59:23.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-63" tabindex="-1"> Nushell 0.63</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -218,8 +218,8 @@ This Is A Test Case
   </entry>
   <entry>
     <title type="html">Nushell 0.62</title>
-    <id>www.nushell.sh/blog/2022-05-03-nushell_0_62.html</id>
-    <link href="www.nushell.sh/blog/2022-05-03-nushell_0_62.html"/>
+    <id>https://www.nushell.sh/blog/2022-05-03-nushell_0_62.html</id>
+    <link href="https://www.nushell.sh/blog/2022-05-03-nushell_0_62.html"/>
     <updated>2022-05-04T00:32:19.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-62" tabindex="-1"> Nushell 0.62</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -393,8 +393,8 @@ This Is A Test Case
   </entry>
   <entry>
     <title type="html">Nushell 0.61</title>
-    <id>www.nushell.sh/blog/2022-04-12-nushell_0_61.html</id>
-    <link href="www.nushell.sh/blog/2022-04-12-nushell_0_61.html"/>
+    <id>https://www.nushell.sh/blog/2022-04-12-nushell_0_61.html</id>
+    <link href="https://www.nushell.sh/blog/2022-04-12-nushell_0_61.html"/>
     <updated>2022-06-03T13:46:44.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-61" tabindex="-1"> Nushell 0.61</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -499,8 +499,8 @@ This Is A Test Case
   </entry>
   <entry>
     <title type="html">Nushell 0.60</title>
-    <id>www.nushell.sh/blog/2022-03-22-nushell_0_60.html</id>
-    <link href="www.nushell.sh/blog/2022-03-22-nushell_0_60.html"/>
+    <id>https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html</id>
+    <link href="https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<p><em>Before we begin, as the Russian invasion of Ukraine still continues to threaten lives, <a href="https://war.ukraine.ua" target="_blank" rel="noopener noreferrer">here</a> are ways you can help.</em></p>
 <h1 id="nushell-0-60" tabindex="-1"> Nushell 0.60</h1>
@@ -1329,8 +1329,8 @@ specify what command should be used to run the plugin</p>
   </entry>
   <entry>
     <title type="html">Nushell 0.59 (aka 0.60 beta)</title>
-    <id>www.nushell.sh/blog/2022-03-01-nushell_0_59.html</id>
-    <link href="www.nushell.sh/blog/2022-03-01-nushell_0_59.html"/>
+    <id>https://www.nushell.sh/blog/2022-03-01-nushell_0_59.html</id>
+    <link href="https://www.nushell.sh/blog/2022-03-01-nushell_0_59.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-59-aka-0-60-beta" tabindex="-1"> Nushell 0.59 (aka 0.60 beta)</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1392,8 +1392,8 @@ extern "git checkout" [
   </entry>
   <entry>
     <title type="html">Nushell 0.44</title>
-    <id>www.nushell.sh/blog/2022-02-08-nushell_0_44.html</id>
-    <link href="www.nushell.sh/blog/2022-02-08-nushell_0_44.html"/>
+    <id>https://www.nushell.sh/blog/2022-02-08-nushell_0_44.html</id>
+    <link href="https://www.nushell.sh/blog/2022-02-08-nushell_0_44.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-44-the-calm-before-the-storm" tabindex="-1"> Nushell 0.44 - the calm before the storm</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1431,8 +1431,8 @@ extern "git checkout" [
   </entry>
   <entry>
     <title type="html">Nushell 0.43</title>
-    <id>www.nushell.sh/blog/2022-01-18-nushell_0_43.html</id>
-    <link href="www.nushell.sh/blog/2022-01-18-nushell_0_43.html"/>
+    <id>https://www.nushell.sh/blog/2022-01-18-nushell_0_43.html</id>
+    <link href="https://www.nushell.sh/blog/2022-01-18-nushell_0_43.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-43" tabindex="-1"> Nushell 0.43</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1476,8 +1476,8 @@ extern "git checkout" [
   </entry>
   <entry>
     <title type="html">Nushell 0.42</title>
-    <id>www.nushell.sh/blog/2021-12-28-nushell_0_42.html</id>
-    <link href="www.nushell.sh/blog/2021-12-28-nushell_0_42.html"/>
+    <id>https://www.nushell.sh/blog/2021-12-28-nushell_0_42.html</id>
+    <link href="https://www.nushell.sh/blog/2021-12-28-nushell_0_42.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-42" tabindex="-1"> Nushell 0.42</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1519,8 +1519,8 @@ extern "git checkout" [
   </entry>
   <entry>
     <title type="html">Nushell 0.41</title>
-    <id>www.nushell.sh/blog/2021-12-07-nushell_0_41.html</id>
-    <link href="www.nushell.sh/blog/2021-12-07-nushell_0_41.html"/>
+    <id>https://www.nushell.sh/blog/2021-12-07-nushell_0_41.html</id>
+    <link href="https://www.nushell.sh/blog/2021-12-07-nushell_0_41.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-41" tabindex="-1"> Nushell 0.41</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1566,8 +1566,8 @@ extern "git checkout" [
   </entry>
   <entry>
     <title type="html">Nushell 0.40</title>
-    <id>www.nushell.sh/blog/2021-11-16-nushell_0_40.html</id>
-    <link href="www.nushell.sh/blog/2021-11-16-nushell_0_40.html"/>
+    <id>https://www.nushell.sh/blog/2021-11-16-nushell_0_40.html</id>
+    <link href="https://www.nushell.sh/blog/2021-11-16-nushell_0_40.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-40" tabindex="-1"> Nushell 0.40</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1671,8 +1671,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Nushell 0.39</title>
-    <id>www.nushell.sh/blog/2021-10-26-nushell_0_39.html</id>
-    <link href="www.nushell.sh/blog/2021-10-26-nushell_0_39.html"/>
+    <id>https://www.nushell.sh/blog/2021-10-26-nushell_0_39.html</id>
+    <link href="https://www.nushell.sh/blog/2021-10-26-nushell_0_39.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-39" tabindex="-1"> Nushell 0.39</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1710,8 +1710,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Nushell 0.38</title>
-    <id>www.nushell.sh/blog/2021-10-05-nushell_0_38.html</id>
-    <link href="www.nushell.sh/blog/2021-10-05-nushell_0_38.html"/>
+    <id>https://www.nushell.sh/blog/2021-10-05-nushell_0_38.html</id>
+    <link href="https://www.nushell.sh/blog/2021-10-05-nushell_0_38.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-38" tabindex="-1"> Nushell 0.38</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1774,8 +1774,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Nushell 0.37</title>
-    <id>www.nushell.sh/blog/2021-09-14-nushell_0_37.html</id>
-    <link href="www.nushell.sh/blog/2021-09-14-nushell_0_37.html"/>
+    <id>https://www.nushell.sh/blog/2021-09-14-nushell_0_37.html</id>
+    <link href="https://www.nushell.sh/blog/2021-09-14-nushell_0_37.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-37" tabindex="-1"> Nushell 0.37</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1835,8 +1835,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Nushell 0.36</title>
-    <id>www.nushell.sh/blog/2021-08-24-nushell_0_36.html</id>
-    <link href="www.nushell.sh/blog/2021-08-24-nushell_0_36.html"/>
+    <id>https://www.nushell.sh/blog/2021-08-24-nushell_0_36.html</id>
+    <link href="https://www.nushell.sh/blog/2021-08-24-nushell_0_36.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-36" tabindex="-1"> Nushell 0.36</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -1912,8 +1912,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Two years of Nushell</title>
-    <id>www.nushell.sh/blog/2021-08-23-two-years-of-nushell.html</id>
-    <link href="www.nushell.sh/blog/2021-08-23-two-years-of-nushell.html"/>
+    <id>https://www.nushell.sh/blog/2021-08-23-two-years-of-nushell.html</id>
+    <link href="https://www.nushell.sh/blog/2021-08-23-two-years-of-nushell.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <content type="html"><![CDATA[<h1 id="two-years-of-nushell" tabindex="-1"> Two years of Nushell</h1>
 <p><img src="@source/assets/images/two_year_cake.png" alt="Stock cake photo with a 2"></p>
@@ -1976,8 +1976,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Nushell 0.35</title>
-    <id>www.nushell.sh/blog/2021-08-03-nushell_0_35.html</id>
-    <link href="www.nushell.sh/blog/2021-08-03-nushell_0_35.html"/>
+    <id>https://www.nushell.sh/blog/2021-08-03-nushell_0_35.html</id>
+    <link href="https://www.nushell.sh/blog/2021-08-03-nushell_0_35.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-35" tabindex="-1"> Nushell 0.35</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2049,8 +2049,8 @@ tmpfs            1631280       128   1631152   1% /run/user/1000
   </entry>
   <entry>
     <title type="html">Nushell 0.34</title>
-    <id>www.nushell.sh/blog/2021-07-13-nushell_0_34.html</id>
-    <link href="www.nushell.sh/blog/2021-07-13-nushell_0_34.html"/>
+    <id>https://www.nushell.sh/blog/2021-07-13-nushell_0_34.html</id>
+    <link href="https://www.nushell.sh/blog/2021-07-13-nushell_0_34.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-34" tabindex="-1"> Nushell 0.34</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2188,8 +2188,8 @@ barbaz
   </entry>
   <entry>
     <title type="html">Nushell 0.33</title>
-    <id>www.nushell.sh/blog/2021-06-22-nushell_0_33.html</id>
-    <link href="www.nushell.sh/blog/2021-06-22-nushell_0_33.html"/>
+    <id>https://www.nushell.sh/blog/2021-06-22-nushell_0_33.html</id>
+    <link href="https://www.nushell.sh/blog/2021-06-22-nushell_0_33.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-33" tabindex="-1"> Nushell 0.33</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2261,8 +2261,8 @@ barbaz
   </entry>
   <entry>
     <title type="html">Nushell 0.32</title>
-    <id>www.nushell.sh/blog/2021-06-01-nushell_0_32.html</id>
-    <link href="www.nushell.sh/blog/2021-06-01-nushell_0_32.html"/>
+    <id>https://www.nushell.sh/blog/2021-06-01-nushell_0_32.html</id>
+    <link href="https://www.nushell.sh/blog/2021-06-01-nushell_0_32.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-32" tabindex="-1"> Nushell 0.32</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2423,8 +2423,8 @@ spam
   </entry>
   <entry>
     <title type="html">Nushell 0.31</title>
-    <id>www.nushell.sh/blog/2021-05-11-nushell_0_31.html</id>
-    <link href="www.nushell.sh/blog/2021-05-11-nushell_0_31.html"/>
+    <id>https://www.nushell.sh/blog/2021-05-11-nushell_0_31.html</id>
+    <link href="https://www.nushell.sh/blog/2021-05-11-nushell_0_31.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-31" tabindex="-1"> Nushell 0.31</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2491,8 +2491,8 @@ spam
   </entry>
   <entry>
     <title type="html">Nushell 0.30</title>
-    <id>www.nushell.sh/blog/2021-04-20-nushell_0_30.html</id>
-    <link href="www.nushell.sh/blog/2021-04-20-nushell_0_30.html"/>
+    <id>https://www.nushell.sh/blog/2021-04-20-nushell_0_30.html</id>
+    <link href="https://www.nushell.sh/blog/2021-04-20-nushell_0_30.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-30" tabindex="-1"> Nushell 0.30</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2579,8 +2579,8 @@ spam
   </entry>
   <entry>
     <title type="html">Nushell 0.29</title>
-    <id>www.nushell.sh/blog/2021-03-30-nushell_0_29.html</id>
-    <link href="www.nushell.sh/blog/2021-03-30-nushell_0_29.html"/>
+    <id>https://www.nushell.sh/blog/2021-03-30-nushell_0_29.html</id>
+    <link href="https://www.nushell.sh/blog/2021-03-30-nushell_0_29.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-29" tabindex="-1"> Nushell 0.29</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2643,8 +2643,8 @@ spam
   </entry>
   <entry>
     <title type="html">Nushell 0.28</title>
-    <id>www.nushell.sh/blog/2021-03-09-nushell_0_28.html</id>
-    <link href="www.nushell.sh/blog/2021-03-09-nushell_0_28.html"/>
+    <id>https://www.nushell.sh/blog/2021-03-09-nushell_0_28.html</id>
+    <link href="https://www.nushell.sh/blog/2021-03-09-nushell_0_28.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-28" tabindex="-1"> Nushell 0.28</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2774,8 +2774,8 @@ spam
   </entry>
   <entry>
     <title type="html">Nushell 0.27</title>
-    <id>www.nushell.sh/blog/2021-02-16-nushell_0_27.html</id>
-    <link href="www.nushell.sh/blog/2021-02-16-nushell_0_27.html"/>
+    <id>https://www.nushell.sh/blog/2021-02-16-nushell_0_27.html</id>
+    <link href="https://www.nushell.sh/blog/2021-02-16-nushell_0_27.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-27" tabindex="-1"> Nushell 0.27</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2859,8 +2859,8 @@ spam
   </entry>
   <entry>
     <title type="html">Nushell 0.26</title>
-    <id>www.nushell.sh/blog/2021-01-26-nushell_0_26.html</id>
-    <link href="www.nushell.sh/blog/2021-01-26-nushell_0_26.html"/>
+    <id>https://www.nushell.sh/blog/2021-01-26-nushell_0_26.html</id>
+    <link href="https://www.nushell.sh/blog/2021-01-26-nushell_0_26.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-26" tabindex="-1"> Nushell 0.26</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -2931,8 +2931,8 @@ foo --bar 10
   </entry>
   <entry>
     <title type="html">Nushell 0.25</title>
-    <id>www.nushell.sh/blog/2021-01-05-nushell_0_25.html</id>
-    <link href="www.nushell.sh/blog/2021-01-05-nushell_0_25.html"/>
+    <id>https://www.nushell.sh/blog/2021-01-05-nushell_0_25.html</id>
+    <link href="https://www.nushell.sh/blog/2021-01-05-nushell_0_25.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-25" tabindex="-1"> Nushell 0.25</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -3070,8 +3070,8 @@ echo $(add 1 11)         # errors, `add` isn't in scope here
   </entry>
   <entry>
     <title type="html">Nushell 0.24</title>
-    <id>www.nushell.sh/blog/2020-12-15-nushell_0_24.html</id>
-    <link href="www.nushell.sh/blog/2020-12-15-nushell_0_24.html"/>
+    <id>https://www.nushell.sh/blog/2020-12-15-nushell_0_24.html</id>
+    <link href="https://www.nushell.sh/blog/2020-12-15-nushell_0_24.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-24" tabindex="-1"> Nushell 0.24</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -3114,8 +3114,8 @@ echo $(add 1 11)         # errors, `add` isn't in scope here
   </entry>
   <entry>
     <title type="html">Nushell 0.23</title>
-    <id>www.nushell.sh/blog/2020-11-24-nushell_0_23.html</id>
-    <link href="www.nushell.sh/blog/2020-11-24-nushell_0_23.html"/>
+    <id>https://www.nushell.sh/blog/2020-11-24-nushell_0_23.html</id>
+    <link href="https://www.nushell.sh/blog/2020-11-24-nushell_0_23.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-23" tabindex="-1"> Nushell 0.23</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
@@ -3163,8 +3163,8 @@ echo $(add 1 11)         # errors, `add` isn't in scope here
   </entry>
   <entry>
     <title type="html">Introducing nushell</title>
-    <id>www.nushell.sh/blog/2019-08-23-introducing-nushell.html</id>
-    <link href="www.nushell.sh/blog/2019-08-23-introducing-nushell.html"/>
+    <id>https://www.nushell.sh/blog/2019-08-23-introducing-nushell.html</id>
+    <link href="https://www.nushell.sh/blog/2019-08-23-introducing-nushell.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <content type="html"><![CDATA[<h1 id="introducing-nushell" tabindex="-1"> Introducing nushell</h1>
 <p>Today, we're introducing a new shell, written in Rust. It draws inspiration from the classic Unix philosophy of pipelines, the structured data approach of PowerShell, functional programming, systems programming, and more.</p>
@@ -3402,8 +3402,8 @@ Cargo2.toml  Cargo.toml  extra	LICENSE  open		readonly.txt  rustfmt.toml   targe
   </entry>
   <entry>
     <title type="html">Nushell 0.3.0</title>
-    <id>www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html</id>
-    <link href="www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html"/>
+    <id>https://www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html</id>
+    <link href="https://www.nushell.sh/blog/2019-09-24-nushell_0_3_0.html"/>
     <updated>2022-03-27T03:17:24.000Z</updated>
     <content type="html"><![CDATA[<h1 id="nushell-0-3-0" tabindex="-1"> Nushell 0.3.0</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
