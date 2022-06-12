@@ -1,2 +1,0 @@
-const e={key:"v-df1a6db2",path:"/book/commands/db_describe.html",title:"db describe",lang:"English",frontmatter:{title:"db describe",version:"0.63.0",usage:`Describes connection and query of the DB object
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/db_describe.md",git:{createdTime:1651667107e3,updatedTime:1654214778e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:3}]}};export{e as data};

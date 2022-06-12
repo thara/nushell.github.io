@@ -1,2 +1,0 @@
-const e={key:"v-6815f45e",path:"/book/commands/dfr_as.html",title:"dfr as",lang:"English",frontmatter:{title:"dfr as",version:"0.63.0",usage:`Creates an alias expression
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/dfr_as.md",git:{createdTime:1653450775e3,updatedTime:1654214778e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};
