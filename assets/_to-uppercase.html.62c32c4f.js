@@ -1,0 +1,2 @@
+const e={key:"v-6bca67d8",path:"/book/commands/_to-uppercase.html",title:"to-uppercase",lang:"English",frontmatter:{title:"to-uppercase",version:"0.64.0",usage:`Uppercase the strings in the column
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_to-uppercase.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

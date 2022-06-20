@@ -1,0 +1,2 @@
+const e={key:"v-69c210dd",path:"/book/commands/_agg.html",title:"agg",lang:"English",frontmatter:{title:"agg",version:"0.64.0",usage:`Performs a series of aggregations from a group by
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_agg.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

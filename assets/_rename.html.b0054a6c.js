@@ -1,0 +1,2 @@
+const e={key:"v-57220c54",path:"/book/commands/_rename.html",title:"rename",lang:"English",frontmatter:{title:"rename",version:"0.64.0",usage:`Rename a dataframe column
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_rename.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

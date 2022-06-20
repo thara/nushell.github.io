@@ -1,0 +1,2 @@
+const e={key:"v-93f218f8",path:"/book/commands/_n-unique.html",title:"n-unique",lang:"English",frontmatter:{title:"n-unique",version:"0.64.0",usage:`Counts unique values
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_n-unique.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};
