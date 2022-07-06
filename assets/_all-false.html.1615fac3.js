@@ -1,2 +1,0 @@
-const e={key:"v-aea02c32",path:"/book/commands/_all-false.html",title:"all-false",lang:"English",frontmatter:{title:"all-false",version:"0.64.0",usage:`Returns true if all values are false
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_all-false.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

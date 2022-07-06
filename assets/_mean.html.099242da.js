@@ -1,2 +1,0 @@
-const e={key:"v-1e8cfc6f",path:"/book/commands/_mean.html",title:"mean",lang:"English",frontmatter:{title:"mean",version:"0.64.0",usage:`Aggregates columns to their mean value
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_mean.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

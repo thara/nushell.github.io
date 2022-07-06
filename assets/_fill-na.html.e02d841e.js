@@ -1,0 +1,2 @@
+const e={key:"v-5eaa86a1",path:"/book/commands/_fill-na.html",title:"fill-na",lang:"English",frontmatter:{title:"fill-na",version:"0.65.1",usage:`Replaces NA values with the given expression
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_fill-na.md",git:{createdTime:1655361765e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:3}]}};export{e as data};

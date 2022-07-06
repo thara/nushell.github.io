@@ -1,0 +1,2 @@
+const e={key:"v-3ad69609",path:"/book/commands/is-null.html",title:"is-null",lang:"English",frontmatter:{title:"is-null",version:"0.65.1",usage:`creates a is null expression
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/is-null.md",git:{createdTime:1655361765e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:3}]}};export{e as data};

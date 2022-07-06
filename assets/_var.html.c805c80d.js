@@ -1,0 +1,2 @@
+const e={key:"v-76caab12",path:"/book/commands/_var.html",title:"var",lang:"English",frontmatter:{title:"var",version:"0.65.1",usage:`Aggregates columns to their var value
+`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_var.md",git:{createdTime:1655361765e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:3}]}};export{e as data};

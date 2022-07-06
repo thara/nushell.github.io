@@ -1,2 +1,0 @@
-const e={key:"v-a3e5d0da",path:"/book/commands/col.html",title:"col",lang:"English",frontmatter:{title:"col",version:"0.64.0",usage:`Creates a named column expression
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/col.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

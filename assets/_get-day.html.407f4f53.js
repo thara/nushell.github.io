@@ -1,2 +1,0 @@
-const e={key:"v-02e18939",path:"/book/commands/_get-day.html",title:"get-day",lang:"English",frontmatter:{title:"get-day",version:"0.64.0",usage:`Gets day from date
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_get-day.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};
