@@ -1,2 +1,0 @@
-const e={key:"v-5d5e476a",path:"/book/commands/_to-df.html",title:"to-df",lang:"English",frontmatter:{title:"to-df",version:"0.64.0",usage:`Converts a List, Table or Dictionary into a dataframe
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_to-df.md",git:{createdTime:1655361765e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:2}]}};export{e as data};

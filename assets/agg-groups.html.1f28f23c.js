@@ -1,2 +1,0 @@
-const e={key:"v-f5238182",path:"/book/commands/agg-groups.html",title:"agg-groups",lang:"English",frontmatter:{title:"agg-groups",version:"0.65.1",usage:`creates an agg_groups expression
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/agg-groups.md",git:{createdTime:1655361765e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:3}]}};export{e as data};

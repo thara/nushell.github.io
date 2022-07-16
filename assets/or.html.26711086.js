@@ -1,2 +1,0 @@
-const e={key:"v-66ebdd48",path:"/book/commands/or.html",title:"or",lang:"English",frontmatter:{title:"or",version:"0.65.1",usage:`Includes an OR clause for an expression
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/or.md",git:{createdTime:1657096003e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

@@ -1,2 +1,0 @@
-const e={key:"v-599ce696",path:"/book/commands/db_collect.html",title:"db collect",lang:"English",frontmatter:{title:"db collect",version:"0.64.0",usage:`Query a database using SQL.
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/db_collect.md",git:{createdTime:1651667107e3,updatedTime:1655723987e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:5}]}};export{e as data};

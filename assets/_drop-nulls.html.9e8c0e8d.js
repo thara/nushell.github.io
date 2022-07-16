@@ -1,2 +1,0 @@
-const e={key:"v-19fb9a26",path:"/book/commands/_drop-nulls.html",title:"drop-nulls",lang:"English",frontmatter:{title:"drop-nulls",version:"0.65.1",usage:`Drops null values in dataframe
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_drop-nulls.md",git:{createdTime:1655361765e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:3}]}};export{e as data};

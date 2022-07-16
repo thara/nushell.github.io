@@ -1,2 +1,0 @@
-const e={key:"v-b679ca38",path:"/book/commands/testing-db.html",title:"testing-db",lang:"English",frontmatter:{title:"testing-db",version:"0.65.1",usage:`Temporal Command: Create query object
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Parameters",slug:"parameters",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/testing-db.md",git:{createdTime:1657096003e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};

@@ -1,2 +1,0 @@
-const e={key:"v-43aa9c28",path:"/book/commands/_uppercase.html",title:"uppercase",lang:"English",frontmatter:{title:"uppercase",version:"0.65.1",usage:`Uppercase the strings in the column
-`},excerpt:"",headers:[{level:2,title:"Signature",slug:"signature",children:[]},{level:2,title:"Examples",slug:"examples",children:[]}],filePathRelative:"book/commands/_uppercase.md",git:{createdTime:1657096003e3,updatedTime:1657096003e3,contributors:[{name:"Justin Ma",email:"hustcer@outlook.com",commits:1}]}};export{e as data};
