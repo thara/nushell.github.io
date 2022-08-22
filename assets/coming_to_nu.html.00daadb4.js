@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6540227f","path":"/book/coming_to_nu.html","title":"Coming to Nu","lang":"English","frontmatter":{},"excerpt":"","headers":[],"filePathRelative":"book/coming_to_nu.md","git":{"createdTime":1658864458000,"updatedTime":1658864458000,"contributors":[{"name":"Jakub \u017D\xE1dn\xEDk","email":"kubouch@gmail.com","commits":1}]}}');export{t as data};
