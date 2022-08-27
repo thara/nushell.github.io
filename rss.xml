@@ -6,8 +6,8 @@
     <link>https://www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Mon, 22 Aug 2022 18:15:23 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2022 18:15:23 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Aug 2022 11:12:06 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2022 11:12:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -2674,10 +2674,10 @@ load-env <span>(</span>activate<span>)</span>
 </code></pre></div><h2 id="flags-can-now-use-equals-andrasio" tabindex="-1"> Flags can now use equals (andrasio)</h2>
 <p>You can now use <code>=</code> between a flag and its value.</p>
 <p>For example, in addition to:</p>
-<div><pre><code><span>></span> <span>seq</span> --separator <span>':'</span> <span>1</span> <span>10</span>
+<div><pre><code><span>></span> <span>seq</span> <span>--separator</span> <span>':'</span> <span>1</span> <span>10</span>
 <span>1</span>:2:3:4:5:6:7:8:9:10
 </code></pre></div><p>You can also write:</p>
-<div><pre><code><span>></span> <span>seq</span> --separator<span>=</span><span>':'</span> <span>1</span> <span>10</span>
+<div><pre><code><span>></span> <span>seq</span> <span>--separator</span><span>=</span><span>':'</span> <span>1</span> <span>10</span>
 <span>1</span>:2:3:4:5:6:7:8:9:10
 </code></pre></div><h2 id="other-improvements" tabindex="-1"> Other improvements</h2>
 <h3 id="simple-string-concatenation-jt" tabindex="-1"> Simple string concatenation (jt)</h3>
