@@ -6,8 +6,8 @@
     <link>https://www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Tue, 06 Sep 2022 23:09:21 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2022 23:09:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 23:22:31 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 23:22:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -17,12 +17,12 @@
       <source url="https://www.nushell.sh/rss.xml">Nushell 0.68</source>
       <description> Nushell 0.68
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
-Today, we're releasing version 0.68 of Nu. This is release includes a new variable naming convention, improvements to module imports and file sourcing, and more.
+Today, we're releasing version 0.68 of Nu. This is release a rework of modules, a new source-env command, overlay changes, and more.
 </description>
       <pubDate>Tue, 06 Sep 2022 23:02:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-68" tabindex="-1"> Nushell 0.68</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
-<p>Today, we're releasing version 0.68 of Nu. This is release includes a new variable naming convention, improvements to module imports and file sourcing, and more.</p>
+<p>Today, we're releasing version 0.68 of Nu. This is release a rework of modules, a new source-env command, overlay changes, and more.</p>
 
 <h1 id="where-to-get-it" tabindex="-1"> Where to get it</h1>
 <p>Nu 0.68 is available as <a href="https://github.com/nushell/nushell/releases/tag/0.68.0" target="_blank" rel="noopener noreferrer">pre-built binaries</a> or from <a href="https://crates.io/crates/nu" target="_blank" rel="noopener noreferrer">crates.io</a>. If you have Rust installed you can install it using <code>cargo install nu</code>.</p>
