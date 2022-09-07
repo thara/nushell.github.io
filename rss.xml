@@ -6,8 +6,8 @@
     <link>https://www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Wed, 07 Sep 2022 08:36:29 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Sep 2022 08:36:29 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 09:02:35 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 09:02:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -187,7 +187,7 @@ export alias bar = 'bar'
 </table>
 <h2 id="allow-parentheses-around-command-signatures-jt" tabindex="-1"> Allow parentheses around command signatures (<a href="https://github.com/nushell/nushell/pull/6444" target="_blank" rel="noopener noreferrer">JT</a>)</h2>
 <p>To bring more familiarity with other languages, we added the option to define command signatures with parentheses <code>()</code> instad of only braces <code>[]</code>:</p>
-<div><pre><code>def foo (x: int) { x + 100 }
+<div><pre><code>def foo (x: int) { $x + 100 }
 </code></pre></div><p>The square braces <code>[]</code> continue to work as well.
 This change is intended to test it with a larger audience to decide which one we prefer the most.</p>
 <h2 id="we-added-a-new-command-str-distance-which-impelments-the-levenshtein-alorithm-fdncred" tabindex="-1"> We added a new command <code>str distance</code> which impelments the Levenshtein alorithm <a href="https://github.com/nushell/nushell/pull/6383" target="_blank" rel="noopener noreferrer">fdncred</a></h2>
