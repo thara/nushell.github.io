@@ -3,7 +3,7 @@
   <id>https://www.nushell.sh/</id>
   <title>Nushell</title>
   <subtitle>A new type of shell.</subtitle>
-  <updated>2022-09-07T02:08:41.525Z</updated>
+  <updated>2022-09-07T08:36:29.633Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="https://www.nushell.sh/"/>
@@ -14,7 +14,7 @@
     <title type="html">Nushell 0.68</title>
     <id>https://www.nushell.sh/blog/2022-09-06-nushell-0_68.html</id>
     <link href="https://www.nushell.sh/blog/2022-09-06-nushell-0_68.html"/>
-    <updated>2022-09-06T23:15:59.000Z</updated>
+    <updated>2022-09-07T08:29:39.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-68" tabindex="-1"> Nushell 0.68</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing version 0.68 of Nu. This is release a rework of modules, a new source-env command, overlay changes, and more.</p>
@@ -184,6 +184,11 @@ export alias bar = 'bar'
 </tr>
 </tbody>
 </table>
+<h2 id="allow-parentheses-around-command-signatures-jt" tabindex="-1"> Allow parentheses around command signatures (<a href="https://github.com/nushell/nushell/pull/6444" target="_blank" rel="noopener noreferrer">JT</a>)</h2>
+<p>To bring more familiarity with other languages, we added the option to define command signatures with parentheses <code>()</code> instad of only braces <code>[]</code>:</p>
+<div><pre><code>def foo (x: int) { x + 100 }
+</code></pre></div><p>The square braces <code>[]</code> continue to work as well.
+This change is intended to test it with a larger audience to decide which one we prefer the most.</p>
 <h2 id="we-added-a-new-command-str-distance-which-impelments-the-levenshtein-alorithm-fdncred" tabindex="-1"> We added a new command <code>str distance</code> which impelments the Levenshtein alorithm <a href="https://github.com/nushell/nushell/pull/6383" target="_blank" rel="noopener noreferrer">fdncred</a></h2>
 <p>This example shows that the <code>edit distance</code> is one edit step difference using the Levenshtein algorithm.</p>
 <div><pre><code><span>></span> <span>'nushell'</span> <span>|</span> str distance <span>'nutshell'</span>
