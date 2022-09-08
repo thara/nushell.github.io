@@ -6,8 +6,8 @@
     <link>https://www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Wed, 07 Sep 2022 11:26:41 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Sep 2022 11:26:41 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 20:49:56 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 20:49:56 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -36,11 +36,12 @@ For now, we kept also the old functionality, but in the 0.69, it will be removed
 It is therefore recommended to port your scripts and modules to the new style to avoid breakages in the next release.
 You can read a more complete write-up on the motivation and overall design in <a href="https://hackmd.io/@nucore/r1zilyw6q" target="_blank" rel="noopener noreferrer">this document</a>.</p>
 <h3 id="source-becomes-source-env-jt-kubouch" tabindex="-1"> <code>source</code> becomes <code>source-env</code> (<a href="https://github.com/nushell/nushell/pull/6277" target="_blank" rel="noopener noreferrer">JT, kubouch</a>)</h3>
+<p><em><strong>Note: Since the release we found out that <code>source-env</code> with a dynamic path is not viable and had to make it require a constant string or path, just like <code>source</code>. The command still works as described below but as of 0.68.1, <code>source-env</code> requires a static path as an argument. This is not where our design was supposed to land and we'll be searching for alternatives. We might also postpone the deprecation of the existing module commands beyond 0.69. Thanks for understanding.</strong></em></p>
 <p>One of the most common pitfalls of Nushell was trying to <code>source</code> a dynamic path, such as <code>source ($env.PWD | path join foo.nu)</code>.
 Since Nushell is a &quot;compiled&quot; language where commands and aliases are analyzed while parsing (&quot;compiling&quot;) the code, sourcing dynamic paths is not possible for the same reason you cannot dynamically set <code>#include</code> file names in C or <code>use</code> modules in Rust.
 You can read a bit more about this in <a href="https://www.nushell.sh/book/thinking_in_nu.html#think-of-nushell-as-a-compiled-language" target="_blank" rel="noopener noreferrer">our Thinking in Nu book chapter</a>.</p>
 <p>To address this pitfall, we decided to change <code>source</code> to <code>source-env</code> which can be used to bring in the environment, but not custom commands, aliases and variables anymore.
-A benefit of doing so is that it is now <strong>possible to pass dynamic paths</strong>: <code>source-env ($env.PWD | path join foo.nu)</code> would bring in the environment from the <code>foo.nu</code> file.</p>
+<s>A benefit of doing so is that it is now <strong>possible to pass dynamic paths</strong>: <code>source-env ($env.PWD | path join foo.nu)</code> would bring in the environment from the <code>foo.nu</code> file.</s></p>
 <p><em>How do you bring in commands and aliases without <code>source</code>?</em> You need to use a module and the <code>use</code> keyword. See our book chapter <a href="https://www.nushell.sh/book/modules.html" target="_blank" rel="noopener noreferrer">about modules</a>, it's quite simple. Alternatively, you can use <a href="https://www.nushell.sh/book/overlays.html" target="_blank" rel="noopener noreferrer">overlays</a>.</p>
 <p><em>How do you bring in variables without <code>source</code>?</em> This is not possible anymore. A workaround is to define a command in your module that will return the value you want.</p>
 <p><code>source</code> still continues to work in this release but will be removed in 0.69. In 0.69, we will also change all config files to be modules, not plain scripts.</p>
