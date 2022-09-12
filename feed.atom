@@ -3,7 +3,7 @@
   <id>https://www.nushell.sh/</id>
   <title>Nushell</title>
   <subtitle>A new type of shell.</subtitle>
-  <updated>2022-09-11T09:07:51.984Z</updated>
+  <updated>2022-09-12T06:40:31.845Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://www.nushell.sh/feed.atom"/>
   <link rel="alternate" href="https://www.nushell.sh/"/>
@@ -14,7 +14,7 @@
     <title type="html">Nushell 0.68</title>
     <id>https://www.nushell.sh/blog/2022-09-06-nushell-0_68.html</id>
     <link href="https://www.nushell.sh/blog/2022-09-06-nushell-0_68.html"/>
-    <updated>2022-09-08T20:42:02.000Z</updated>
+    <updated>2022-09-12T06:32:08.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-68" tabindex="-1"> Nushell 0.68</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing version 0.68 of Nu. This is release a rework of modules, a new source-env command, overlay changes, and more.</p>
@@ -301,7 +301,7 @@ Therefore, we felt like <code>hide</code> is a better word to match this functio
 <li>rgwood created <a href="https://github.com/nushell/nushell.github.io/pull/592" target="_blank" rel="noopener noreferrer">Add Homebrew PATH documentation</a></li>
 <li>sholderbach created <a href="https://github.com/nushell/nushell.github.io/pull/590" target="_blank" rel="noopener noreferrer">Update former question mark commands in docs</a></li>
 <li>chrjen created <a href="https://github.com/nushell/nushell.github.io/pull/589" target="_blank" rel="noopener noreferrer">Update types_of_data.md with missing values</a></li>
-<li>hustcer created <a href="https://github.com/nushell/nushell.github.io/pull/588" target="_blank" rel="noopener noreferrer">Upgrade vuepress and all related plugins to improve build performance</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/587" target="_blank" rel="noopener noreferrer">Upgrade all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/586" target="_blank" rel="noopener noreferrer">Upgrade  all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/585" target="_blank" rel="noopener noreferrer">Try to fix deploy of docs by downgrade some plugins</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/582" target="_blank" rel="noopener noreferrer">lock vuepress and plugins version to fix ci</a></li>
+<li>hustcer created <a href="https://github.com/nushell/nushell.github.io/pull/588" target="_blank" rel="noopener noreferrer">Upgrade vuepress and all related plugins to improve build performance</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/587" target="_blank" rel="noopener noreferrer">Upgrade all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/586" target="_blank" rel="noopener noreferrer">Upgrade all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/585" target="_blank" rel="noopener noreferrer">Try to fix deploy of docs by downgrade some plugins</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/582" target="_blank" rel="noopener noreferrer">lock vuepress and plugins version to fix ci</a></li>
 <li>fdncred created <a href="https://github.com/nushell/nushell.github.io/pull/584" target="_blank" rel="noopener noreferrer">update to ubuntu-latest</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/583" target="_blank" rel="noopener noreferrer">change from deprecated version of ubuntu</a></li>
 <li>pedromfedricci created <a href="https://github.com/nushell/nushell.github.io/pull/580" target="_blank" rel="noopener noreferrer">Update accepted types for signatures</a></li>
 <li>Yethal created <a href="https://github.com/nushell/nushell.github.io/pull/579" target="_blank" rel="noopener noreferrer">Add wrap-around merge</a></li>
@@ -342,7 +342,7 @@ Therefore, we felt like <code>hide</code> is a better word to match this functio
     <title type="html">Nushell 0.67</title>
     <id>https://www.nushell.sh/blog/2022-08-16-nushell-0_67.html</id>
     <link href="https://www.nushell.sh/blog/2022-08-16-nushell-0_67.html"/>
-    <updated>2022-08-17T05:16:25.000Z</updated>
+    <updated>2022-09-12T06:32:08.000Z</updated>
     <summary type="html"><![CDATA[<h1 id="nushell-0-67" tabindex="-1"> Nushell 0.67</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
 <p>Today, we're releasing version 0.67 of Nu. This is release includes a new variable naming convention, improvements to module imports and file sourcing, and more.</p>

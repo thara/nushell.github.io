@@ -6,8 +6,8 @@
     <link>https://www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Sun, 11 Sep 2022 09:07:51 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Sep 2022 09:07:51 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 06:40:31 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 06:40:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -302,7 +302,7 @@ Therefore, we felt like <code>hide</code> is a better word to match this functio
 <li>rgwood created <a href="https://github.com/nushell/nushell.github.io/pull/592" target="_blank" rel="noopener noreferrer">Add Homebrew PATH documentation</a></li>
 <li>sholderbach created <a href="https://github.com/nushell/nushell.github.io/pull/590" target="_blank" rel="noopener noreferrer">Update former question mark commands in docs</a></li>
 <li>chrjen created <a href="https://github.com/nushell/nushell.github.io/pull/589" target="_blank" rel="noopener noreferrer">Update types_of_data.md with missing values</a></li>
-<li>hustcer created <a href="https://github.com/nushell/nushell.github.io/pull/588" target="_blank" rel="noopener noreferrer">Upgrade vuepress and all related plugins to improve build performance</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/587" target="_blank" rel="noopener noreferrer">Upgrade all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/586" target="_blank" rel="noopener noreferrer">Upgrade  all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/585" target="_blank" rel="noopener noreferrer">Try to fix deploy of docs by downgrade some plugins</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/582" target="_blank" rel="noopener noreferrer">lock vuepress and plugins version to fix ci</a></li>
+<li>hustcer created <a href="https://github.com/nushell/nushell.github.io/pull/588" target="_blank" rel="noopener noreferrer">Upgrade vuepress and all related plugins to improve build performance</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/587" target="_blank" rel="noopener noreferrer">Upgrade all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/586" target="_blank" rel="noopener noreferrer">Upgrade all vuepress plugins and fix doc search navigation by pressing <code>enter</code> key</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/585" target="_blank" rel="noopener noreferrer">Try to fix deploy of docs by downgrade some plugins</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/582" target="_blank" rel="noopener noreferrer">lock vuepress and plugins version to fix ci</a></li>
 <li>fdncred created <a href="https://github.com/nushell/nushell.github.io/pull/584" target="_blank" rel="noopener noreferrer">update to ubuntu-latest</a>, and <a href="https://github.com/nushell/nushell.github.io/pull/583" target="_blank" rel="noopener noreferrer">change from deprecated version of ubuntu</a></li>
 <li>pedromfedricci created <a href="https://github.com/nushell/nushell.github.io/pull/580" target="_blank" rel="noopener noreferrer">Update accepted types for signatures</a></li>
 <li>Yethal created <a href="https://github.com/nushell/nushell.github.io/pull/579" target="_blank" rel="noopener noreferrer">Add wrap-around merge</a></li>
