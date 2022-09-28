@@ -6,8 +6,8 @@
     <link>https://www.nushell.sh/</link>
     <description>A new type of shell.</description>
     <language>English</language>
-    <pubDate>Wed, 28 Sep 2022 05:48:11 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Sep 2022 05:48:11 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 06:01:10 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 06:01:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -17,12 +17,12 @@
       <source url="https://www.nushell.sh/rss.xml">Nushell 0.69</source>
       <description> Nushell 0.69
 Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.
-Today, we're releasing version 0.69 of Nu.
+Today, we're releasing version 0.69 of Nu. This release includes bugfixes and improvements to existing languages.
 </description>
       <pubDate>Wed, 28 Sep 2022 05:40:10 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="nushell-0-69" tabindex="-1"> Nushell 0.69</h1>
 <p>Nushell, or Nu for short, is a new shell that takes a modern, structured approach to your commandline. It works seamlessly with the data from your filesystem, operating system, and a growing number of file formats to make it easy to build powerful commandline pipelines.</p>
-<p>Today, we're releasing version 0.69 of Nu.</p>
+<p>Today, we're releasing version 0.69 of Nu. This release includes bugfixes and improvements to existing languages.</p>
 
 <h1 id="where-to-get-it" tabindex="-1"> Where to get it</h1>
 <p>Nu 0.69 is available as <a href="https://github.com/nushell/nushell/releases/tag/0.69.1" target="_blank" rel="noopener noreferrer">pre-built binaries</a> or from <a href="https://crates.io/crates/nu" target="_blank" rel="noopener noreferrer">crates.io</a>. Note: this release is officially &quot;0.69.1&quot; because of a last-minute issue that was found and fixed. If you have Rust installed you can install it using <code>cargo install nu</code>.</p>
